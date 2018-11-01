@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1541085441 "tesi.tex" "tesi.pdf" "tesi" 1541085442
+["pdflatex"] 1541085923 "tesi.tex" "tesi.pdf" "tesi" 1541085923
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -30,15 +30,15 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1535076666 32752 ce45b90d2fda49befaa367e6f5986072 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1540139557 2885931 54a0ba4e594f83ea336338297f8ab976 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1540456090 4219518 1b8a86b57f79234952caeeaf635f1ff8 ""
-  "tesi.aux" 1541085442 111 d892bff667e16561873e642d4c37c5fa ""
-  "tesi.tex" 1541085441 1343 7e64be45fb30009568b98570930ceed4 ""
-  "tesi.toc" 1541085442 87 520937fbef00c8621f63126a4831547f ""
+  "tesi.aux" 1541085923 111 d892bff667e16561873e642d4c37c5fa ""
+  "tesi.tex" 1541085923 1457 94ad9c5ed735001f7c333bdfb574209d ""
+  "tesi.toc" 1541085923 87 520937fbef00c8621f63126a4831547f ""
   (generated)
-  "tesi.pdf"
-  "tesi.aux"
-  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
-  "tesi.lof"
-  "tesi.lot"
-  "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
   "tesi.toc"
   "tesi.log"
+  "tesi.lot"
+  "tesi.pdf"
+  "tesi.lof"
+  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
+  "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
+  "tesi.aux"
