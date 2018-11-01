@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  31 OCT 2018 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  1 NOV 2018 15:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,19 +6,20 @@ entering extended mode
 **tesi.tex
 (./tesi.tex
 LaTeX2e <2018-04-01> patch level 5
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -30,20 +31,20 @@ File: switch.def 2018/06/05 3.22 Babel switching mechanism
 Language: italian 2015/03/26 v1.3n Italian support from the babel system
  (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2018/06/05 3.22 Babel common definitions
-\babel@savecnt=\count88
+\babel@savecnt=\count89
 \U@D=\dimen103
  (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count89
+\bbl@dirlevel=\count90
 )
-\it@lettering=\count90
-\it@doublequoteactive=\count91
-\it@ISOcompliance=\count92
+\it@lettering=\count91
+\it@doublequoteactive=\count92
+\it@ISOcompliance=\count93
 )) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count93
+\etb@tempcnta=\count94
 ) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count94
+\c@float@type=\count95
 \float@exts=\toks14
 \float@box=\box26
 \@float@everytoks=\toks15
@@ -90,31 +91,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 16.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./tesi.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 4.
-)
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [0
+
+] (./tesi.toc)
 \tf@toc=\write3
 \openout3 = `tesi.toc'.
 
- [1] [2] (./tesi.aux) ) 
+ [1] [1
+
+] (./tesi.aux) ) 
 Here is how much of TeX's memory you used:
- 1188 strings out of 492641
- 14520 string characters out of 6131786
- 87394 words of memory out of 5000000
- 5122 multiletter control sequences out of 15000+600000
- 8808 words of font info for 31 fonts, out of 8000000 for 9000
+ 1191 strings out of 492641
+ 14533 string characters out of 6131786
+ 87833 words of memory out of 5000000
+ 5130 multiletter control sequences out of 15000+600000
+ 6108 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,23p,787b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,23p,787b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on tesi.pdf (3 pages, 35219 bytes).
+Output written on tesi.pdf (4 pages, 31854 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
