@@ -2,3 +2,4 @@
 \babel@toc {italian}{}
 \contentsline {section}{\numberline {1}Introduzione al Morbo d'Alzheimer}{1}
 \contentsline {subsection}{\numberline {1.1}L'Importanza della Ricerca}{1}
+\contentsline {subsection}{\numberline {1.2}L'Ipotesi della Cascata Amiloidica}{2}

@@ -7,49 +7,60 @@ Warning--entry type for "noauthor_world_2018" isn't style-file defined
 --line 83 of file biblio.bib
 Warning--entry type for "american_psychiatric_association_diagnostic_2013" isn't style-file defined
 --line 109 of file biblio.bib
+Warning--entry type for "lennarz_encyclopedia_2004" isn't style-file defined
+--line 154 of file biblio.bib
 Warning--to sort, need author or key in american_psychiatric_association_diagnostic_2013
 Warning--to sort, need author or key in noauthor_world_2018
+Warning--to sort, need author or key in lennarz_encyclopedia_2004
+Warning--empty journal in brothers_physiological_2018
+Warning--empty year in brothers_physiological_2018
+Warning--empty journal in goedert_century_2006
+Warning--empty year in goedert_century_2006
+Warning--empty journal in irvine_protein_2008
+Warning--empty year in irvine_protein_2008
+Warning--empty journal in mattson_cellular_1997
+Warning--empty year in mattson_cellular_1997
 Warning--empty journal in todd_survival_2013
 Warning--empty year in todd_survival_2013
-You've used 3 entries,
+You've used 8 entries,
             2118 wiz_defined-function locations,
-            511 strings with 4482 characters,
-and the built_in function-call counts, 738 in all, are:
-= -- 65
-> -- 25
+            541 strings with 5311 characters,
+and the built_in function-call counts, 2270 in all, are:
+= -- 212
+> -- 87
 < -- 0
-+ -- 11
-- -- 8
-* -- 51
-:= -- 106
-add.period$ -- 6
-call.type$ -- 3
-change.case$ -- 13
++ -- 38
+- -- 28
+* -- 172
+:= -- 347
+add.period$ -- 22
+call.type$ -- 8
+change.case$ -- 38
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 25
-empty$ -- 76
-format.name$ -- 8
-if$ -- 157
+cite$ -- 21
+duplicate$ -- 76
+empty$ -- 204
+format.name$ -- 28
+if$ -- 465
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 1
-newline$ -- 15
-num.names$ -- 2
-pop$ -- 24
+int.to.str$ -- 8
+missing$ -- 5
+newline$ -- 41
+num.names$ -- 10
+pop$ -- 59
 preamble$ -- 1
-purify$ -- 10
+purify$ -- 30
 quote$ -- 0
-skip$ -- 26
+skip$ -- 61
 stack$ -- 0
-substring$ -- 46
-swap$ -- 2
+substring$ -- 163
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
-warning$ -- 4
-while$ -- 4
-width$ -- 4
-write$ -- 23
-(There were 6 warnings)
+type$ -- 32
+warning$ -- 13
+while$ -- 19
+width$ -- 9
+write$ -- 70
+(There were 16 warnings)
