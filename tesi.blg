@@ -17,48 +17,49 @@ Warning--empty journal in dries_extracting_2012
 Warning--empty journal in goedert_century_2006
 Warning--empty journal in irvine_protein_2008
 Warning--empty journal in kepp_bioinorganic_2012
+Warning--empty journal in kumar_review_2015
 Warning--empty journal in lillis_beyond_2005
 Warning--empty journal in mattson_cellular_1997
 Warning--empty journal in todd_survival_2013
-You've used 11 entries,
+You've used 12 entries,
             2253 wiz_defined-function locations,
-            589 strings with 5643 characters,
-and the built_in function-call counts, 3116 in all, are:
-= -- 322
-> -- 124
+            595 strings with 5807 characters,
+and the built_in function-call counts, 3458 in all, are:
+= -- 359
+> -- 141
 < -- 0
-+ -- 55
-- -- 42
-* -- 202
-:= -- 508
-add.period$ -- 33
-call.type$ -- 11
-change.case$ -- 54
++ -- 63
+- -- 48
+* -- 226
+:= -- 567
+add.period$ -- 37
+call.type$ -- 12
+change.case$ -- 60
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 85
-empty$ -- 244
-format.name$ -- 42
-if$ -- 629
+cite$ -- 24
+duplicate$ -- 93
+empty$ -- 265
+format.name$ -- 48
+if$ -- 695
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 8
-newline$ -- 58
-num.names$ -- 16
-pop$ -- 63
+int.to.str$ -- 12
+missing$ -- 9
+newline$ -- 64
+num.names$ -- 18
+pop$ -- 68
 preamble$ -- 1
-purify$ -- 43
+purify$ -- 48
 quote$ -- 0
-skip$ -- 61
+skip$ -- 65
 stack$ -- 0
-substring$ -- 271
-swap$ -- 11
+substring$ -- 302
+swap$ -- 12
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 44
-warning$ -- 11
-while$ -- 31
-width$ -- 13
-write$ -- 101
-(There were 14 warnings)
+type$ -- 48
+warning$ -- 12
+while$ -- 35
+width$ -- 14
+write$ -- 112
+(There were 15 warnings)

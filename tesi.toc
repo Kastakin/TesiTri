@@ -4,3 +4,6 @@
 \contentsline {subsection}{\numberline {1.1}L'Importanza della Ricerca}{1}
 \contentsline {subsection}{\numberline {1.2}$\beta $-Amiloidi e Placche Amiloidiche}{2}
 \contentsline {section}{\numberline {2}Strategie d'Intervento}{6}
+\contentsline {section}{\numberline {3}Resveratolo}{7}
+\contentsline {section}{\numberline {4}Curcumina}{7}
+\contentsline {section}{\numberline {5}Leganti Bipiridinici}{7}
