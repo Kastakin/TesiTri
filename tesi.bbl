@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{american_psychiatric_association_diagnostic_2013}
 Diagnostic and statistical manual of mental disorders: {DSM}-5.
@@ -10,35 +10,53 @@ Encyclopedia of biological chemistry.
 World alzheimer report 2018 {\textbar} alzheimer's disease international.
 
 \bibitem{brothers_physiological_2018}
-Holly~M. Brothers, Maya~L. Gosztyla, and Stephen~R. Robinson.
+{\sc Brothers, H.~M., Gosztyla, M.~L., and Robinson, S.~R.}
 \newblock The physiological roles of amyloid-beta peptide hint at new ways to
   treat alzheimer's disease.
-\newblock 10:118.
+\newblock 118.
 \newblock {WOS}:000430859600001.
 
+\bibitem{dries_extracting_2012}
+{\sc Dries, D.~R., Yu, G., and Herz, J.}
+\newblock Extracting beta-amyloid from alzheimer's disease.
+\newblock 3199--3200.
+\newblock {WOS}:000300828200011.
+
 \bibitem{goedert_century_2006}
-Michel Goedert and Maria~Grazia Spillantini.
+{\sc Goedert, M., and Spillantini, M.~G.}
 \newblock A century of alzheimer's disease.
-\newblock 314(5800):777--781.
+\newblock 777--781.
 \newblock {WOS}:000241729800034.
 
 \bibitem{irvine_protein_2008}
-G.~Brent Irvine, Omar~M. El-Agnaf, Ganesh~M. Shankar, and Dominic~M. Walsh.
+{\sc Irvine, G.~B., El-Agnaf, O.~M., Shankar, G.~M., and Walsh, D.~M.}
 \newblock Protein aggregation in the brain: The molecular basis for alzheimer's
   and parkinson's diseases.
-\newblock 14(7):451--464.
+\newblock 451--464.
 \newblock {WOS}:000257727000012.
 
+\bibitem{kepp_bioinorganic_2012}
+{\sc Kepp, K.~P.}
+\newblock Bioinorganic chemistry of alzheimer’s disease.
+\newblock 5193--5239.
+
+\bibitem{lillis_beyond_2005}
+{\sc Lillis, A.~P., Mikhailenko, I., and Strickland, D.~K.}
+\newblock Beyond endocytosis: {LRP} function in cell migration, proliferation
+  and vascular permeability.
+\newblock 1884--1893.
+\newblock {WOS}:000230776000039.
+
 \bibitem{mattson_cellular_1997}
-M.~P. Mattson.
+{\sc Mattson, M.~P.}
 \newblock Cellular actions of beta-amyloid precursor protein and its soluble
   and fibrillogenic derivatives.
-\newblock 77(4):1081--1132.
+\newblock 1081--1132.
 
 \bibitem{todd_survival_2013}
-Stephen Todd, Stephen Barr, Mark Roberts, and A.~Peter Passmore.
+{\sc Todd, S., Barr, S., Roberts, M., and Passmore, A.~P.}
 \newblock Survival in dementia and predictors of mortality: a review.
-\newblock 28(11):1109--1124.
+\newblock 1109--1124.
 \newblock {WOS}:000325368600002.
 
 \end{thebibliography}
