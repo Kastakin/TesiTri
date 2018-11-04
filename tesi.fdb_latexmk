@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex tesi"] 1541354476 "tesi.aux" "tesi.bbl" "tesi" 1541354480
+["bibtex tesi"] 1541356123 "tesi.aux" "tesi.bbl" "tesi" 1541356128
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/acm.bst" 1480098433 21064 c61a48664f3c347ce7f73c1a6a530506 ""
   "biblio.bib" 1541343278 33096 3c2dbbcaaa829c7e67cd43de9f2ad732 ""
-  "tesi.aux" 1541354480 3229 8241243cdbc745f9f25d74ab25cc7012 ""
+  "tesi.aux" 1541356128 3466 61dda9b52090b4742cb896bf8888f605 ""
   (generated)
-  "tesi.bbl"
   "tesi.blg"
-["pdflatex"] 1541354476 "tesi.tex" "tesi.pdf" "tesi" 1541354480
+  "tesi.bbl"
+["pdflatex"] 1541356124 "tesi.tex" "tesi.pdf" "tesi" 1541356128
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -85,16 +85,16 @@
   "immagini/bpy.png" 1541340552 12240 d8056bb4f3bb8c153130db405ffe61c8 ""
   "immagini/bpy_mod.PNG" 1541345081 198541 a5c008555a5e3590516fcfdeae0d89c6 ""
   "immagini/rea_g.png" 1541353326 65762 b191d0638bf93b566340f6d6e6bf2006 ""
-  "tesi.aux" 1541354480 3229 8241243cdbc745f9f25d74ab25cc7012 ""
-  "tesi.bbl" 1541354476 3159 1413e828929e4516f4d82e347e734e14 "bibtex tesi"
-  "tesi.tex" 1541354472 13842 dbb5178869bedb100d62ef6dd5a3618f ""
-  "tesi.toc" 1541354480 641 ea409298f79cc1c7a05f7c48c17ee9e9 ""
+  "tesi.aux" 1541356128 3466 61dda9b52090b4742cb896bf8888f605 ""
+  "tesi.bbl" 1541356124 3159 1413e828929e4516f4d82e347e734e14 "bibtex tesi"
+  "tesi.tex" 1541356120 14992 91d9118d5e608b100b43ed6d9e107751 ""
+  "tesi.toc" 1541356128 842 e5fc37f7f854097304989b52a9106211 ""
   (generated)
   "tesi.lot"
   "tesi.aux"
-  "tesi.lof"
-  "tesi.pdf"
-  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
-  "tesi.toc"
   "tesi.log"
   "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
+  "tesi.lof"
+  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
+  "tesi.pdf"
+  "tesi.toc"
