@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex tesi"] 1541245890 "tesi.aux" "tesi.bbl" "tesi" 1541246013
+["bibtex tesi"] 1541245890 "tesi.aux" "tesi.bbl" "tesi" 1541325949
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/acm.bst" 1480098433 21064 c61a48664f3c347ce7f73c1a6a530506 ""
   "biblio.bib" 1541245082 22125 0f76d26d687f00ba3fc3692dc0cc672e ""
-  "tesi.aux" 1541246012 2134 46f8640bafcdb6c99570de8f18e5ae0b ""
+  "tesi.aux" 1541325948 2134 46f8640bafcdb6c99570de8f18e5ae0b ""
   (generated)
   "tesi.blg"
   "tesi.bbl"
-["pdflatex"] 1541246012 "tesi.tex" "tesi.pdf" "tesi" 1541246013
+["pdflatex"] 1541325948 "tesi.tex" "tesi.pdf" "tesi" 1541325949
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -63,16 +63,16 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1540456090 4219518 1b8a86b57f79234952caeeaf635f1ff8 ""
   "immagini/APP.png" 1541150919 26950 4bad628b8febcc5e14c7ffd4cb9f8a35 ""
   "immagini/bbb.PNG" 1536149010 30458 1ae4397fbc5548b7c14172dee50d47dc ""
-  "tesi.aux" 1541246012 2134 46f8640bafcdb6c99570de8f18e5ae0b ""
+  "tesi.aux" 1541325948 2134 46f8640bafcdb6c99570de8f18e5ae0b ""
   "tesi.bbl" 1541245891 2231 7e7e8ac6c2eacabc547e722231a312f1 "bibtex tesi"
-  "tesi.tex" 1541246012 9659 2e1d1bb67803c9bc83d9957442dbbd8a ""
-  "tesi.toc" 1541246012 524 becb980152e31964ab17bba46a5e2707 ""
+  "tesi.tex" 1541325948 9684 94d3b84032ba5b8b505979c6a90b0971 ""
+  "tesi.toc" 1541325948 524 becb980152e31964ab17bba46a5e2707 ""
   (generated)
-  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
-  "tesi.aux"
-  "tesi.log"
-  "tesi.pdf"
-  "tesi.lot"
-  "tesi.toc"
   "tesi.lof"
   "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
+  "tesi.aux"
+  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
+  "tesi.lot"
+  "tesi.log"
+  "tesi.pdf"
+  "tesi.toc"
