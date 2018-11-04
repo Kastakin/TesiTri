@@ -16,6 +16,22 @@ World alzheimer report 2018 {\textbar} alzheimer's disease international.
 \newblock 118.
 \newblock {WOS}:000430859600001.
 
+\bibitem{derrick_importance_2016}
+{\sc Derrick, J.~S., Kerr, R.~A., Korshavn, K.~J., {McLane}, M.~J., Kang, J.,
+  Nam, E., Ramamoorthy, A., Ruotolo, B.~T., and Lim, M.~H.}
+\newblock Importance of the dimethylamino functionality on a multifunctional
+  framework for regulating metals, amyloid-beta, and oxidative stress in
+  alzheimer's disease.
+\newblock 5000--5013.
+\newblock {WOS}:000376144000035.
+
+\bibitem{di_high_2003}
+{\sc Di, L., Kerns, E.~H., Fan, K., {McConnell}, O.~J., and Carter, G.~T.}
+\newblock High throughput artificial membrane permeability assay for
+  blood-brain barrier.
+\newblock 223--232.
+\newblock {WOS}:000182417600001.
+
 \bibitem{dries_extracting_2012}
 {\sc Dries, D.~R., Yu, G., and Herz, J.}
 \newblock Extracting beta-amyloid from alzheimer's disease.
@@ -59,6 +75,13 @@ World alzheimer report 2018 {\textbar} alzheimer's disease international.
 \newblock Cellular actions of beta-amyloid precursor protein and its soluble
   and fibrillogenic derivatives.
 \newblock 1081--1132.
+
+\bibitem{savelieff_ongoing_2014}
+{\sc Savelieff, M.~G., {DeToma}, A.~S., Derrick, J.~S., and Lim, M.~H.}
+\newblock The ongoing search for small molecules to study metal-associated
+  amyloid-beta species in alzheimer's disease.
+\newblock 2475--2482.
+\newblock {WOS}:000340702000025.
 
 \bibitem{todd_survival_2013}
 {\sc Todd, S., Barr, S., Roberts, M., and Passmore, A.~P.}

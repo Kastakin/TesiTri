@@ -49,6 +49,7 @@ Stando a queste previsioni 1'individuo su 85 nel 2050 sarà affetto da demenza.
 L'individuazione delle cause che portano al presentarsi dell'AD è uno dei punti salienti della ricerca in campo medico e biochimico, sono state portate avanti molte ipotesi a riguardo. Al momento una delle tesi più avvalorate e studiate è quella della formazione di aggregati proteici nel liquido cerebrospinale.
 
 \subsection{$\beta$-Amiloidi e Placche Amiloidiche}
+\label{sec:ab}
 Con il termine $\beta$-amiloide (A$\beta$) si indica un frammento proteico insolubile non ramificato, il nome è dovuto al fatto che al momento della scoperta, viste le sue proprietà si pensò in ad una similitudine con le molecole d'amido benchè dal punto di vista della composizione chimica non ci siano particolari somiglianze.\cite{lennarz_encyclopedia_2004}
 
 L'origine di queste strutture è legata all'azione congiunta di tre enizmi ($\alpha$-secretasi,$\beta$-secretasi e $\gamma$-secretasi) su di un substrato proteico noto come APP (Amyloid Precursor Protein). L'APP è una proteina trans-membrana di modeste dimensioni (circa 700 residui), viene trasportata lungo l'assone delle cellule neuronali e il suo accumulo è focalizzato nei siti presinaptici. Il suo rilascio è regolato dall'attività elettrica cerebrale, si suppone infatti che abbia un ruolo fondamentale nella regolazione dell'eccitabilità neuronale.\cite{mattson_cellular_1997}
@@ -111,11 +112,34 @@ La discussione verterà in particolare attorno a due composti la cui azione potr
 
 \section{Leganti Bipiridinici}
 \label{sec:byp}
+Andiamo ora a considerare una classe di composti la cui azione non è legata alla regolazione dell'attività ormonale ma ad una mitigazione del fenomeno d'aggregazione in placche dei A$\beta$. Come presentato nella Sezione \ref{sec:ab} uno dei meccanismi di aggregazione considerati alla base della formazione degli agglomerati proteici neurotossici prevede che il formarsi di un complesso tra metalli in concentrazioni sopra la norma nel liquido cerebrospinale e i A$\beta$ stessi.
 
-vrmnte
+L'idea alla base di un trattamento agente su questo meccanismo prevede una diminuzione dei metalli biodisponibili attraverso una chelazione degli stessi per mezzo di leganti organici.
+
+\subsection{Le Molecole}
+Per progettare una molecola in grado di svolgere il compito appena descritto occorrerà che questa soddisfi alcuni criteri:
+\begin{enumerate}
+	\item Capacità di complessare il metallo d'interesse.
+	\item Costanti d'equilibrio elevate per quanto riguarda la forma complessata.
+	\item Buona solubilità in ambiente acquoso, in modo da permettere la diffusione del composto all'interno del corpo.
+	\item Buona permeabilità della barriera emato-encefalica, un composto che non soddisfi questo criterio avrà difficoltà ad essere trasferito nel liquido cerebrospinale.
+\end{enumerate}
+Una classe di composti le cui propietà soddisfano i criteri appena presentati è quella dei composti Bipiridinici (Figura \ref{fig:bpy}).
+Questi presentano una chelazione rapida, ovvero con k\textsubscript{f} nei confronti dei metalli d'interesse (Cu(II) e Zn(II)) di circa 7.0, grazie alla chelazione dell'atomo metallico da parte degli atomi d'azoto nei due eterocicli. Inoltre la solubilità in medium acquosi è relativamente buona, stiamo parlando di circa 5,9 mg/mL; infine le dimensioni ridotte permettono una buona diffusione nel sistema nervoso permeando attravero la barriera emato-encefalica con discreta facilità (i valori di permeabilità possono essere stimati attraverso le regole empiriche di Lipinski o attraverso test in vitro\cite{di_high_2003}).
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.5\linewidth]{immagini/bpy.png}
+	\caption{Un generico composto appartenente alla classe delle Bipiridine.}
+	\label{fig:bpy}
+\end{figure}
+Lo scheletro bipiridinico ben si presta ad un approccio razionale nella sinstesi di composti interessanti dal punto di vista biomedico.
+L'introduzione di gruppi dimetilamminici favorisce un'interazione con i A$\beta$ e per la sua influenza sul legame metallico come suggerito da alcune evidenze sperimentali. Similmente l'uso di un sostituente metilico permette un megliore effetto elettrodonatore da parte egli eteroatomi nei cicli e un controllo sterico sui possibili orientamenti con cui la molecola bipiridinica può interagire con il metallo. \cite{derrick_importance_2016,savelieff_ongoing_2014}
+
+
 
 
 \newpage
+
 
 \bibliographystyle{acm}
 \bibliography{biblio.bib}

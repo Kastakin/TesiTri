@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  4 NOV 2018 11:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  4 NOV 2018 16:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -162,15 +162,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <immagini/APP.png, id=19, 205.0059pt x 95.3964pt>
 File: immagini/APP.png Graphic file (type png)
 <use immagini/APP.png>
-Package pdftex.def Info: immagini/APP.png  used on input line 58.
+Package pdftex.def Info: immagini/APP.png  used on input line 59.
 (pdftex.def)             Requested size: 390.0pt x 181.48497pt.
  [3 <./immagini/APP.png>]
 <immagini/bbb.png, id=25, 353.82187pt x 241.65282pt>
 File: immagini/bbb.png Graphic file (type png)
 <use immagini/bbb.png>
-Package pdftex.def Info: immagini/bbb.png  used on input line 78.
+Package pdftex.def Info: immagini/bbb.png  used on input line 79.
 (pdftex.def)             Requested size: 390.0pt x 266.36464pt.
- [4] [5 <./immagini/bbb.PNG>] [6] [7] (./tesi.bbl
+ [4] [5 <./immagini/bbb.PNG>] [6] [7]
+<immagini/bpy.png, id=41, 597.432pt x 284.262pt>
+File: immagini/bpy.png Graphic file (type png)
+<use immagini/bpy.png>
+Package pdftex.def Info: immagini/bpy.png  used on input line 131.
+(pdftex.def)             Requested size: 195.0pt x 92.7831pt.
+ [8] [9 <./immagini/bpy.png>] (./tesi.bbl
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -178,20 +184,20 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
- [8]) [9] (./tesi.aux) ) 
+ [10]) [11] (./tesi.aux) ) 
 Here is how much of TeX's memory you used:
- 2444 strings out of 492641
- 33451 string characters out of 6131786
- 110320 words of memory out of 5000000
- 6303 multiletter control sequences out of 15000+600000
+ 2454 strings out of 492641
+ 33621 string characters out of 6131786
+ 110353 words of memory out of 5000000
+ 6312 multiletter control sequences out of 15000+600000
  9109 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,25p,790b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,25p,790b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on tesi.pdf (11 pages, 137102 bytes).
+Output written on tesi.pdf (13 pages, 150915 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
