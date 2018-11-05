@@ -148,6 +148,9 @@ INPUT ./immagini/stille.png
 INPUT immagini/ris_bpy.png
 INPUT ./immagini/ris_bpy.png
 INPUT ./immagini/ris_bpy.png
+INPUT immagini/ris_bpy2.png
+INPUT ./immagini/ris_bpy2.png
+INPUT ./immagini/ris_bpy2.png
 INPUT tesi.bbl
 INPUT tesi.bbl
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd

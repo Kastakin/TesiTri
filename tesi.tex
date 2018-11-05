@@ -73,7 +73,7 @@ La produzione di $\beta$ in piccole quantità é un processo normale; delle funz
 	\item Regolazione dell'attività sinaptica.
 \end{enumerate}
 
-Malgrado i benefici per l'organismo una sovrapproduzione di A$\beta$ o una sproporzione verso la forma contenente 42 residui associata ad uno smalitmento non efficacie sembra essere una causa sufficiente per lo sviluppo precoce del Morbo d’Alzheimer. \cite{irvine_protein_2008}
+Malgrado i benefici per l'organismo una sovrapproduzione di A$\beta$ o una sproporzione verso la forma contenente 42 residui associata ad uno smalitmento non efficace sembra essere una causa sufficiente per lo sviluppo precoce del Morbo d’Alzheimer. \cite{irvine_protein_2008}
 La demolizione avviene sia direttamente nel cervello, come abbiamo infatti visto l'$\alpha$-secretasi effettivamente rende innocui i frammenti amiloidici scindendoli in due porzioni inerti; ma una gran parte di essa è delegata ad enzimi demolitori presenti nel fegato. La diffusione del frammento proteico insolubile è regolata dal recettore proteico LRP1 il cui processo di endocitosi è contrastato dall'azione del recettore antagonista RAGE (Figura \ref{fig:bbb}).\cite{lillis_beyond_2005, dries_extracting_2012}
 
 \begin{figure}[H]
@@ -119,6 +119,7 @@ Andiamo ora a considerare una classe di composti la cui azione non è legata all
 L'idea alla base di un trattamento agente su questo meccanismo prevede una diminuzione dei metalli biodisponibili attraverso una chelazione degli stessi per mezzo di leganti organici.
 
 \subsection{Le Molecole}
+\label{sec:bpy_mol}
 Per progettare una molecola in grado di svolgere il compito appena descritto occorrerà che questa soddisfi alcuni criteri:
 \begin{enumerate}
 	\item Capacità di complessare il metallo d'interesse.
@@ -204,14 +205,38 @@ Dal punto di vista operativo il processo di sintesi prosegue a partire dal prodo
 \end{center}
 
 \subsection{Effetti delle Molecole Sintetizzate sui A$\beta$}
-L'efficacia dei composti ottenuti rispetto all'aggregazione dei A$\beta$ e stata quantificata attraverso esperimenti in vitro, i risultati sono riportati nella Figura \ref{fig:ris_bpy}.
+L'efficacia dei composti ottenuti rispetto all'aggregazione dei A$\beta$ e stata quantificata attraverso esperimenti in vitro, i risultati sono riportati nella Figura \ref{fig:ris_bpy} per quanto riguarda l'azione in presenza di A$\beta$-40 e nella Figura \ref{fig:ris_bpy2} per il caso di A$\beta$-42.
 
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\linewidth]{immagini/ris_bpy.png}
-	\caption{}
+	\caption{(a) schematica rappresentazione della metodologia di sperimentazione; (b) corse elettroforetiche per la visualizzazione della dimensionalità delle specie A$\beta$\-40 e A$\beta$\-42 per mezzo di tecnica immunofissativa \cite{kurien_western_2006}; (c) immagini ottenute al microscopio elettronico a trasmissione (TEM) dai campioni incubati per 24 ore. C=A$\beta$+M, B=C+bpy, 1=C+1, 2=C+2, 3=C+3, 4=C+4 }
 	\label{fig:ris_bpy}
 \end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\linewidth]{immagini/ris_bpy2.png}
+	\caption{(a) schematica rappresentazione della metodologia di sperimentazione; (b) immagini ottenute al microscopio elettronico a trasmissione (TEM) dai campioni incubati per 24 ore. C=A$\beta$+M, B=C+bpy, 1=C+1, 2=C+2, 3=C+3, 4=C+4 }
+	\label{fig:ris_bpy2}
+\end{figure}
+
+Dalle corse elettroforetiche mostrate in Figura \ref{fig:ris_bpy}, sezione (b), si osservi come la dimensione degli aggregati proteici tenda a diminuire in presenza dei composti sintetizzati agenti su soluzioni contenenti ioni metallici, mentre in assenza di centro di nucleazione metallico non vi siano apprezzabili effetti di mitigazione dell'accrescimento della placca. Questo è un dato aspettato, i composti progettati hanno infatti lo specifico compito di chelare metalli per diminuire il fenomeno d'aggregazione, logico quindi osservare come in assenza di ioni non vi siano benefici evidenti.
+
+Soffermandoci sui sulle immagine ottenute al TEM possiamo vedere come l'azione del semplice scheletro bipiridinico (bpy) modifichi l'aggregazione in presenza di Cu(II) ma non abbia evidenti effetti se confrontata con il campione C in presenza di Zn(II). I composti sintetizzati senza gruppo metilico (1) e quelli con il gruppo metilico in posizioni Meta o Para (2 e 3) hanno invece inibito la formazione di conglomerati di A$\beta$\-40 e A$\beta$\-42 sia in presenza di Cu(II) sia di Zn(II).
+
+Il composto 4, ovvero quello con il gruppo metilico in posizione Orto non ha alterato l’aggregazione dei filamenti proteici in nessuna delle situazioni ricreate in vitro. Si tratta di un risultato atteso in quanto l’ingombro sterico del gruppo \ce{CH3} impedisce la chelazione del metallo libero che può quindi risulta disponibile come centro di nucleazione.
+
+Benché le molecole sintetizzate risultino efficaci nella chelazione dei metalli liberi responsabili dell’accrescimento dei grumi di A$\beta$ e che la loro capacità di permeare la barriera necessaria per entrare in circolazione nel liquido cerebrospinale sia confermata da evidenze scientifiche (come già evidenziato nella Sezione \ref{sec:bpy_mol}), un test della tossicità su cellule di tipo Y5 ha evidenziato livelli notevoli di citotossicità in situazioni ci concentrazioni millimolari di Rame(II), stimolando quindi Apoptosi neuronale e vanificando quindi la possibilità di un'azione diretta come farmaco dei composti in questione.
+
+È comunque importante considerare i risultati ottenuti, si è infatti osservato come la diminuzione degli ioni metalli biodisponibili sia un metodo efficace (almeno in vitro) per limitare l'aggregazione in fibrille dei A$\beta$ e che quindi la ricerca di composti la cui tossicità per l'organismo sia inferiore pur mantenendo simili proprietà possa essere una via promettente per il futuro. \cite{ji_strategic_2017}
+
+
+
+
+\newpage
+
+
 
 
 \bibliographystyle{acm}

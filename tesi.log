@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  4 NOV 2018 23:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  5 NOV 2018 10:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -468,21 +468,21 @@ Package pdftex.def Info: immagini/bbb.png  used on input line 81.
 <immagini/bpy.png, id=41, 597.432pt x 284.262pt>
 File: immagini/bpy.png Graphic file (type png)
 <use immagini/bpy.png>
-Package pdftex.def Info: immagini/bpy.png  used on input line 133.
+Package pdftex.def Info: immagini/bpy.png  used on input line 134.
 (pdftex.def)             Requested size: 117.00119pt x 55.66725pt.
  [8 <./immagini/bpy.png>]
 <immagini/bpy_mod.png, id=46, 304.9794pt x 125.5089pt>
 File: immagini/bpy_mod.png Graphic file (type png)
 <use immagini/bpy_mod.png>
-Package pdftex.def Info: immagini/bpy_mod.png  used on input line 144.
+Package pdftex.def Info: immagini/bpy_mod.png  used on input line 145.
 (pdftex.def)             Requested size: 390.0pt x 160.50143pt.
 <immagini/rea_g.png, id=47, 333.8874pt x 64.3203pt>
 File: immagini/rea_g.png Graphic file (type png)
 <use immagini/rea_g.png>
-Package pdftex.def Info: immagini/rea_g.png  used on input line 154.
+Package pdftex.def Info: immagini/rea_g.png  used on input line 155.
 (pdftex.def)             Requested size: 390.0pt x 75.13174pt.
  [9 <./immagini/bpy_mod.PNG>]
-Overfull \hbox (5.41396pt too wide) in paragraph at lines 163--164
+Overfull \hbox (5.41396pt too wide) in paragraph at lines 164--165
 []\OT1/cmr/m/n/12 La so-lu-zio-ne ^^Re trat-ta-ta con 4-dimetilamminopiridina (100 mg, 0.8 mmol),
  []
 
@@ -490,49 +490,82 @@ Overfull \hbox (5.41396pt too wide) in paragraph at lines 163--164
 <immagini/stille.png, id=57, 341.77687pt x 266.49562pt>
 File: immagini/stille.png Graphic file (type png)
 <use immagini/stille.png>
-Package pdftex.def Info: immagini/stille.png  used on input line 176.
+Package pdftex.def Info: immagini/stille.png  used on input line 177.
 (pdftex.def)             Requested size: 350.99762pt x 273.70467pt.
 
-Underfull \hbox (badness 1874) in paragraph at lines 177--177
+Underfull \hbox (badness 1874) in paragraph at lines 178--178
 []\OT1/cmr/m/n/12 Figura 6: Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-to
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 177--177
+Underfull \hbox (badness 1783) in paragraph at lines 178--178
 \OT1/cmr/m/n/12 in una rea-zio-ne di Stil-le. Nel ca-so in esa-me R$[]$=2-bromopiridina,
  []
 
 [11 <./immagini/stille.png>]
-Overfull \hbox (21.02664pt too wide) in paragraph at lines 185--186
+Overfull \hbox (21.02664pt too wide) in paragraph at lines 186--187
 []\OT1/cmr/m/n/12 Sotto at-mo-sfe-ra iner-te d'A-zo-to vie-ne ag-giun-to il ca-ta-liz-za-to-re $[][][][][][][][][][][]$
  []
 
-<immagini/ris_bpy.png, id=63, 183.3249pt x 174.8934pt>
+[12]
+<immagini/ris_bpy.png, id=66, 183.3249pt x 174.8934pt>
 File: immagini/ris_bpy.png Graphic file (type png)
 <use immagini/ris_bpy.png>
-Package pdftex.def Info: immagini/ris_bpy.png  used on input line 211.
+Package pdftex.def Info: immagini/ris_bpy.png  used on input line 212.
 (pdftex.def)             Requested size: 390.0pt x 372.08522pt.
-[12] (./tesi.bbl [13 <./immagini/ris_bpy.png>]
+<immagini/ris_bpy2.png, id=67, 175.6161pt x 114.9093pt>
+File: immagini/ris_bpy2.png Graphic file (type png)
+<use immagini/ris_bpy2.png>
+Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 219.
+(pdftex.def)             Requested size: 390.0pt x 255.21562pt.
+ [13 <./immagini/ris_bpy.png>] [14 <./immagini/ris_bpy2.png>] [15] (./tesi.bbl
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
- [14]) [15] (./tesi.aux) ) 
+ [16]
+
+./tesi.bbl:62: Package inputenc Error: Unicode character ′ (U+2032)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \newblock Strategic design of 2,2′
+                                         -bipyridine derivatives to modulate
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./tesi.bbl:63: Package inputenc Error: Unicode character β (U+3B2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63   metal–amyloid-β
+                          aggregation.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+) [17] (./tesi.aux) ) 
 Here is how much of TeX's memory you used:
- 13051 strings out of 492641
- 240119 string characters out of 6131786
- 307545 words of memory out of 5000000
- 16854 multiletter control sequences out of 15000+600000
+ 13063 strings out of 492641
+ 240320 string characters out of 6131786
+ 307574 words of memory out of 5000000
+ 16865 multiletter control sequences out of 15000+600000
  539279 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,16n,63p,790b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tesi.pdf (17 pages, 909192 bytes).
+Output written on tesi.pdf (19 pages, 1150120 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 119 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
