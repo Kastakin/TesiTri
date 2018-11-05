@@ -77,7 +77,8 @@ Malgrado i benefici per l'organismo una sovrapproduzione di A$\beta$ o una sprop
 La demolizione avviene sia direttamente nel cervello, come abbiamo infatti visto l'$\alpha$-secretasi effettivamente rende innocui i frammenti amiloidici scindendoli in due porzioni inerti; ma una gran parte di essa è delegata ad enzimi demolitori presenti nel fegato. La diffusione del frammento proteico insolubile è regolata dal recettore proteico LRP1 il cui processo di endocitosi è contrastato dall'azione del recettore antagonista RAGE (Figura \ref{fig:bbb}).\cite{lillis_beyond_2005, dries_extracting_2012}
 
 \begin{figure}[H]
-	\includegraphics[width=\linewidth]{immagini/bbb.png}
+	\centering
+	\includegraphics[width=.8\linewidth]{immagini/bbb.png}
 	\caption{Fenomeno di migrazione dei A$\beta$ attraverso la barriera emato-encefalica (BBB) verso il fegato ed effetto inverso legato al recettore RAGE).}
 	\label{fig:bbb}
 \end{figure}
@@ -129,7 +130,7 @@ Una classe di composti le cui propietà soddisfano i criteri appena presentati �
 Questi presentano una chelazione rapida, ovvero con k\textsubscript{f} nei confronti dei metalli d'interesse (Cu(II) e Zn(II)) di circa 7.0, grazie alla chelazione dell'atomo metallico da parte degli atomi d'azoto nei due eterocicli. Inoltre la solubilità in medium acquosi è relativamente buona, stiamo parlando di circa 5,9 mg/mL; infine le dimensioni ridotte permettono una buona diffusione nel sistema nervoso permeando attravero la barriera emato-encefalica con discreta facilità (i valori di permeabilità possono essere stimati attraverso le regole empiriche di Lipinski o attraverso test in vitro\cite{di_high_2003}).
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=.5\linewidth]{immagini/bpy.png}
+	\includegraphics[width=.3\linewidth]{immagini/bpy.png}
 	\caption{Un generico composto appartenente alla classe delle Bipiridine.}
 	\label{fig:bpy}
 \end{figure}
@@ -159,14 +160,58 @@ Il processo di sintesi utilizzato è riassunto in maniera sintetica nella Figura
 La reazione viene eseguita come segue:
 \begin{enumerate}
 	\item Ad una soluzione di 2-Dimetilaminoetanolo (146 mg, 1.64 mmol) in Esano (4 mL) a -5 $^\circ$C è aggiunto goccia a goccia una soluzione 2 M di \ce{n-BuLi} (1.7 mL, 3.28 mmol), si tiene in miscelazione per 30 minuti a 0 $^\circ$C sotto atmosfera d'azoto.
-	\item La soluzione è trattata con 4-dimetilamminopiridina (100 mg, 0.8 mmol), miscelata per un’ora a 0 $^\circ$ e poi raffreddata a -78 $^\circ$C.
+	\item La soluzione è trattata con 4-dimetilamminopiridina (100 mg, 0.8 mmol), miscelata per un’ora a 0 $^\circ$C e poi raffreddata a -78 $^\circ$C.
 	\item Dopo l'aggiunta del \ce{Bu3SnCl} (533 mg, 1.64 mmol) la miscela di reazione è mantenuta in agitazione per 1 ora alla temperatura di 0 $^\circ$C.
 	\item La reazione viene portata a termine con l'aggiunta di acqua, questa viene successivamente allontanata mediante un'estrazione in etere, il processo d'estrazione viene eseguito 3 volte. La soluzione estratta viene anidrificata con \ce{MgSO4}, filtrata e concentrata sotto vuoto.
 	\item Il prodotto viene purificato in colonna cromatografica usando come eluente Acetato d'Etile (\ce{EtOAc}).
 \end{enumerate}
 
 \subsubsection{Reazione di Stille per Formazione del Prodotto Finale}
+Il secondo step per l'ottenimento dei composti bipiridinici d'insteresse prevede una reazione di Stille, ovvero una reazione di cross-coupling palladio-catalizzata nel caso particolare preso in esame tra lo stannano ottenuto come prodotto dello step di reazione precedente e un alogenuro alchilico piridinico.\cite{clayden_organic_2012}
 
+Il processo catalitico generale è riportato in maniera schematica in Figura \ref{fig:stille}.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.9\linewidth]{immagini/stille.png}
+	\caption{Rappresentazione schematica del ciclo catalitico coinvolto in una reazione di Stille. Nel caso in esame R\textsuperscript{1}=2-bromopiridina, 2-bromo-4-metilpiridina, 2-bromo-5-metilpiridina, 2-bromo-6-metilpiridina R\textsuperscript{2}=N,N-dimetil-2-(tributilstannil)-piridin-4-ammina}
+	\label{fig:stille}
+\end{figure}
+
+Dal punto di vista operativo il processo di sintesi prosegue a partire dal prodotto isolato dalla reazione precedente:
+
+\begin{enumerate}
+	\item La N,N-dimetil-2-(tributilstannil)-piridin-4-ammina viene sciolta in Toluene (95 mg, 0.23 mmol di stannano in 2.5mL di Toluene).
+	\item Sotto atmosfera inerte d'Azoto viene aggiunto il catalizzatore \ce{PdCl2(PPh3)2} (8 mg, 0.0115 mmol), il Cloruro di Litio (29 mg, 0.69 mmol), la Trifenilfosfina (6 mg, 0.023 mmol) e il bromide appropriato al prodotto desiderato (2-bromopiridina (1), 2-bromo-n-metilpiridina con n=4,5,6 (2,3,4)).
+	\item La miscela è riscaldata a 110 $^\circ$C per 24 ore.
+	\item I prodotti vengono purificati in colonna cromatografica, nella Tabella \ref{table:stille} sono indicate le miscele usate per l'eluizione e le rese ottenuta per i composti 1-4 , la numerazione segue quella espressa in Figura \ref{fig:bpy_mod}.
+\end{enumerate}
+
+\begin{center}
+	\begin{table}[H]
+		\begin{tabular}{| c | c | c | c | }
+			\hline
+			Composto & \ce{EtOAc} : \ce{NEt3} & Resa \% \\	\hline
+			1        & 95 : 5                 & 50 \%   \\	\hline
+			2        & 99 : 1                 & 33 \%   \\	\hline
+			3        & 99 : 1                 & 42 \%   \\	\hline
+			4        & 99 : 1                 & 38 \%   \\	\hline
+		\end{tabular}
+		\centering
+		\caption{Tabella contenente le rese e la composizione dell'eluente riferiti ai composti 1-4.}
+		\label{table:stille}
+	\end{table}
+\end{center}
+
+\subsection{Effetti delle Molecole Sintetizzate sui A$\beta$}
+L'efficacia dei composti ottenuti rispetto all'aggregazione dei A$\beta$ e stata quantificata attraverso esperimenti in vitro, i risultati sono riportati nella Figura \ref{fig:ris_bpy}.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\linewidth]{immagini/ris_bpy.png}
+	\caption{}
+	\label{fig:ris_bpy}
+\end{figure}
 
 
 \bibliographystyle{acm}
