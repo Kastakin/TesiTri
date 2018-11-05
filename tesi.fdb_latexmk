@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex tesi"] 1541409514 "tesi.aux" "tesi.bbl" "tesi" 1541409519
+["bibtex tesi"] 1541413246 "tesi.aux" "tesi.bbl" "tesi" 1541413333
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/acm.bst" 1480098433 21064 c61a48664f3c347ce7f73c1a6a530506 ""
   "biblio.bib" 1541409470 37442 d9a7d4fad41193b629d3c41a1cb838c8 ""
-  "tesi.aux" 1541409519 5289 42a8d5ea1efd394688b88b2e232af392 ""
+  "tesi.aux" 1541413249 5290 d202e350c6b49e1c8ecd08685d3e03fd ""
   (generated)
   "tesi.bbl"
   "tesi.blg"
-["pdflatex"] 1541409515 "tesi.tex" "tesi.pdf" "tesi" 1541409519
+["pdflatex"] 1541413246 "tesi.tex" "tesi.pdf" "tesi" 1541413333
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -90,16 +90,16 @@
   "immagini/ris_bpy.png" 1541369468 480731 ee5e00c723bccb86ee62293427b5d40a ""
   "immagini/ris_bpy2.png" 1541407320 282231 2594ff18ed98371631dc82d7b51145d8 ""
   "immagini/stille.png" 1541363960 115603 45aba109ef54c9d1063e162de6b316fc ""
-  "tesi.aux" 1541409519 5289 42a8d5ea1efd394688b88b2e232af392 ""
-  "tesi.bbl" 1541409515 3730 029b2c9a6f957a4c217caa714229baf7 "bibtex tesi"
-  "tesi.tex" 1541409505 21126 4ab9137e5897b1292d639328c0833e02 ""
-  "tesi.toc" 1541409519 940 7a8aafd23692e470d5739090d5d7a2d7 ""
+  "tesi.aux" 1541413249 5290 d202e350c6b49e1c8ecd08685d3e03fd ""
+  "tesi.bbl" 1541413246 3730 029b2c9a6f957a4c217caa714229baf7 "bibtex tesi"
+  "tesi.tex" 1541413333 21161 8e909b6611b15ef49ae3eaa817280691 ""
+  "tesi.toc" 1541413249 941 7ac42a7a1a1dc078ebca339d38f9e7a7 ""
   (generated)
+  "tesi.lof"
   "tesi.toc"
-  "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
-  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
   "tesi.log"
   "tesi.aux"
-  "tesi.lof"
-  "tesi.pdf"
+  "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
   "tesi.lot"
+  "tesi.pdf"
+  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
