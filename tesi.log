@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  5 NOV 2018 11:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  7 NOV 2018 12:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -41,11 +41,16 @@ File: babel.def 2018/06/05 3.22 Babel common definitions
 )) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count93
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+\verbatim@in@stream=\read1
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks16
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
@@ -62,16 +67,16 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count94
-\float@exts=\toks15
+\float@exts=\toks17
 \float@box=\box26
-\@float@everytoks=\toks16
+\@float@everytoks=\toks18
 \@floatcapt=\box27
 ) (/usr/share/texlive/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
- (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018-06-14 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018-06-14 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2018-06-14 L3 programming layer (code)
 \c_max_int=\count95
 \l_tmpa_int=\count96
@@ -207,7 +212,7 @@ Package: expl3 2018-06-14 L3 programming layer (code)
 \l__coffin_display_offset_dim=\dimen128
 \l__coffin_display_x_dim=\dimen129
 \l__coffin_display_y_dim=\dimen130
-\g__file_internal_ior=\read1
+\g__file_internal_ior=\read2
 \l__coffin_bounding_shift_dim=\dimen131
 \l__coffin_left_corner_dim=\dimen132
 \l__coffin_right_corner_dim=\dimen133
@@ -243,7 +248,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2000/06/29 v2.01 AMS text
  (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
+\@emptytoks=\toks19
 \ex@=\dimen140
 )) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -271,21 +276,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \dotsspace@=\muskip16
 \c@parentequation=\count190
 \dspbrk@lvl=\count191
-\tag@help=\toks18
+\tag@help=\toks20
 \row@=\count192
 \column@=\count193
 \maxfields@=\count194
-\andhelp@=\toks19
+\andhelp@=\toks21
 \eqnshift@=\dimen143
 \alignsep@=\dimen144
 \tagshift@=\dimen145
 \tagwidth@=\dimen146
 \totwidth@=\dimen147
 \lineht@=\dimen148
-\@envbody=\toks20
+\@envbody=\toks22
 \multlinegap=\skip53
 \multlinetaggap=\skip54
-\mathdisplay@stack=\toks21
+\mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 ) (/usr/share/texlive/texmf-dist/tex/latex/chemgreek/chemgreek.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
@@ -369,20 +374,20 @@ Package: chemgreek 2016/12/20 v1.1 interfaceforuprightgreeklettersforuseinchemis
 ) (./tesi.aux)
 \openout1 = `tesi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Info: Redefining \it@ocap on input line 20.
-LaTeX Info: Redefining \it@ccap on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Info: Redefining \it@ocap on input line 21.
+LaTeX Info: Redefining \it@ccap on input line 21.
 
 
 File italian.ldf warning: 
@@ -390,7 +395,7 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 20.
+italian.ldf    on input line 21.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -399,12 +404,12 @@ italian.ldf    on input line 20.
 \scratchbox=\box45
 \nofMPsegments=\count271
 \nofMParguments=\count272
-\everyMPshowfont=\toks22
+\everyMPshowfont=\toks24
 \MPscratchCnt=\count273
 \MPscratchDim=\dimen154
 \MPnumerator=\count274
 \makeMPintoPDFobject=\count275
-\everyMPtoPDFconversion=\toks23
+\everyMPtoPDFconversion=\toks25
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
@@ -444,7 +449,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 20.
+. Activating mapping `default' on line 21.
 .................................................
  [0
 
@@ -456,77 +461,67 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 <immagini/APP.png, id=19, 205.0059pt x 95.3964pt>
 File: immagini/APP.png Graphic file (type png)
 <use immagini/APP.png>
-Package pdftex.def Info: immagini/APP.png  used on input line 60.
+Package pdftex.def Info: immagini/APP.png  used on input line 61.
 (pdftex.def)             Requested size: 390.0pt x 181.48497pt.
  [3 <./immagini/APP.png>]
 <immagini/bbb.png, id=25, 353.82187pt x 241.65282pt>
 File: immagini/bbb.png Graphic file (type png)
 <use immagini/bbb.png>
-Package pdftex.def Info: immagini/bbb.png  used on input line 81.
+Package pdftex.def Info: immagini/bbb.png  used on input line 82.
 (pdftex.def)             Requested size: 312.00119pt x 213.09392pt.
  [4] [5 <./immagini/bbb.PNG>] [6] [7]
 <immagini/bpy.png, id=41, 597.432pt x 284.262pt>
 File: immagini/bpy.png Graphic file (type png)
 <use immagini/bpy.png>
-Package pdftex.def Info: immagini/bpy.png  used on input line 134.
+Package pdftex.def Info: immagini/bpy.png  used on input line 135.
 (pdftex.def)             Requested size: 117.00119pt x 55.66725pt.
  [8 <./immagini/bpy.png>]
 <immagini/bpy_mod.png, id=46, 304.9794pt x 125.5089pt>
 File: immagini/bpy_mod.png Graphic file (type png)
 <use immagini/bpy_mod.png>
-Package pdftex.def Info: immagini/bpy_mod.png  used on input line 145.
+Package pdftex.def Info: immagini/bpy_mod.png  used on input line 146.
 (pdftex.def)             Requested size: 390.0pt x 160.50143pt.
 <immagini/rea_g.png, id=47, 333.8874pt x 64.3203pt>
 File: immagini/rea_g.png Graphic file (type png)
 <use immagini/rea_g.png>
-Package pdftex.def Info: immagini/rea_g.png  used on input line 155.
+Package pdftex.def Info: immagini/rea_g.png  used on input line 156.
 (pdftex.def)             Requested size: 390.0pt x 75.13174pt.
  [9 <./immagini/bpy_mod.PNG>]
-Overfull \hbox (5.41396pt too wide) in paragraph at lines 164--165
-[]\OT1/cmr/m/n/12 La so-lu-zio-ne ^^Re trat-ta-ta con 4-dimetilamminopiridina (100 mg, 0.8 mmol),
- []
-
-[10 <./immagini/rea_g.png>]
-<immagini/stille.png, id=57, 341.77687pt x 266.49562pt>
+<immagini/stille.png, id=52, 341.77687pt x 266.49562pt>
 File: immagini/stille.png Graphic file (type png)
 <use immagini/stille.png>
-Package pdftex.def Info: immagini/stille.png  used on input line 177.
+Package pdftex.def Info: immagini/stille.png  used on input line 184.
 (pdftex.def)             Requested size: 350.99762pt x 273.70467pt.
 
-Underfull \hbox (badness 1874) in paragraph at lines 178--178
+Underfull \hbox (badness 1874) in paragraph at lines 185--185
 []\OT1/cmr/m/n/12 Figura 6: Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-to
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 178--178
+Underfull \hbox (badness 1783) in paragraph at lines 185--185
 \OT1/cmr/m/n/12 in una rea-zio-ne di Stil-le. Nel ca-so in esa-me R$[]$=2-bromopiridina,
  []
 
-[11 <./immagini/stille.png>]
-Overfull \hbox (21.02664pt too wide) in paragraph at lines 186--187
-[]\OT1/cmr/m/n/12 Sotto at-mo-sfe-ra iner-te d'A-zo-to vie-ne ag-giun-to il ca-ta-liz-za-to-re $[][][][][][][][][][][]$
- []
-
-[12]
-<immagini/ris_bpy.png, id=66, 183.3249pt x 174.8934pt>
+[10 <./immagini/rea_g.png>]
+<immagini/ris_bpy.png, id=58, 183.3249pt x 174.8934pt>
 File: immagini/ris_bpy.png Graphic file (type png)
 <use immagini/ris_bpy.png>
-Package pdftex.def Info: immagini/ris_bpy.png  used on input line 212.
+Package pdftex.def Info: immagini/ris_bpy.png  used on input line 223.
 (pdftex.def)             Requested size: 390.0pt x 372.08522pt.
- [13]
-<immagini/ris_bpy2.png, id=70, 175.6161pt x 114.9093pt>
+ [11 <./immagini/stille.png>]
+<immagini/ris_bpy2.png, id=64, 175.6161pt x 114.9093pt>
 File: immagini/ris_bpy2.png Graphic file (type png)
 <use immagini/ris_bpy2.png>
-Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 219.
+Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 230.
 (pdftex.def)             Requested size: 390.0pt x 255.21562pt.
- [14 <./immagini/ris_bpy.png>] [15 <./immagini/ris_bpy2.png>] [16] (./tesi.bbl
+ [12 <./immagini/ris_bpy.png>] [13 <./immagini/ris_bpy2.png>] [14] (./tesi.bbl
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
- [17]
+ [15]
 
 ./tesi.bbl:62: Package inputenc Error: Unicode character ′ (U+2032)
 (inputenc)                not set up for use with LaTeX.
@@ -553,20 +548,20 @@ l.63   metal–amyloid-β
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-) [18] (./tesi.aux) ) 
+) [16] (./tesi.aux) ) 
 Here is how much of TeX's memory you used:
- 13063 strings out of 492641
- 240320 string characters out of 6131786
- 307574 words of memory out of 5000000
- 16865 multiletter control sequences out of 15000+600000
+ 13087 strings out of 492641
+ 240760 string characters out of 6131786
+ 308250 words of memory out of 5000000
+ 16887 multiletter control sequences out of 15000+600000
  539279 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,16n,63p,790b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,63p,790b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tesi.pdf (20 pages, 1150423 bytes).
+Output written on tesi.pdf (18 pages, 1147965 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -10,5 +10,5 @@
 \contentsline {subsection}{\numberline {5.1}Le Molecole}{7}
 \contentsline {subsection}{\numberline {5.2}Sintesi}{9}
 \contentsline {subsubsection}{\numberline {5.2.1}Reazione di Formazione dello Stannano }{10}
-\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{11}
-\contentsline {subsection}{\numberline {5.3}Effetti delle Molecole Sintetizzate sui A$\beta $}{13}
+\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{10}
+\contentsline {subsection}{\numberline {5.3}Effetti delle Molecole Sintetizzate sui A$\beta $}{11}

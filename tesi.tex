@@ -1,6 +1,7 @@
 \documentclass[a4paper, 12pt]{article}
 
 \usepackage[italian]{babel}
+\usepackage{verbatim}
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage[version=4]{mhchem}
@@ -54,7 +55,7 @@ L'individuazione delle cause che portano al presentarsi dell'AD è uno dei punti
 Con il termine $\beta$-amiloide (A$\beta$) si indica un frammento proteico insolubile non ramificato; tale nome è dovuto al fatto che al momento della scoperta, viste le sue proprietà si pensò in ad una similitudine con le molecole d'amido benchè dal punto di vista della composizione chimica non ci siano particolari somiglianze.\cite{lennarz_encyclopedia_2004}
 
 L'origine di queste strutture è legata all'azione congiunta di tre enzimi ($\alpha$-secretasi,$\beta$-secretasi e $\gamma$-secretasi) su di un substrato proteico noto come APP (Amyloid Precursor Protein). L'APP è una proteina trans-membrana di modeste dimensioni (circa 700 residui), viene trasportata lungo l'assone delle cellule neuronali ed il suo accumulo è focalizzato nei siti presinaptici. Il suo rilascio è regolato dall'attività elettrica cerebrale, si suppone infatti che abbia un ruolo fondamentale nella regolazione dell'eccitabilità neuronale.\cite{mattson_cellular_1997}
-La porzione che interessa la formazione di A$\beta$ è situata nel dominio extracellulare dell'APP. Come si può osservare nella Figura \ref{fig:app} i tre enzimi sopracitati agiscono in punti ben definiti e tra loro differenti della proteina; in particolare si osservi come l'azione dell'$\alpha$-secretasi non porti alla formazione del frammento $\beta$A mentre l'azione dell'enzima $\beta$ in congiunzione all'enzima $\gamma$ generi la particolare sequenza.\cite{goedert_century_2006}
+La porzione che interessa la formazione di A$\beta$ è situata nel dominio extracellulare dell'APP. Come si può osservare nella Figura \ref{fig:app} i tre enzimi sopracitati agiscono in punti ben definiti e tra loro differenti della proteina; in particolare si osserva come l'azione dell'$\alpha$-secretasi non porti alla formazione del frammento $\beta$A mentre l'azione dell'enzima $\beta$ in congiunzione all'enzima $\gamma$ generi la particolare sequenza.\cite{goedert_century_2006}
 
 \begin{figure}[H]
 	\includegraphics[width=\linewidth]{immagini/APP.png}
@@ -91,7 +92,7 @@ Altre evidenze sperimentali mostrano come l’organismo, a causa di invecchiamen
 Gli scarsi risultati ottenuti seguendo la via della neurotossicità diretta dei A$\beta$ ha portato alla teorizzazione e in seguito all’osservazione di concentrazioni anormali di ioni metallici in pazienti affetti dall'AD. I metalli presi in esame sono Ferro, Rame e Zinco le cui concentrazioni, superato il valore di circa 10\textsuperscript{-7}  M diventano rilevanti per quanto riguarda la possibilità di essere complessati dai A$\beta$ causando una tossicità diretta o fungendo come centri iniziatori di polimerizzazione per le fibrille amiloidiche.\cite{kepp_bioinorganic_2012}
 
 \section{Strategie d'Intervento}
-Visto il complesso sistema che regola la comparsa dei A$\beta$ vien da se che anche i metodi per cercare di limitarne la presenza o gli effetti sull'organismo saranno altrettanto variegati.
+Visto il complesso sistema che regola la comparsa dei A$\beta$ vien da sè che anche i metodi per cercare di limitarne la presenza o gli effetti sull'organismo saranno altrettanto variegati.
 
 Le metodologie d'intervento studiate nel panorama della ricerca biomedica sono le più disparate. Limitandoci solo a tecniche la cui azione è incentrata direttamente sui A$\beta$ o sui loro effetti sull'organismo possiamo citare:\cite{kumar_review_2015}
 \begin{enumerate}
@@ -127,7 +128,7 @@ Per progettare una molecola in grado di svolgere il compito appena descritto occ
 	\item Buona solubilità in ambiente acquoso, in modo da permettere la diffusione del composto all'interno del corpo.
 	\item Buona permeabilità della barriera emato-encefalica; un composto che non soddisfi questo criterio avrà difficoltà ad essere trasferito nel liquido cerebrospinale.
 \end{enumerate}
-Una classe di composti le cui proprietà soddisfano i criteri appena presentati è quella dei composti Bipiridinici (Figura \ref{fig:bpy}).
+Una classe di composti le cui proprietà soddisfano i criteri appena presentati è quella dei derivati bipiridinici (Figura \ref{fig:bpy}).
 Questi presentano una chelazione rapida, ovvero con k\textsubscript{f} nei confronti dei metalli d'interesse (Cu(II) e Zn(II)) di circa 7.0, grazie alla chelazione dell'atomo metallico da parte degli atomi d'azoto nei due eterocicli. Inoltre la solubilità in medium acquosi è relativamente buona, stiamo parlando di circa 5,9 mg/mL; infine le dimensioni ridotte permettono una buona diffusione nel sistema nervoso permeando attravero la barriera emato-encefalica con discreta facilità (i valori di permeabilità possono essere stimati attraverso le regole empiriche di Lipinski o attraverso test in vitro\cite{di_high_2003}).
 \begin{figure}[H]
 	\centering
@@ -158,6 +159,10 @@ Il processo di sintesi utilizzato è riassunto in maniera sintetica nella Figura
 \end{figure}
 
 \subsubsection{Reazione di Formazione dello Stannano }
+Il reagente di partenza, ovvero la 4-dimetilamminopiridina, viene trattata con \ce{n-BuLi} al fine di deprotonare il protone in posizione orto rispetto all'atomo di azoto presente nell'anello, il processo è noto con il nome di orto-litiazione. Lo stannano è ottenuto per transmetallazione dell'organolitiato; il \ce{Bu3SnCl} reagisce con il substrato sostituendosi all'atomo di \ce{Li} il quale si lega al \ce{Cl}.
+
+È importante notare come la soluzione venga mantenuta a basse temperature (-78 $^\circ$C) affinchè la reazione di deprotonazione abbia luogo nel sito desiderato e che il composto organolitiato ottenuto sia sufficentemente stabile in modo tale da permettere la sostituzione con lo Stagno.
+\begin{comment}
 La reazione viene eseguita come segue:
 \begin{enumerate}
 	\item Ad una soluzione di 2-Dimetilaminoetanolo (146 mg, 1.64 mmol) in Esano (4 mL) a -5 $^\circ$C è aggiunto goccia a goccia una soluzione 2 M di \ce{n-BuLi} (1.7 mL, 3.28 mmol), si tiene in miscelazione per 30 minuti a 0 $^\circ$C sotto atmosfera d'azoto.
@@ -166,6 +171,8 @@ La reazione viene eseguita come segue:
 	\item La reazione viene portata a termine con l'aggiunta di acqua, questa viene successivamente allontanata mediante un'estrazione in etere, il processo d'estrazione viene eseguito 3 volte. La soluzione estratta viene anidrificata con \ce{MgSO4}, filtrata e concentrata sotto vuoto.
 	\item Il prodotto viene purificato in colonna cromatografica usando come eluente Acetato d'Etile (\ce{EtOAc}).
 \end{enumerate}
+\end{comment}
+
 
 \subsubsection{Reazione di Stille per Formazione del Prodotto Finale}
 Il secondo step per l'ottenimento dei composti bipiridinici d'interesse prevede una reazione di Stille, ovvero una reazione di cross-coupling palladio-catalizzata, nel caso particolare preso in esame, tra lo stannano ottenuto come prodotto dello step di reazione precedente e un alogenuro alchilico piridinico.\cite{clayden_organic_2012}
@@ -179,6 +186,9 @@ Il processo catalitico generale è riportato in maniera schematica in Figura \re
 	\label{fig:stille}
 \end{figure}
 
+Nell'ambiente di reazione sono 
+
+\begin{comment}
 Dal punto di vista operativo il processo di sintesi prosegue a partire dal prodotto isolato dalla reazione precedente:
 
 \begin{enumerate}
@@ -203,6 +213,7 @@ Nella Tabella \ref{table:stille} sono indicate le miscele usate per l'eluizione 
 		\label{table:stille}
 	\end{table}
 \end{center}
+\end{comment}
 
 \subsection{Effetti delle Molecole Sintetizzate sui A$\beta$}
 L'efficacia dei composti ottenuti rispetto all'aggregazione dei A$\beta$ è stata quantificata attraverso esperimenti in vitro. I risultati sono riportati nella Figura \ref{fig:ris_bpy} per quanto riguarda l'azione in presenza di A$\beta$-40 e nella Figura \ref{fig:ris_bpy2} per il caso di A$\beta$-42.
@@ -221,7 +232,7 @@ L'efficacia dei composti ottenuti rispetto all'aggregazione dei A$\beta$ è stat
 	\label{fig:ris_bpy2}
 \end{figure}
 
-Nalle corse elettroforetiche mostrate in Figura \ref{fig:ris_bpy}, sezione (b), si osservi come la dimensione degli aggregati proteici tenda a diminuire in presenza dei composti sintetizzati agenti su soluzioni contenenti ioni metallici, mentre in assenza di centro di nucleazione metallico non vi siano apprezzabili effetti di mitigazione dell'accrescimento della placca. Questo è un dato atteso, i composti progettati hanno infatti lo specifico compito di chelare metalli per diminuire il fenomeno d'aggregazione, logico quindi osservare come in assenza di ioni non vi siano benefici evidenti.
+Nalle corse elettroforetiche mostrate in Figura \ref{fig:ris_bpy}, sezione (b), si osserva come la dimensione degli aggregati proteici tenda a diminuire in presenza dei composti sintetizzati agenti su soluzioni contenenti ioni metallici, mentre in assenza di centro di nucleazione metallico non vi siano apprezzabili effetti di mitigazione dell'accrescimento della placca. Questo è un dato atteso, i composti progettati hanno infatti lo specifico compito di chelare metalli per diminuire il fenomeno d'aggregazione, logico quindi osservare come in assenza di ioni non vi siano benefici evidenti.
 
 Soffermandoci sulle immagine ottenute al TEM possiamo vedere come l'azione del semplice scheletro bipiridinico (bpy) modifichi l'aggregazione in presenza di Cu(II) ma non abbia evidenti effetti se confrontata con il campione C in presenza di Zn(II). I composti sintetizzati senza gruppo metilico (1) e quelli con il gruppo metilico in posizioni Meta o Para (2 e 3) hanno invece inibito la formazione di conglomerati di A$\beta$\-40 e A$\beta$\-42 sia in presenza di Cu(II) sia di Zn(II).
 
