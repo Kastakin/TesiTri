@@ -148,7 +148,8 @@ Ai fini di dimostrare l'effetto di queste modificazioni a partire dalla struttur
 	\label{fig:bpy_mod}
 \end{figure}
 
-\subsection{Sintesi}
+\subsection{Sintesi Mediante Reazione di Stille}
+\label{sec:bpy_stille}
 Il processo di sintesi utilizzato è riassunto in maniera sintetica nella Figura \ref{fig:rea_g}; a partire da una 4-amminopiridina si ottiene un composto organometallico allo stagno; successivamente per mezzo di una reazione di Stille si addiziona il primo anello al secondo ottenendo il prodotto desiderato.
 
 \begin{figure}[H]
@@ -186,7 +187,18 @@ Il processo catalitico generale è riportato in maniera schematica in Figura \re
 	\label{fig:stille}
 \end{figure}
 
-Nell'ambiente di reazione sono 
+In Toluene sono introdotti lo stannano,prodotto di reazione del passaggio sintetico precedente, il catalizzatore al palladio \ce{PdCl2(PPh3)2}, Trifenilfosfina e Cloruro di Litio. A seconda del composto bipiridinico desiderato come prodotto finale viene infine introdotta l'appropiata piridina bromurata.
+
+Il ciclo catalitico può essere riassunto in cinque step:
+\begin{enumerate}
+	\item Il catalizzatore \ce{PdCl2(PPh3)2} viene ridotto a \ce{Pd(PPh3)2}, un complesso a 14 elettroni in cui il Pd ha stato d'ossidazione 0.
+	\item Il complesso subisce addizione ossidativa da parte dell'alogenuro: si tratta di un processo concertato che forma un complesso a 16 elettroni con i due nuovi leganti in posizione cis.
+	\item Si osserva un equilibrio d'isomerizzazione tra la forma cis e trans del complesso organometallico. La forma trans è favorita dal punto di vista termodinamico visto l'ingombro sterico originato dai leganti \ce{PPh3}.
+	\item Si ha transmetallazione tra lo stannano in soluzione ed il complesso; il risultato è il trasferimento del composto arilico sul complesso con allontanamento dell'alogenuro.
+	\item Un processo di eliminazione riduttiva libera il composto bipiridinico ripristinando il catalizzatore; da qui il ciclo ricomincia.
+\end{enumerate}
+
+La reazione viene condotta sotto atmosfera inerte d'Azoto per evitare che il catalizzatore possa essere alterato dalle componenti dell'aria.
 
 \begin{comment}
 Dal punto di vista operativo il processo di sintesi prosegue a partire dal prodotto isolato dalla reazione precedente:
@@ -214,6 +226,15 @@ Nella Tabella \ref{table:stille} sono indicate le miscele usate per l'eluizione 
 	\end{table}
 \end{center}
 \end{comment}
+
+\subsection{Sintesi Mediante Accoppiamento di Negishi}
+Un metodo alternativo per la sintesi dei  bipiridinici d'interesse sfrutta la reazione di accoppiamento di Negishi. Si tratta di una reazione di accoppiamento tra un composto organozincato e un alogenuro, nel nostro caso una piridina alogenata. \cite{clayden_organic_2012}
+
+A differenza della Reazione di Stille proposta nella Sezione \ref{sec:bpy_stille} in cui l'accoppiamento viene promosso da un composto organostannato l'uso di Zinco, la cui tossicità è nota per essere inferiore rispetto a quella dello Stagno. Il maggiore inconveniente della reazione di accoppiameno di Negishi è la sensibilità all'esposizione all'aria e all'acqua oltre ad una minore tolleranza circa il tipo di gruppi funzionali con cui è possibile lavorare.\cite{nicolaou_palladium-catalyzed_2005}
+
+\subsubsection{Formazione del Precursore Organozincato}
+Come per la formazione dello stannano il processo
+
 
 \subsection{Effetti delle Molecole Sintetizzate sui A$\beta$}
 L'efficacia dei composti ottenuti rispetto all'aggregazione dei A$\beta$ è stata quantificata attraverso esperimenti in vitro. I risultati sono riportati nella Figura \ref{fig:ris_bpy} per quanto riguarda l'azione in presenza di A$\beta$-40 e nella Figura \ref{fig:ris_bpy2} per il caso di A$\beta$-42.
