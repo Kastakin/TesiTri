@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex tesi"] 1542190159 "tesi.aux" "tesi.bbl" "tesi" 1542190163
+["bibtex tesi"] 1542365761 "tesi.aux" "tesi.bbl" "tesi" 1542365766
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/acm.bst" 1480098433 21064 c61a48664f3c347ce7f73c1a6a530506 ""
   "biblio.bib" 1542187141 41894 cd65a4b4bbad95a706132b69541b104f ""
-  "tesi.aux" 1542190163 6311 462c0c125302f46c38afc8eade248b33 ""
+  "tesi.aux" 1542365765 6716 93836cd97faa4a89ddddaf30b0df6b07 ""
   (generated)
-  "tesi.bbl"
   "tesi.blg"
-["pdflatex"] 1542190160 "tesi.tex" "tesi.pdf" "tesi" 1542190163
+  "tesi.bbl"
+["pdflatex"] 1542365761 "tesi.tex" "tesi.pdf" "tesi" 1542365766
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -88,21 +88,22 @@
   "immagini/bpy.png" 1541340552 12240 d8056bb4f3bb8c153130db405ffe61c8 ""
   "immagini/bpy_mod.PNG" 1541345081 198541 a5c008555a5e3590516fcfdeae0d89c6 ""
   "immagini/h-m_resveratrolo.png" 1542188344 52993 0cf02bab181c1771de18103841dcded5 ""
+  "immagini/perc_cata_resv.png" 1542365222 63456 5c403c69c3dc7be254a3850487f20433 ""
   "immagini/rea_g.png" 1541353326 65762 b191d0638bf93b566340f6d6e6bf2006 ""
   "immagini/resveratrolo.png" 1542101981 15269 c8837f22656f1d313ab2f3fc3fbbda30 ""
   "immagini/ris_bpy.png" 1541369468 480731 ee5e00c723bccb86ee62293427b5d40a ""
   "immagini/ris_bpy2.png" 1541407320 282231 2594ff18ed98371631dc82d7b51145d8 ""
   "immagini/stille.png" 1541363960 115603 45aba109ef54c9d1063e162de6b316fc ""
-  "tesi.aux" 1542190163 6311 462c0c125302f46c38afc8eade248b33 ""
-  "tesi.bbl" 1542190160 4412 cf1995ab38f3249e6b7f9d5f129f3a76 "bibtex tesi"
-  "tesi.tex" 1542190156 28691 4b679a3a8cb27ae39ddf237bf1fedc4d ""
-  "tesi.toc" 1542190163 1390 99d7870e28c275e799ffd4eb6176cbc1 ""
+  "tesi.aux" 1542365765 6716 93836cd97faa4a89ddddaf30b0df6b07 ""
+  "tesi.bbl" 1542365761 4412 cf1995ab38f3249e6b7f9d5f129f3a76 "bibtex tesi"
+  "tesi.tex" 1542365757 31092 12a7a476247d624fa038f81e0cef5797 ""
+  "tesi.toc" 1542365765 1483 da94b23cb1685907da52331162b55343 ""
   (generated)
-  "tesi.toc"
-  "tesi.aux"
   "tesi.log"
+  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
   "tesi.lof"
   "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
+  "tesi.toc"
+  "tesi.aux"
   "tesi.lot"
-  "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
   "tesi.pdf"
