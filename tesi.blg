@@ -4,14 +4,15 @@ The top-level auxiliary file: tesi.aux
 The style file: acm.bst
 Database file #1: biblio.bib
 Warning--entry type for "noauthor_world_2018" isn't style-file defined
---line 83 of file biblio.bib
+--line 84 of file biblio.bib
 Warning--entry type for "american_psychiatric_association_diagnostic_2013" isn't style-file defined
---line 109 of file biblio.bib
+--line 110 of file biblio.bib
 Warning--entry type for "lennarz_encyclopedia_2004" isn't style-file defined
---line 154 of file biblio.bib
+--line 155 of file biblio.bib
 Warning--to sort, need author or key in american_psychiatric_association_diagnostic_2013
 Warning--to sort, need author or key in noauthor_world_2018
 Warning--to sort, need author or key in lennarz_encyclopedia_2004
+Warning--empty journal in alejandro_v._martinez_expedient_2017
 Warning--empty journal in brothers_physiological_2018
 Warning--empty year in clayden_organic_2012
 Warning--empty journal in derrick_importance_2016
@@ -30,45 +31,45 @@ Warning--empty journal in mattson_cellular_1997
 Warning--empty journal in nicolaou_palladium-catalyzed_2005
 Warning--empty journal in savelieff_ongoing_2014
 Warning--empty journal in todd_survival_2013
-You've used 21 entries,
+You've used 22 entries,
             2253 wiz_defined-function locations,
-            645 strings with 7741 characters,
-and the built_in function-call counts, 6982 in all, are:
-= -- 712
-> -- 364
+            650 strings with 7944 characters,
+and the built_in function-call counts, 7333 in all, are:
+= -- 749
+> -- 381
 < -- 0
-+ -- 156
-- -- 130
-* -- 508
-:= -- 1177
-add.period$ -- 68
-call.type$ -- 21
-change.case$ -- 128
++ -- 164
+- -- 136
+* -- 534
+:= -- 1236
+add.period$ -- 71
+call.type$ -- 22
+change.case$ -- 134
 chr.to.int$ -- 0
-cite$ -- 42
-duplicate$ -- 170
-empty$ -- 468
-format.name$ -- 130
-if$ -- 1368
+cite$ -- 44
+duplicate$ -- 178
+empty$ -- 491
+format.name$ -- 136
+if$ -- 1436
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 19
-newline$ -- 113
-num.names$ -- 36
-pop$ -- 137
+int.to.str$ -- 22
+missing$ -- 20
+newline$ -- 118
+num.names$ -- 38
+pop$ -- 143
 preamble$ -- 1
-purify$ -- 107
+purify$ -- 112
 quote$ -- 0
-skip$ -- 102
+skip$ -- 106
 stack$ -- 0
-substring$ -- 585
-swap$ -- 22
+substring$ -- 622
+swap$ -- 23
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 82
-warning$ -- 21
-while$ -- 69
-width$ -- 23
-write$ -- 202
-(There were 24 warnings)
+type$ -- 86
+warning$ -- 22
+while$ -- 73
+width$ -- 24
+write$ -- 211
+(There were 25 warnings)
