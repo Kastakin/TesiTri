@@ -10,12 +10,12 @@
 \contentsline {subsubsection}{\numberline {3.2.1}Reazione di Accoppiamento}{8}
 \contentsline {subsubsection}{\numberline {3.2.2}Eliminazione della Protezione Metilica}{11}
 \contentsline {subsection}{\numberline {3.3}Effetti delle Molecole Sintetizzate}{12}
-\contentsline {section}{\numberline {4}Curcumina}{12}
-\contentsline {section}{\numberline {5}Leganti Bipiridinici}{12}
-\contentsline {subsection}{\numberline {5.1}Le Molecole}{13}
-\contentsline {subsection}{\numberline {5.2}Sintesi Mediante Reazione di Stille}{15}
-\contentsline {subsubsection}{\numberline {5.2.1}Reazione di Formazione dello Stannano }{15}
-\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{16}
-\contentsline {subsection}{\numberline {5.3}Sintesi Mediante Accoppiamento di Negishi}{17}
-\contentsline {subsubsection}{\numberline {5.3.1}Formazione del Precursore Organozincato}{18}
-\contentsline {subsection}{\numberline {5.4}Effetti delle Molecole Sintetizzate sui A$\beta $}{18}
+\contentsline {section}{\numberline {4}Curcumina}{15}
+\contentsline {section}{\numberline {5}Leganti Bipiridinici}{15}
+\contentsline {subsection}{\numberline {5.1}Le Molecole}{15}
+\contentsline {subsection}{\numberline {5.2}Sintesi Mediante Reazione di Stille}{17}
+\contentsline {subsubsection}{\numberline {5.2.1}Reazione di Formazione dello Stannano }{18}
+\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{18}
+\contentsline {subsection}{\numberline {5.3}Sintesi Mediante Accoppiamento di Negishi}{20}
+\contentsline {subsubsection}{\numberline {5.3.1}Formazione del Precursore Organozincato}{21}
+\contentsline {subsection}{\numberline {5.4}Effetti delle Molecole Sintetizzate sui A$\beta $}{21}
