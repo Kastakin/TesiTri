@@ -14,13 +14,15 @@
 \contentsline {subsection}{\numberline {4.1}La Molecola}{16}
 \contentsline {subsection}{\numberline {4.2}Sintesi}{18}
 \contentsline {subsubsection}{\numberline {4.2.1}Sintesi del Farmacoforo del Donepezil}{19}
-\contentsline {subsection}{\numberline {4.3}Sintesi dei Composti della Serie II}{19}
-\contentsline {section}{\numberline {5}Leganti Bipiridinici}{19}
-\contentsline {subsection}{\numberline {5.1}Le Molecole}{20}
-\contentsline {subsection}{\numberline {5.2}Sintesi Mediante Reazione di Stille}{22}
+\contentsline {subsection}{\numberline {4.3}Sintesi dei Composti della Serie II}{20}
+\contentsline {section}{\numberline {5}Leganti Bipiridinici}{20}
+\contentsline {subsection}{\numberline {5.1}Le Molecole}{21}
+\contentsline {subsection}{\numberline {5.2}Sintesi Mediante Reazione di Stille}{23}
 \contentsline {subsubsection}{\numberline {5.2.1}Reazione di Formazione dello Stannano }{23}
-\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{23}
+\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{24}
 \contentsline {subsection}{\numberline {5.3}Sintesi Mediante Accoppiamento di Negishi}{25}
 \contentsline {subsubsection}{\numberline {5.3.1}Formazione del Precursore Organozincato}{26}
 \contentsline {subsection}{\numberline {5.4}Effetti delle Molecole Sintetizzate sui A$\beta $}{26}
-\contentsline {section}{\numberline {6}Riferimenti bibliografici}{30}
+\contentsline {section}{\numberline {6}Conclusioni}{29}
+\contentsline {section}{\numberline {7}Ringraziamenti}{30}
+\contentsline {section}{\numberline {8}Riferimenti bibliografici}{31}

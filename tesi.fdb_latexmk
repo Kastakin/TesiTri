@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex tesi"] 1543061279 "tesi.aux" "tesi.bbl" "tesi" 1543061286
+["bibtex tesi"] 1543071851 "tesi.aux" "tesi.bbl" "tesi" 1543071858
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/acm.bst" 1480098433 21064 c61a48664f3c347ce7f73c1a6a530506 ""
-  "biblio.bib" 1543058285 50870 a5efe8a3753a3b67f10ae00698fe5499 ""
-  "tesi.aux" 1543061286 10065 e7c965b3bf285b595279905aa1ea2ab6 ""
+  "biblio.bib" 1543071616 51130 da6032f326ee9bb53a8c7d28f41669b6 ""
+  "tesi.aux" 1543071858 10468 254b66193a23ff7f2896b3ad886e3e99 ""
   (generated)
-  "tesi.bbl"
   "tesi.blg"
-["pdflatex"] 1543061279 "tesi.tex" "tesi.pdf" "tesi" 1543061286
+  "tesi.bbl"
+["pdflatex"] 1543071851 "tesi.tex" "tesi.pdf" "tesi" 1543071858
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -115,16 +115,16 @@
   "immagini/ris_resveratrolo.png" 1542554135 43156 8ebf78e0c12ad2cd1b4cf460b99a5311 ""
   "immagini/roi_resveratrolo.png" 1542617382 352014 23a2a5c8751c211d11b785d39d0e1207 ""
   "immagini/stille.png" 1541363960 115603 45aba109ef54c9d1063e162de6b316fc ""
-  "tesi.aux" 1543061286 10065 e7c965b3bf285b595279905aa1ea2ab6 ""
-  "tesi.bbl" 1543061279 5254 681e8d16ced24680e49f32b5bbd9c5ab "bibtex tesi"
-  "tesi.tex" 1543061273 39906 dce11c62156ee6115db7bf9639e0b94d ""
-  "tesi.toc" 1543061286 1933 ec22c665d3c20f70cf04c6b2dead023a ""
+  "tesi.aux" 1543071858 10468 254b66193a23ff7f2896b3ad886e3e99 ""
+  "tesi.bbl" 1543071851 5422 27dbd862faf4954a096ca6b60bc5187f "bibtex tesi"
+  "tesi.tex" 1543071844 41225 f28216a97a3f4f51c36779097078f17a ""
+  "tesi.toc" 1543071858 2048 86dd9e736b81a4145f163648b60c2d2c ""
   (generated)
   "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
+  "tesi.lof"
+  "tesi.pdf"
   "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
   "tesi.lot"
-  "tesi.pdf"
+  "tesi.aux"
   "tesi.log"
   "tesi.toc"
-  "tesi.aux"
-  "tesi.lof"

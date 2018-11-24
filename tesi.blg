@@ -17,6 +17,7 @@ Warning--empty author in noauthor_protective_2003
 Warning--empty journal in noauthor_protective_2003
 Warning--empty journal in alejandro_v._martinez_expedient_2017
 Warning--empty journal in brothers_physiological_2018
+Warning--empty year in bruice_chimica_2012
 Warning--empty year in clayden_organic_2012
 Warning--empty journal in derrick_importance_2016
 Warning--empty journal in di_high_2003
@@ -36,45 +37,45 @@ Warning--empty journal in mattson_cellular_1997
 Warning--empty journal in nicolaou_palladium-catalyzed_2005
 Warning--empty journal in savelieff_ongoing_2014
 Warning--empty journal in todd_survival_2013
-You've used 25 entries,
+You've used 26 entries,
             2253 wiz_defined-function locations,
-            664 strings with 8474 characters,
-and the built_in function-call counts, 8278 in all, are:
-= -- 849
-> -- 426
+            669 strings with 8601 characters,
+and the built_in function-call counts, 8573 in all, are:
+= -- 874
+> -- 443
 < -- 0
-+ -- 183
-- -- 152
-* -- 607
-:= -- 1390
-add.period$ -- 79
-call.type$ -- 25
-change.case$ -- 151
++ -- 190
+- -- 158
+* -- 627
+:= -- 1441
+add.period$ -- 83
+call.type$ -- 26
+change.case$ -- 156
 chr.to.int$ -- 0
-cite$ -- 52
-duplicate$ -- 201
-empty$ -- 554
-format.name$ -- 152
-if$ -- 1621
+cite$ -- 54
+duplicate$ -- 214
+empty$ -- 577
+format.name$ -- 158
+if$ -- 1680
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 23
-newline$ -- 132
-num.names$ -- 42
-pop$ -- 161
+int.to.str$ -- 26
+missing$ -- 25
+newline$ -- 138
+num.names$ -- 44
+pop$ -- 172
 preamble$ -- 1
-purify$ -- 126
+purify$ -- 131
 quote$ -- 0
-skip$ -- 118
+skip$ -- 123
 stack$ -- 0
-substring$ -- 712
-swap$ -- 25
+substring$ -- 717
+swap$ -- 27
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 98
-warning$ -- 27
-while$ -- 83
-width$ -- 27
-write$ -- 236
-(There were 30 warnings)
+type$ -- 100
+warning$ -- 28
+while$ -- 85
+width$ -- 28
+write$ -- 247
+(There were 31 warnings)
