@@ -7,6 +7,7 @@
 \usepackage[version=4]{mhchem}
 \usepackage{subcaption}
 \usepackage{pifont}
+\usepackage[nottoc,numbib]{tocbibind}
 
 \linespread{1.5}
 
@@ -226,10 +227,81 @@ L'azione di tali composti in presenza dell'enzima è stata osservata mediante un
 
 Il secondo metodo d'azione del Resveratrolo è legato, come anticipato sopra, ad una diminuzione della tossicità dei depositi proteici di A$\beta$. In particolare l'azione osservata è una diminuzione nel numero di fenomeni di  apoptosi nelle cellule neuronali e un ridursi in concentrazione di specie reattive ossidanti (ROI) nocive per l'organismo la cui formazione è promossa dalle fibrille stesse.
 
-Gli esperimenti condotti ai fini di avvalorare l'importanza dal punto di vista medico del composto sono stati eseguiti utilizzando cellule della serie PC12, cellule di feocromocitoma di ratto. Gli esperimenti condotti hanno evidenziato una marcata diminuzione dei fenomeni di morte per apoptosi (Figura \ref{fig:apo_resveratrolo}) e una diminuzione in concentrazione delle specie ROI 
+Gli esperimenti condotti ai fini di avvalorare l'importanza dal punto di vista medico del composto sono stati eseguiti utilizzando cellule della serie PC12, cellule di feocromocitoma di ratto.
+
+Come si può osservare nella Figura \ref{fig:apo_resveratrolo} l'aggiunta di Resveratrolo in presenza di A$\beta$ ha dimostrato una diminuzione della mortalità cellulare dopo un periodo d'incubazione di 36h. Il dato è forse ancora più evidente se si osserva la frammentazione del DNA evidenziata nella stessa figura nei pannelli (d), (e) ed (f).
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\linewidth]{immagini/apo_resveratrolo.png}
+	\caption{Immagini al microscopio di cellule PC12 (a) senza alcun trattamento; (b) in soluzione 50$\mu$M di A$\beta$ dopo 36h; (c) in soluzione come (b) con l'aggiunta di Resveratrolo in concentrazione 25$\mu$M. Nei tre ingrandimenti inferiori sono invece state evidenziate le frammentazioni del DNA nelle stesse condizioni di (a), (b) e (c).}
+	\label{fig:apo_resveratrolo}
+\end{figure}
+
+In Figura \ref{fig:roi_resveratrolo} sono invece riportati i dati relativi alle concentrazioni di ROI nelle cellule. Le immagini sono il risultato dell'osservazione della soluzione di cellule nello spettro UV in presenza di Diclorofluoresceina (DCF), un composto che emette radiazione UV in presenza di perossidi. Si può notare come la quantità di specie ossidanti risulta ridotta in maniera significativa in presenza di Resveratrolo. \cite{noauthor_protective_2003}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\linewidth]{immagini/roi_resveratrolo.png}
+	\caption{Livelli di persossidi intracellulari evidenziati tramite fluorescenza DCF (a) nessun trattamento; (b) A$\beta$ 25$\mu$M; (c) A$\beta$ 25$\mu$M + Resveratrolo 25$\mu$M.}
+	\label{fig:roi_resveratrolo}
+\end{figure}
 
 \section{Curcumina}
 \label{sec:curc}
+La Crucumina ((1E,6E)-1,7-bis-(4-idrossi-3-metossifenil)-epta-1,6-dien-3,5-dione
+) è la principale componente polifenolica del Cumino; tale molecola è impiegata nel trattamento di molteplici malattia umane, il suo primo uso in questo frangente può essere ricondotto addirittura all'antica medicina cinese.
+
+Ai giorni nostri in campo medico trova applicazioni nel tentativo di curare pazienti affetti da mieloma, psoriasi, cancro pancreatico, sindrome mielodisplasica e AD.
+
+\subsection{La Molecola}
+In Figura \ref{fig:curcumina} è presentata la formula di struttura della Curcumina. L'azione della molecola nei confronti dell'AD è scomponibile in diversi fattori:
+
+\begin{enumerate}
+	\item Mitigazione dell'aggregazione dei A$\beta$.
+	\item Azione di potenziamento cognitivo.
+	\item Moderata inibizione dell'enzima AChE.
+\end{enumerate}
+
+Tutti questi effetti sono legati alla particolare struttura della molecola; la presenza di due anelli aromatici e la loro distanza relativa possono interagire con la struttura quaternaria  e i siti periferici dell'AChE. Sempre le funzionalità aromatiche presenti sono responsabili dell'effetto sulla formazione di pallche amiloidiche.
+
+I vantaggi derivati dall'uso della Curcumina come punto di partenza per lo sviluppo di rimedio all'AD sono la sua elevata permeabilità della barriera emato-encefalica e la relativa semplicità con cui è possibile effettuare modificazioni sulla sua struttura rendendola quindi un ottimo scheletro di partenza per la sintesi di farmaci più sofisticati. \cite{jabir_cholinesterase_2018, jiang_traditional_2017}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=.6\linewidth]{immagini/curcumina.png}
+	\caption{Struttura molecolare della Curcumina. CERCARE QUALITÀ MIGLIORE}
+	\label{fig:curcumina}
+\end{figure}
+
+In questa sezione ci soffermeremo appunto sulla sintesi di un composto ottenuto fondendo alcune funzionalità della Curcumina con altre proprie del Donepezil, un farmaco la cui azione è mirata alla modulazione dell'azione dell'enzima AChE, ai fini di ottenere un possibile farmaco altamente affine alla permeazione della barriera emato-encefalica e con un'azione mirata nei confornti del substrato desiderato.
+
+Le strutture dei composti d'interesse sono riportati in Figura \ref{fig:generale_curcdone} in si possono osservare i farmacofori della molecola di Curcumina (in rosso) e del Donepezil (in blu). Le funzionalità sono state collegate in maniera differente in modo da poter razionalizzare quale delle due serie (sempre mostrate in Figura \ref{fig:generale_curcdone}) presenti una migliore attività farmacologica. Diversi sostituenti sono stati impiegati per la medesima ragione.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\linewidth]{immagini/generale_curcdone.png}
+	\caption{Formule di struttura dei composti ottenuti per fusione dei farmacofori appartenenti alla Curcumina (in rosso) e al Donepezil (in blu).}
+	\label{fig:generale_curcdone}
+\end{figure}
+
+
+
+\subsection{Sintesi}
+Il processo di sintesi per i composti d'interesse può essere scomposto nella sintesi dei farmacofori necessari; questi verranno poi accoppiati per formare i prodotti finali mediante condensazione aldolica.
+
+\subsubsection{Sintesi del Farmacoforo del Donepezil}
+La reazione è rappresentata in maniera schematica in Figura \ref{fig:faradone_curcdone}. A partire dai reagenti commerciali 1a-1b si effettua una reazione di Wittig in presenza di \ce{K2CO3} con l'intento di trasformare la funzione carbonilica in una esterea con un insaturazione in posizione $\beta$. I prodotti 2a-2b ottenuti subiscono un processo di riduzione P
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\linewidth]{immagini/farmadone_curcdone.png}
+	\caption{Passaggi sintetici per ottenere le due forme del farmacoforo del Donepezil.}
+	\label{fig:farmadone_curcdone}
+\end{figure}
+
+\subsection{Sintesi dei Composti della Serie II}
+
 
 \section{Leganti Bipiridinici}
 \label{sec:byp}
@@ -385,7 +457,6 @@ Benché le molecole sintetizzate risultino efficaci nella chelazione dei metalli
 
 
 \newpage
-
 
 
 

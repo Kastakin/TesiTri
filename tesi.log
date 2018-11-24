@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  18 NOV 2018 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  24 NOV 2018 13:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -400,23 +400,30 @@ File: upzd.fd 2001/06/04 font definitions for U/pzd.
 LaTeX Font Info:    Try loading font information for U+psy on input line 64.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-)) (./tesi.aux)
+)) (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+) (./tesi.aux)
 \openout1 = `tesi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Info: Redefining \it@ocap on input line 23.
-LaTeX Info: Redefining \it@ccap on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Info: Redefining \it@ocap on input line 24.
+LaTeX Info: Redefining \it@ccap on input line 24.
 
 
 File italian.ldf warning: 
@@ -424,7 +431,7 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 23.
+italian.ldf    on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -478,7 +485,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 23.
+. Activating mapping `default' on line 24.
 .................................................
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -488,173 +495,222 @@ Package caption Info: End \AtBeginDocument code.
 \tf@toc=\write3
 \openout3 = `tesi.toc'.
 
- [1] [1] [2]
-<immagini/APP.png, id=19, 205.0059pt x 95.3964pt>
+ [1] [2] [1] [2]
+<immagini/APP.png, id=22, 205.0059pt x 95.3964pt>
 File: immagini/APP.png Graphic file (type png)
 <use immagini/APP.png>
-Package pdftex.def Info: immagini/APP.png  used on input line 63.
+Package pdftex.def Info: immagini/APP.png  used on input line 64.
 (pdftex.def)             Requested size: 390.0pt x 181.48497pt.
  [3 <./immagini/APP.png>]
-<immagini/bbb.png, id=25, 353.82187pt x 241.65282pt>
+<immagini/bbb.png, id=28, 353.82187pt x 241.65282pt>
 File: immagini/bbb.png Graphic file (type png)
 <use immagini/bbb.png>
-Package pdftex.def Info: immagini/bbb.png  used on input line 84.
+Package pdftex.def Info: immagini/bbb.png  used on input line 85.
 (pdftex.def)             Requested size: 312.00119pt x 213.09392pt.
  [4] [5 <./immagini/bbb.PNG>] [6]
-<immagini/resveratrolo.png, id=38, 108.8868pt x 61.6704pt>
+<immagini/resveratrolo.png, id=41, 108.8868pt x 61.6704pt>
 File: immagini/resveratrolo.png Graphic file (type png)
 <use immagini/resveratrolo.png>
-Package pdftex.def Info: immagini/resveratrolo.png  used on input line 124.
+Package pdftex.def Info: immagini/resveratrolo.png  used on input line 125.
 (pdftex.def)             Requested size: 195.0pt x 110.45328pt.
  [7] [8 <./immagini/resveratrolo.png>]
-<immagini/h-m_resveratrolo.png, id=46, 236.082pt x 101.178pt>
+<immagini/h-m_resveratrolo.png, id=49, 236.082pt x 101.178pt>
 File: immagini/h-m_resveratrolo.png Graphic file (type png)
 <use immagini/h-m_resveratrolo.png>
-Package pdftex.def Info: immagini/h-m_resveratrolo.png  used on input line 146.
+Package pdftex.def Info: immagini/h-m_resveratrolo.png  used on input line 147.
 (pdftex.def)             Requested size: 390.0pt x 167.15569pt.
  [9 <./immagini/h-m_resveratrolo.png>] [10]
-<immagini/perc_cata_resv.png, id=55, 324.2514pt x 144.2991pt>
+<immagini/perc_cata_resv.png, id=59, 324.2514pt x 144.2991pt>
 File: immagini/perc_cata_resv.png Graphic file (type png)
 <use immagini/perc_cata_resv.png>
-Package pdftex.def Info: immagini/perc_cata_resv.png  used on input line 165.
+Package pdftex.def Info: immagini/perc_cata_resv.png  used on input line 166.
 (pdftex.def)             Requested size: 390.0pt x 173.55876pt.
-<immagini/deprot_resveratrolo.png, id=56, 277.035pt x 74.679pt>
+<immagini/deprot_resveratrolo.png, id=60, 277.035pt x 74.679pt>
 File: immagini/deprot_resveratrolo.png Graphic file (type png)
 <use immagini/deprot_resveratrolo.png>
-Package pdftex.def Info: immagini/deprot_resveratrolo.png  used on input line 178.
+Package pdftex.def Info: immagini/deprot_resveratrolo.png  used on input line 179.
 (pdftex.def)             Requested size: 390.0pt x 105.13101pt.
  [11 <./immagini/perc_cata_resv.png>]
-<immagini/acetilcolina.png, id=62, 166.221pt x 67.452pt>
+<immagini/acetilcolina.png, id=65, 166.221pt x 67.452pt>
 File: immagini/acetilcolina.png Graphic file (type png)
 <use immagini/acetilcolina.png>
-Package pdftex.def Info: immagini/acetilcolina.png  used on input line 196.
+Package pdftex.def Info: immagini/acetilcolina.png  used on input line 197.
 (pdftex.def)             Requested size: 155.99762pt x 63.30402pt.
-<immagini/colina.png, id=63, 158.191pt x 73.073pt>
+<immagini/colina.png, id=66, 158.191pt x 73.073pt>
 File: immagini/colina.png Graphic file (type png)
 <use immagini/colina.png>
-Package pdftex.def Info: immagini/colina.png  used on input line 201.
+Package pdftex.def Info: immagini/colina.png  used on input line 202.
 (pdftex.def)             Requested size: 155.99762pt x 72.06038pt.
  [12 <./immagini/deprot_resveratrolo.png> <./immagini/acetilcolina.png> <./immagini/colina.png>]
-<immagini/oly_resveratrolo.png, id=71, 164.2938pt x 188.6247pt>
+<immagini/oly_resveratrolo.png, id=74, 164.2938pt x 188.6247pt>
 File: immagini/oly_resveratrolo.png Graphic file (type png)
 <use immagini/oly_resveratrolo.png>
-Package pdftex.def Info: immagini/oly_resveratrolo.png  used on input line 213.
+Package pdftex.def Info: immagini/oly_resveratrolo.png  used on input line 214.
 (pdftex.def)             Requested size: 390.0pt x 447.7868pt.
  [13 <./immagini/oly_resveratrolo.png>]
-<immagini/ris_resveratrolo.png, id=76, 165.4983pt x 114.6684pt>
+<immagini/ris_resveratrolo.png, id=79, 165.4983pt x 114.6684pt>
 File: immagini/ris_resveratrolo.png Graphic file (type png)
 <use immagini/ris_resveratrolo.png>
-Package pdftex.def Info: immagini/ris_resveratrolo.png  used on input line 222.
+Package pdftex.def Info: immagini/ris_resveratrolo.png  used on input line 223.
 (pdftex.def)             Requested size: 350.99762pt x 243.23755pt.
+ [14 <./immagini/ris_resveratrolo.png>]
+<immagini/apo_resveratrolo.png, id=85, 278.9622pt x 183.5658pt>
+File: immagini/apo_resveratrolo.png Graphic file (type png)
+<use immagini/apo_resveratrolo.png>
+Package pdftex.def Info: immagini/apo_resveratrolo.png  used on input line 236.
+(pdftex.def)             Requested size: 390.0pt x 256.65143pt.
+ [15 <./immagini/apo_resveratrolo.png>]
+<immagini/roi_resveratrolo.png, id=90, 299.4387pt x 99.2508pt>
+File: immagini/roi_resveratrolo.png Graphic file (type png)
+<use immagini/roi_resveratrolo.png>
+Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 245.
+(pdftex.def)             Requested size: 390.0pt x 129.26678pt.
 
-
-LaTeX Warning: Reference `fig:apo_resveratrolo' on page 14 undefined on input line 229.
-
-[14 <./immagini/ris_resveratrolo.png>] [15]
-<immagini/bpy.png, id=85, 597.432pt x 284.262pt>
-File: immagini/bpy.png Graphic file (type png)
-<use immagini/bpy.png>
-Package pdftex.def Info: immagini/bpy.png  used on input line 253.
-(pdftex.def)             Requested size: 117.00119pt x 55.66725pt.
- [16 <./immagini/bpy.png>]
-<immagini/bpy_mod.png, id=90, 304.9794pt x 125.5089pt>
-File: immagini/bpy_mod.png Graphic file (type png)
-<use immagini/bpy_mod.png>
-Package pdftex.def Info: immagini/bpy_mod.png  used on input line 264.
-(pdftex.def)             Requested size: 390.0pt x 160.50143pt.
-<immagini/rea_g.png, id=91, 333.8874pt x 64.3203pt>
-File: immagini/rea_g.png Graphic file (type png)
-<use immagini/rea_g.png>
-Package pdftex.def Info: immagini/rea_g.png  used on input line 275.
-(pdftex.def)             Requested size: 390.0pt x 75.13174pt.
- [17 <./immagini/bpy_mod.PNG>]
-<immagini/stille.png, id=97, 341.77687pt x 266.49562pt>
-File: immagini/stille.png Graphic file (type png)
-<use immagini/stille.png>
-Package pdftex.def Info: immagini/stille.png  used on input line 303.
-(pdftex.def)             Requested size: 350.99762pt x 273.70467pt.
-
-Underfull \hbox (badness 1960) in paragraph at lines 304--304
-[]\OT1/cmr/m/n/12 Figura 13: |Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-
+Overfull \hbox (17.15968pt too wide) in paragraph at lines 252--254
+\OT1/cmr/m/n/12 La Cru-cu-mi-na ((1E,6E)-1,7-bis-(4-idrossi-3-metossifenil)-epta-1,6-dien-3,5-dione
  []
 
-[18 <./immagini/rea_g.png>] [19 <./immagini/stille.png>] [20]
-<immagini/ris_bpy.png, id=109, 183.3249pt x 174.8934pt>
+[16 <./immagini/roi_resveratrolo.png>]
+<immagini/curcumina.png, id=96, 205.568pt x 60.225pt>
+File: immagini/curcumina.png Graphic file (type png)
+<use immagini/curcumina.png>
+Package pdftex.def Info: immagini/curcumina.png  used on input line 272.
+(pdftex.def)             Requested size: 234.00238pt x 68.55702pt.
+ [17 <./immagini/curcumina.png>]
+<immagini/generale_curcdone.png, id=101, 281.6121pt x 178.5069pt>
+File: immagini/generale_curcdone.png Graphic file (type png)
+<use immagini/generale_curcdone.png>
+Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 283.
+(pdftex.def)             Requested size: 390.0pt x 247.22498pt.
+
+
+LaTeX Warning: Reference `fig:faradone_curcdone' on page 18 undefined on input line 294.
+
+[18 <./immagini/generale_curcdone.png>]
+<immagini/farmadone_curcdone.png, id=106, 325.4559pt x 113.9457pt>
+File: immagini/farmadone_curcdone.png Graphic file (type png)
+<use immagini/farmadone_curcdone.png>
+Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 298.
+(pdftex.def)             Requested size: 390.0pt x 136.54984pt.
+ [19 <./immagini/farmadone_curcdone.png>]
+<immagini/bpy.png, id=111, 597.432pt x 284.262pt>
+File: immagini/bpy.png Graphic file (type png)
+<use immagini/bpy.png>
+Package pdftex.def Info: immagini/bpy.png  used on input line 325.
+(pdftex.def)             Requested size: 117.00119pt x 55.66725pt.
+ [20]
+<immagini/bpy_mod.png, id=115, 304.9794pt x 125.5089pt>
+File: immagini/bpy_mod.png Graphic file (type png)
+<use immagini/bpy_mod.png>
+Package pdftex.def Info: immagini/bpy_mod.png  used on input line 336.
+(pdftex.def)             Requested size: 390.0pt x 160.50143pt.
+ [21 <./immagini/bpy.png>]
+<immagini/rea_g.png, id=120, 333.8874pt x 64.3203pt>
+File: immagini/rea_g.png Graphic file (type png)
+<use immagini/rea_g.png>
+Package pdftex.def Info: immagini/rea_g.png  used on input line 347.
+(pdftex.def)             Requested size: 390.0pt x 75.13174pt.
+ [22 <./immagini/bpy_mod.PNG> <./immagini/rea_g.png>]
+<immagini/stille.png, id=127, 341.77687pt x 266.49562pt>
+File: immagini/stille.png Graphic file (type png)
+<use immagini/stille.png>
+Package pdftex.def Info: immagini/stille.png  used on input line 375.
+(pdftex.def)             Requested size: 350.99762pt x 273.70467pt.
+
+Underfull \hbox (badness 1960) in paragraph at lines 376--376
+[]\OT1/cmr/m/n/12 Figura 18: |Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-
+ []
+
+[23] [24 <./immagini/stille.png>] [25]
+<immagini/ris_bpy.png, id=138, 183.3249pt x 174.8934pt>
 File: immagini/ris_bpy.png Graphic file (type png)
 <use immagini/ris_bpy.png>
-Package pdftex.def Info: immagini/ris_bpy.png  used on input line 362.
+Package pdftex.def Info: immagini/ris_bpy.png  used on input line 434.
 (pdftex.def)             Requested size: 390.0pt x 372.08522pt.
- [21]
-<immagini/ris_bpy2.png, id=113, 175.6161pt x 114.9093pt>
+ [26]
+<immagini/ris_bpy2.png, id=142, 175.6161pt x 114.9093pt>
 File: immagini/ris_bpy2.png Graphic file (type png)
 <use immagini/ris_bpy2.png>
-Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 369.
+Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 441.
 (pdftex.def)             Requested size: 390.0pt x 255.21562pt.
- [22 <./immagini/ris_bpy.png>] [23 <./immagini/ris_bpy2.png>] [24] (./tesi.bbl
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
- [25]
+ [27 <./immagini/ris_bpy.png>] [28 <./immagini/ris_bpy2.png>] [29] (./tesi.bbl
 
-./tesi.bbl:73: Package inputenc Error: Unicode character β (U+3B2)
+./tesi.bbl:10: Package inputenc Error: Unicode character β (U+3B2)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.73 ...nhibition of cholinesterase and amyloid-β
+l.10 Protective effect of resveratrol on β
+                                           -amyloid-induced oxidative {PC}12...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+ [30]
+
+./tesi.bbl:78: Package inputenc Error: Unicode character β (U+3B2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 ...nhibition of cholinesterase and amyloid-β
                                                    aggregation by
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./tesi.bbl:80: Package inputenc Error: Unicode character ′ (U+2032)
+./tesi.bbl:85: Package inputenc Error: Unicode character ′ (U+2032)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 \newblock Strategic design of 2,2′
+l.85 \newblock Strategic design of 2,2′
                                          -bipyridine derivatives to modulate
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./tesi.bbl:81: Package inputenc Error: Unicode character β (U+3B2)
+./tesi.bbl:86: Package inputenc Error: Unicode character β (U+3B2)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81   metal–amyloid-β
+l.86   metal–amyloid-β
                           aggregation.
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[26]) [27] (./tesi.aux)
+[31]) [32] (./tesi.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 14320 strings out of 492641
- 263554 string characters out of 6131786
- 331651 words of memory out of 5000000
- 18091 multiletter control sequences out of 15000+600000
+ 14438 strings out of 492641
+ 265681 string characters out of 6131786
+ 332668 words of memory out of 5000000
+ 18200 multiletter control sequences out of 15000+600000
  540269 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,12n,73p,1101b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on tesi.pdf (29 pages, 1378842 bytes).
+Output written on tesi.pdf (35 pages, 2662665 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
+ 204 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

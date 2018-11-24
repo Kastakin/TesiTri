@@ -12,6 +12,9 @@ Warning--entry type for "lennarz_encyclopedia_2004" isn't style-file defined
 Warning--to sort, need author or key in american_psychiatric_association_diagnostic_2013
 Warning--to sort, need author or key in noauthor_world_2018
 Warning--to sort, need author or key in lennarz_encyclopedia_2004
+Warning--to sort, need author or key in noauthor_protective_2003
+Warning--empty author in noauthor_protective_2003
+Warning--empty journal in noauthor_protective_2003
 Warning--empty journal in alejandro_v._martinez_expedient_2017
 Warning--empty journal in brothers_physiological_2018
 Warning--empty year in clayden_organic_2012
@@ -23,6 +26,7 @@ Warning--empty journal in irvine_protein_2008
 Warning--empty journal in jabir_cholinesterase_2018
 Warning--empty journal in jang_inhibition_2008
 Warning--empty journal in ji_strategic_2017
+Warning--empty journal in jiang_traditional_2017
 Warning--empty journal in kepp_bioinorganic_2012
 Warning--empty journal in kumar_review_2015
 Warning--empty journal in kurien_western_2006
@@ -32,45 +36,45 @@ Warning--empty journal in mattson_cellular_1997
 Warning--empty journal in nicolaou_palladium-catalyzed_2005
 Warning--empty journal in savelieff_ongoing_2014
 Warning--empty journal in todd_survival_2013
-You've used 23 entries,
+You've used 25 entries,
             2253 wiz_defined-function locations,
-            655 strings with 8168 characters,
-and the built_in function-call counts, 7726 in all, are:
-= -- 788
-> -- 408
+            664 strings with 8474 characters,
+and the built_in function-call counts, 8278 in all, are:
+= -- 849
+> -- 426
 < -- 0
-+ -- 175
-- -- 146
-* -- 566
-:= -- 1305
-add.period$ -- 74
-call.type$ -- 23
-change.case$ -- 142
++ -- 183
+- -- 152
+* -- 607
+:= -- 1390
+add.period$ -- 79
+call.type$ -- 25
+change.case$ -- 151
 chr.to.int$ -- 0
-cite$ -- 46
-duplicate$ -- 186
-empty$ -- 512
-format.name$ -- 146
-if$ -- 1510
+cite$ -- 52
+duplicate$ -- 201
+empty$ -- 554
+format.name$ -- 152
+if$ -- 1621
 int.to.chr$ -- 0
-int.to.str$ -- 23
-missing$ -- 21
-newline$ -- 123
-num.names$ -- 40
-pop$ -- 151
+int.to.str$ -- 25
+missing$ -- 23
+newline$ -- 132
+num.names$ -- 42
+pop$ -- 161
 preamble$ -- 1
-purify$ -- 119
+purify$ -- 126
 quote$ -- 0
-skip$ -- 110
+skip$ -- 118
 stack$ -- 0
-substring$ -- 652
-swap$ -- 24
+substring$ -- 712
+swap$ -- 25
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 90
-warning$ -- 23
-while$ -- 77
-width$ -- 25
-write$ -- 220
-(There were 26 warnings)
+type$ -- 98
+warning$ -- 27
+while$ -- 83
+width$ -- 27
+write$ -- 236
+(There were 30 warnings)
