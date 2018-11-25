@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  24 NOV 2018 16:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  25 NOV 2018 12:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -569,65 +569,74 @@ Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 245.
 <immagini/curcumina.png, id=96, 205.568pt x 60.225pt>
 File: immagini/curcumina.png Graphic file (type png)
 <use immagini/curcumina.png>
-Package pdftex.def Info: immagini/curcumina.png  used on input line 272.
+Package pdftex.def Info: immagini/curcumina.png  used on input line 271.
 (pdftex.def)             Requested size: 234.00238pt x 68.55702pt.
  [17 <./immagini/curcumina.png>]
 <immagini/generale_curcdone.png, id=101, 281.6121pt x 178.5069pt>
 File: immagini/generale_curcdone.png Graphic file (type png)
 <use immagini/generale_curcdone.png>
-Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 283.
+Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 282.
 (pdftex.def)             Requested size: 390.0pt x 247.22498pt.
  [18 <./immagini/generale_curcdone.png>]
-
-LaTeX Warning: Reference `sec:condserie2' on page 19 undefined on input line 297.
-
 <immagini/farmadone_curcdone.png, id=106, 325.4559pt x 113.9457pt>
 File: immagini/farmadone_curcdone.png Graphic file (type png)
 <use immagini/farmadone_curcdone.png>
-Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 301.
+Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 300.
 (pdftex.def)             Requested size: 390.0pt x 136.54984pt.
-[19] [20 <./immagini/farmadone_curcdone.png>]
-<immagini/bpy.png, id=114, 597.432pt x 284.262pt>
+ [19]
+<immagini/farmacurc_curcdone.png, id=110, 327.8649pt x 127.9179pt>
+File: immagini/farmacurc_curcdone.png Graphic file (type png)
+<use immagini/farmacurc_curcdone.png>
+Package pdftex.def Info: immagini/farmacurc_curcdone.png  used on input line 315.
+(pdftex.def)             Requested size: 390.0pt x 152.16951pt.
+ [20 <./immagini/farmadone_curcdone.png>]
+<immagini/condserie1_curcdone.png, id=115, 370.7451pt x 147.6717pt>
+File: immagini/condserie1_curcdone.png Graphic file (type png)
+<use immagini/condserie1_curcdone.png>
+Package pdftex.def Info: immagini/condserie1_curcdone.png  used on input line 330.
+(pdftex.def)             Requested size: 390.0pt x 155.35052pt.
+ [21 <./immagini/farmacurc_curcdone.png>] [22 <./immagini/condserie1_curcdone.png>]
+<immagini/bpy.png, id=125, 597.432pt x 284.262pt>
 File: immagini/bpy.png Graphic file (type png)
 <use immagini/bpy.png>
-Package pdftex.def Info: immagini/bpy.png  used on input line 328.
+Package pdftex.def Info: immagini/bpy.png  used on input line 358.
 (pdftex.def)             Requested size: 117.00119pt x 55.66725pt.
- [21 <./immagini/bpy.png>]
-<immagini/bpy_mod.png, id=119, 304.9794pt x 125.5089pt>
+ [23 <./immagini/bpy.png>]
+<immagini/bpy_mod.png, id=130, 304.9794pt x 125.5089pt>
 File: immagini/bpy_mod.png Graphic file (type png)
 <use immagini/bpy_mod.png>
-Package pdftex.def Info: immagini/bpy_mod.png  used on input line 339.
+Package pdftex.def Info: immagini/bpy_mod.png  used on input line 369.
 (pdftex.def)             Requested size: 390.0pt x 160.50143pt.
- [22 <./immagini/bpy_mod.PNG>]
-<immagini/rea_g.png, id=125, 333.8874pt x 64.3203pt>
+ [24 <./immagini/bpy_mod.PNG>]
+<immagini/rea_g.png, id=135, 333.8874pt x 64.3203pt>
 File: immagini/rea_g.png Graphic file (type png)
 <use immagini/rea_g.png>
-Package pdftex.def Info: immagini/rea_g.png  used on input line 350.
+Package pdftex.def Info: immagini/rea_g.png  used on input line 380.
 (pdftex.def)             Requested size: 390.0pt x 75.13174pt.
- [23 <./immagini/rea_g.png>]
-<immagini/stille.png, id=130, 341.77687pt x 266.49562pt>
+ [25 <./immagini/rea_g.png>]
+<immagini/stille.png, id=140, 341.77687pt x 266.49562pt>
 File: immagini/stille.png Graphic file (type png)
 <use immagini/stille.png>
-Package pdftex.def Info: immagini/stille.png  used on input line 378.
+Package pdftex.def Info: immagini/stille.png  used on input line 408.
 (pdftex.def)             Requested size: 350.99762pt x 273.70467pt.
 
-Underfull \hbox (badness 1960) in paragraph at lines 379--379
-[]\OT1/cmr/m/n/12 Figura 18: |Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-
+Underfull \hbox (badness 1960) in paragraph at lines 409--409
+[]\OT1/cmr/m/n/12 Figura 20: |Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-
  []
 
-[24 <./immagini/stille.png>] [25]
-<immagini/ris_bpy.png, id=138, 183.3249pt x 174.8934pt>
+[26 <./immagini/stille.png>] [27]
+<immagini/ris_bpy.png, id=148, 183.3249pt x 174.8934pt>
 File: immagini/ris_bpy.png Graphic file (type png)
 <use immagini/ris_bpy.png>
-Package pdftex.def Info: immagini/ris_bpy.png  used on input line 437.
+Package pdftex.def Info: immagini/ris_bpy.png  used on input line 467.
 (pdftex.def)             Requested size: 390.0pt x 372.08522pt.
- [26]
-<immagini/ris_bpy2.png, id=142, 175.6161pt x 114.9093pt>
+ [28]
+<immagini/ris_bpy2.png, id=153, 175.6161pt x 114.9093pt>
 File: immagini/ris_bpy2.png Graphic file (type png)
 <use immagini/ris_bpy2.png>
-Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 444.
+Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 474.
 (pdftex.def)             Requested size: 390.0pt x 255.21562pt.
- [27 <./immagini/ris_bpy.png>] [28 <./immagini/ris_bpy2.png>] [29] [30] (./tesi.bbl
+ [29 <./immagini/ris_bpy.png>] [30 <./immagini/ris_bpy2.png>] [31] [32] (./tesi.bbl
 
 ./tesi.bbl:10: Package inputenc Error: Unicode character β (U+3B2)
 (inputenc)                not set up for use with LaTeX.
@@ -647,7 +656,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
- [31]
+ [33]
 
 ./tesi.bbl:84: Package inputenc Error: Unicode character β (U+3B2)
 (inputenc)                not set up for use with LaTeX.
@@ -687,24 +696,20 @@ l.92   metal–amyloid-β
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[32]) [33] (./tesi.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[34]) [35] (./tesi.aux) ) 
 Here is how much of TeX's memory you used:
- 14440 strings out of 492641
- 265712 string characters out of 6131786
- 332686 words of memory out of 5000000
- 18202 multiletter control sequences out of 15000+600000
+ 14454 strings out of 492641
+ 266129 string characters out of 6131786
+ 332745 words of memory out of 5000000
+ 18214 multiletter control sequences out of 15000+600000
  540269 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,12n,73p,1101b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on tesi.pdf (36 pages, 2664772 bytes).
+Output written on tesi.pdf (38 pages, 3128923 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+ 220 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
