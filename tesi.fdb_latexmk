@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex tesi"] 1543145883 "tesi.aux" "tesi.bbl" "tesi" 1543145895
+["bibtex tesi"] 1543227506 "tesi.aux" "tesi.bbl" "tesi" 1543227516
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/acm.bst" 1480098433 21064 c61a48664f3c347ce7f73c1a6a530506 ""
   "biblio.bib" 1543071616 51130 da6032f326ee9bb53a8c7d28f41669b6 ""
-  "tesi.aux" 1543145895 11320 f43da77e68f407e9383609c7a6b0fac4 ""
+  "tesi.aux" 1543227515 12393 fc2f684f0965f6b7c4eb06073111bd32 ""
   (generated)
   "tesi.bbl"
   "tesi.blg"
-["pdflatex"] 1543145883 "tesi.tex" "tesi.pdf" "tesi" 1543145895
+["pdflatex"] 1543227506 "tesi.tex" "tesi.pdf" "tesi" 1543227516
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -102,6 +102,7 @@
   "immagini/bpy_mod.PNG" 1541345081 198541 a5c008555a5e3590516fcfdeae0d89c6 ""
   "immagini/colina.png" 1542552061 3350 d44c20dfb8c4232f0b9e09f49e114800 ""
   "immagini/condserie1_curcdone.png" 1543145406 390269 793662e0e4b20405be86d0bd656ff38f ""
+  "immagini/condserie2_curcdone.png" 1543218966 170690 f405b6ed01833a959b57f95c8681cc13 ""
   "immagini/curcumina.png" 1543056816 4563 73e9bbd04eed777000861a5d0915f823 ""
   "immagini/deprot_resveratrolo.png" 1542367847 42161 747264c885813643f314a102eafa24fa ""
   "immagini/farmacurc_curcdone.png" 1543141600 208237 494f1a83d289f2bcc188e89df29a7371 ""
@@ -116,17 +117,19 @@
   "immagini/ris_bpy2.png" 1541407320 282231 2594ff18ed98371631dc82d7b51145d8 ""
   "immagini/ris_resveratrolo.png" 1542554135 43156 8ebf78e0c12ad2cd1b4cf460b99a5311 ""
   "immagini/roi_resveratrolo.png" 1542617382 352014 23a2a5c8751c211d11b785d39d0e1207 ""
+  "immagini/selfab_curcdone.png" 1543226957 22236 66feb04db1633af1264d2ac64f032da2 ""
   "immagini/stille.png" 1541363960 115603 45aba109ef54c9d1063e162de6b316fc ""
-  "tesi.aux" 1543145895 11320 f43da77e68f407e9383609c7a6b0fac4 ""
-  "tesi.bbl" 1543145883 5422 27dbd862faf4954a096ca6b60bc5187f "bibtex tesi"
-  "tesi.tex" 1543145873 43995 08ee0d782a10855f5db8588e1f3ce0be ""
-  "tesi.toc" 1543145895 2236 31a1479de92cd93b0679dc72408cfb5c ""
+  "immagini/tabellacomposti_curcdone.png" 1543222054 114024 ebba68bf4889991bfe1564e9a0dafe37 ""
+  "tesi.aux" 1543227515 12393 fc2f684f0965f6b7c4eb06073111bd32 ""
+  "tesi.bbl" 1543227506 5422 27dbd862faf4954a096ca6b60bc5187f "bibtex tesi"
+  "tesi.tex" 1543227485 48716 a49c67081b221e2ef773016f6cc04701 ""
+  "tesi.toc" 1543227515 2321 509562829decd9bc9cd097e5d2da4139 ""
   (generated)
-  "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
-  "tesi.toc"
-  "tesi.lot"
   "tesi.lof"
+  "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
+  "tesi.lot"
   "tesi.log"
-  "tesi.pdf"
   "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
   "tesi.aux"
+  "tesi.toc"
+  "tesi.pdf"
