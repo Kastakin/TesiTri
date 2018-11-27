@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  26 NOV 2018 11:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  27 NOV 2018 21:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -407,23 +407,281 @@ Package tocbibind Info: The document has section divisions on input line 50.
 
 Package tocbibind Note: Using section or other style headings.
 
-) (./tesi.aux)
+) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2018/03/04 v3.11 programmable bibliographies (PK/MW)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+))) (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count273
+ (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write3
+\integerpart=\count274
+\decimalpart=\count275
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count276
+\c@listtotal=\count277
+\c@listcount=\count278
+\c@liststart=\count279
+\c@liststop=\count280
+\c@citecount=\count281
+\c@citetotal=\count282
+\c@multicitecount=\count283
+\c@multicitetotal=\count284
+\c@instcount=\count285
+\c@maxnames=\count286
+\c@minnames=\count287
+\c@maxitems=\count288
+\c@minitems=\count289
+\c@citecounter=\count290
+\c@savedcitecounter=\count291
+\c@uniquelist=\count292
+\c@uniquename=\count293
+\c@refsection=\count294
+\c@refsegment=\count295
+\c@maxextratitle=\count296
+\c@maxextratitleyear=\count297
+\c@maxextradate=\count298
+\c@maxextraalpha=\count299
+\c@abbrvpenalty=\count300
+\c@highnamepenalty=\count301
+\c@lownamepenalty=\count302
+\c@maxparens=\count303
+\c@parenlevel=\count304
+\blx@tempcnta=\count305
+\blx@tempcntb=\count306
+\blx@tempcntc=\count307
+\blx@maxsection=\count308
+\blx@maxsegment@0=\count309
+\blx@notetype=\count310
+\blx@parenlevel@text=\count311
+\blx@parenlevel@foot=\count312
+\blx@sectionciteorder@0=\count313
+\labelnumberwidth=\skip65
+\labelalphawidth=\skip66
+\biblabelsep=\skip67
+\bibitemsep=\skip68
+\bibnamesep=\skip69
+\bibinitsep=\skip70
+\bibparsep=\skip71
+\bibhang=\skip72
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\c@mincomprange=\count314
+\c@maxcomprange=\count315
+\c@mincompwidth=\count316
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'chem-acs.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count317
+\c@savedafterword=\count318
+\c@annotator=\count319
+\c@savedannotator=\count320
+\c@author=\count321
+\c@savedauthor=\count322
+\c@bookauthor=\count323
+\c@savedbookauthor=\count324
+\c@commentator=\count325
+\c@savedcommentator=\count326
+\c@editor=\count327
+\c@savededitor=\count328
+\c@editora=\count329
+\c@savededitora=\count330
+\c@editorb=\count331
+\c@savededitorb=\count332
+\c@editorc=\count333
+\c@savededitorc=\count334
+\c@foreword=\count335
+\c@savedforeword=\count336
+\c@holder=\count337
+\c@savedholder=\count338
+\c@introduction=\count339
+\c@savedintroduction=\count340
+\c@namea=\count341
+\c@savednamea=\count342
+\c@nameb=\count343
+\c@savednameb=\count344
+\c@namec=\count345
+\c@savednamec=\count346
+\c@translator=\count347
+\c@savedtranslator=\count348
+\c@shortauthor=\count349
+\c@savedshortauthor=\count350
+\c@shorteditor=\count351
+\c@savedshorteditor=\count352
+\c@labelname=\count353
+\c@savedlabelname=\count354
+\c@institution=\count355
+\c@savedinstitution=\count356
+\c@lista=\count357
+\c@savedlista=\count358
+\c@listb=\count359
+\c@savedlistb=\count360
+\c@listc=\count361
+\c@savedlistc=\count362
+\c@listd=\count363
+\c@savedlistd=\count364
+\c@liste=\count365
+\c@savedliste=\count366
+\c@listf=\count367
+\c@savedlistf=\count368
+\c@location=\count369
+\c@savedlocation=\count370
+\c@organization=\count371
+\c@savedorganization=\count372
+\c@origlocation=\count373
+\c@savedoriglocation=\count374
+\c@origpublisher=\count375
+\c@savedorigpublisher=\count376
+\c@publisher=\count377
+\c@savedpublisher=\count378
+\c@language=\count379
+\c@savedlanguage=\count380
+\c@origlanguage=\count381
+\c@savedoriglanguage=\count382
+\c@pageref=\count383
+\c@savedpageref=\count384
+\shorthandwidth=\skip73
+\shortjournalwidth=\skip74
+\shortserieswidth=\skip75
+\shorttitlewidth=\skip76
+\shortauthorwidth=\skip77
+\shorteditorwidth=\skip78
+\locallabelnumberwidth=\skip79
+\locallabelalphawidth=\skip80
+\localshorthandwidth=\skip81
+\localshortjournalwidth=\skip82
+\localshortserieswidth=\skip83
+\localshorttitlewidth=\skip84
+\localshortauthorwidth=\skip85
+\localshorteditorwidth=\skip86
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2018/03/04 v3.11 biblatex compatibility (PK/MW)
+\c@textcitecount=\count385
+\c@textcitetotal=\count386
+\c@textcitemaxnames=\count387
+\c@biburlnumpenalty=\count388
+\c@biburlucpenalty=\count389
+\c@biburllcpenalty=\count390
+\c@smartand=\count391
+)
+Package biblatex Info: Trying to load bibliography style 'chem-acs'...
+Package biblatex Info: ... file 'chem-acs.bbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-chem/chem-acs.bbx
+File: chem-acs.bbx 2018/01/24 v1.1u biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2018/03/04 v3.11 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count392
+\c@bbx:relatedtotal=\count393
+))))
+Package biblatex Info: Trying to load citation style 'chem-acs'...
+Package biblatex Info: ... file 'chem-acs.cbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex-chem/chem-acs.cbx
+File: chem-acs.cbx 2018/01/24 v1.1u biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2018/03/04 v3.11 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count394
+\c@cbx@tempcntb=\count395
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+Package biblatex Info: Trying to load language 'italian'...
+Package biblatex Info: ... file 'italian.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
+File: italian.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count396
+\@quotereset=\count397
+(./tesi.aux)
 \openout1 = `tesi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Info: Redefining \it@ocap on input line 24.
-LaTeX Info: Redefining \it@ccap on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Info: Redefining \it@ocap on input line 29.
+LaTeX Info: Redefining \it@ccap on input line 29.
 
 
 File italian.ldf warning: 
@@ -431,50 +689,28 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 24.
+italian.ldf    on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count273
+\scratchcounter=\count398
 \scratchdimen=\dimen160
 \scratchbox=\box45
-\nofMPsegments=\count274
-\nofMParguments=\count275
+\nofMPsegments=\count399
+\nofMParguments=\count400
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count276
+\MPscratchCnt=\count401
 \MPscratchDim=\dimen161
-\MPnumerator=\count277
-\makeMPintoPDFobject=\count278
+\MPnumerator=\count402
+\makeMPintoPDFobject=\count403
 \everyMPtoPDFconversion=\toks25
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-))) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)))) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
+))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
@@ -485,249 +721,229 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 24.
+. Activating mapping `default' on line 29.
 .................................................
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `tesi.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'tesi.bbl' found.
+ (./tesi.bbl)
+Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference segment=0 on input line 29.
  [0
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./tesi.toc [1])
-\tf@toc=\write3
-\openout3 = `tesi.toc'.
+\tf@toc=\write5
+\openout5 = `tesi.toc'.
 
  [2] [1] [2]
 <immagini/APP.png, id=22, 205.0059pt x 95.3964pt>
 File: immagini/APP.png Graphic file (type png)
 <use immagini/APP.png>
-Package pdftex.def Info: immagini/APP.png  used on input line 64.
+Package pdftex.def Info: immagini/APP.png  used on input line 69.
 (pdftex.def)             Requested size: 390.0pt x 181.48497pt.
  [3 <./immagini/APP.png>]
 <immagini/bbb.png, id=28, 353.82187pt x 241.65282pt>
 File: immagini/bbb.png Graphic file (type png)
 <use immagini/bbb.png>
-Package pdftex.def Info: immagini/bbb.png  used on input line 85.
+Package pdftex.def Info: immagini/bbb.png  used on input line 90.
 (pdftex.def)             Requested size: 312.00119pt x 213.09392pt.
  [4] [5 <./immagini/bbb.PNG>] [6]
 <immagini/resveratrolo.png, id=41, 108.8868pt x 61.6704pt>
 File: immagini/resveratrolo.png Graphic file (type png)
 <use immagini/resveratrolo.png>
-Package pdftex.def Info: immagini/resveratrolo.png  used on input line 125.
+Package pdftex.def Info: immagini/resveratrolo.png  used on input line 130.
 (pdftex.def)             Requested size: 195.0pt x 110.45328pt.
  [7] [8 <./immagini/resveratrolo.png>]
 <immagini/h-m_resveratrolo.png, id=49, 236.082pt x 101.178pt>
 File: immagini/h-m_resveratrolo.png Graphic file (type png)
 <use immagini/h-m_resveratrolo.png>
-Package pdftex.def Info: immagini/h-m_resveratrolo.png  used on input line 147.
+Package pdftex.def Info: immagini/h-m_resveratrolo.png  used on input line 152.
 (pdftex.def)             Requested size: 390.0pt x 167.15569pt.
  [9 <./immagini/h-m_resveratrolo.png>] [10]
 <immagini/perc_cata_resv.png, id=59, 324.2514pt x 144.2991pt>
 File: immagini/perc_cata_resv.png Graphic file (type png)
 <use immagini/perc_cata_resv.png>
-Package pdftex.def Info: immagini/perc_cata_resv.png  used on input line 166.
+Package pdftex.def Info: immagini/perc_cata_resv.png  used on input line 171.
 (pdftex.def)             Requested size: 390.0pt x 173.55876pt.
 <immagini/deprot_resveratrolo.png, id=60, 277.035pt x 74.679pt>
 File: immagini/deprot_resveratrolo.png Graphic file (type png)
 <use immagini/deprot_resveratrolo.png>
-Package pdftex.def Info: immagini/deprot_resveratrolo.png  used on input line 179.
+Package pdftex.def Info: immagini/deprot_resveratrolo.png  used on input line 184.
 (pdftex.def)             Requested size: 390.0pt x 105.13101pt.
  [11 <./immagini/perc_cata_resv.png>]
 <immagini/acetilcolina.png, id=65, 166.221pt x 67.452pt>
 File: immagini/acetilcolina.png Graphic file (type png)
 <use immagini/acetilcolina.png>
-Package pdftex.def Info: immagini/acetilcolina.png  used on input line 197.
+Package pdftex.def Info: immagini/acetilcolina.png  used on input line 203.
 (pdftex.def)             Requested size: 155.99762pt x 63.30402pt.
 <immagini/colina.png, id=66, 158.191pt x 73.073pt>
 File: immagini/colina.png Graphic file (type png)
 <use immagini/colina.png>
-Package pdftex.def Info: immagini/colina.png  used on input line 202.
+Package pdftex.def Info: immagini/colina.png  used on input line 208.
 (pdftex.def)             Requested size: 155.99762pt x 72.06038pt.
  [12 <./immagini/deprot_resveratrolo.png> <./immagini/acetilcolina.png> <./immagini/colina.png>]
 <immagini/oly_resveratrolo.png, id=74, 164.2938pt x 188.6247pt>
 File: immagini/oly_resveratrolo.png Graphic file (type png)
 <use immagini/oly_resveratrolo.png>
-Package pdftex.def Info: immagini/oly_resveratrolo.png  used on input line 214.
+Package pdftex.def Info: immagini/oly_resveratrolo.png  used on input line 220.
 (pdftex.def)             Requested size: 390.0pt x 447.7868pt.
  [13 <./immagini/oly_resveratrolo.png>]
 <immagini/ris_resveratrolo.png, id=79, 165.4983pt x 114.6684pt>
 File: immagini/ris_resveratrolo.png Graphic file (type png)
 <use immagini/ris_resveratrolo.png>
-Package pdftex.def Info: immagini/ris_resveratrolo.png  used on input line 223.
+Package pdftex.def Info: immagini/ris_resveratrolo.png  used on input line 229.
 (pdftex.def)             Requested size: 350.99762pt x 243.23755pt.
  [14 <./immagini/ris_resveratrolo.png>]
 <immagini/apo_resveratrolo.png, id=85, 278.9622pt x 183.5658pt>
 File: immagini/apo_resveratrolo.png Graphic file (type png)
 <use immagini/apo_resveratrolo.png>
-Package pdftex.def Info: immagini/apo_resveratrolo.png  used on input line 236.
+Package pdftex.def Info: immagini/apo_resveratrolo.png  used on input line 242.
 (pdftex.def)             Requested size: 390.0pt x 256.65143pt.
  [15 <./immagini/apo_resveratrolo.png>]
 <immagini/roi_resveratrolo.png, id=90, 299.4387pt x 99.2508pt>
 File: immagini/roi_resveratrolo.png Graphic file (type png)
 <use immagini/roi_resveratrolo.png>
-Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 245.
+Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 251.
 (pdftex.def)             Requested size: 390.0pt x 129.26678pt.
  [16 <./immagini/roi_resveratrolo.png>]
-<immagini/curcumina.png, id=96, 205.568pt x 60.225pt>
+<immagini/curcumina.png, id=96, 1172.38pt x 417.56pt>
 File: immagini/curcumina.png Graphic file (type png)
 <use immagini/curcumina.png>
-Package pdftex.def Info: immagini/curcumina.png  used on input line 271.
-(pdftex.def)             Requested size: 234.00238pt x 68.55702pt.
+Package pdftex.def Info: immagini/curcumina.png  used on input line 277.
+(pdftex.def)             Requested size: 234.00238pt x 83.33849pt.
  [17 <./immagini/curcumina.png>]
 <immagini/generale_curcdone.png, id=101, 281.6121pt x 178.5069pt>
 File: immagini/generale_curcdone.png Graphic file (type png)
 <use immagini/generale_curcdone.png>
-Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 282.
+Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 288.
 (pdftex.def)             Requested size: 390.0pt x 247.22498pt.
  [18 <./immagini/generale_curcdone.png>]
 <immagini/farmadone_curcdone.png, id=106, 325.4559pt x 113.9457pt>
 File: immagini/farmadone_curcdone.png Graphic file (type png)
 <use immagini/farmadone_curcdone.png>
-Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 300.
+Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 306.
 (pdftex.def)             Requested size: 390.0pt x 136.54984pt.
  [19]
 <immagini/farmacurc_curcdone.png, id=110, 327.8649pt x 127.9179pt>
 File: immagini/farmacurc_curcdone.png Graphic file (type png)
 <use immagini/farmacurc_curcdone.png>
-Package pdftex.def Info: immagini/farmacurc_curcdone.png  used on input line 315.
+Package pdftex.def Info: immagini/farmacurc_curcdone.png  used on input line 321.
 (pdftex.def)             Requested size: 390.0pt x 152.16951pt.
  [20 <./immagini/farmadone_curcdone.png>]
 <immagini/condserie1_curcdone.png, id=115, 370.7451pt x 147.6717pt>
 File: immagini/condserie1_curcdone.png Graphic file (type png)
 <use immagini/condserie1_curcdone.png>
-Package pdftex.def Info: immagini/condserie1_curcdone.png  used on input line 330.
+Package pdftex.def Info: immagini/condserie1_curcdone.png  used on input line 336.
 (pdftex.def)             Requested size: 390.0pt x 155.35052pt.
  [21 <./immagini/farmacurc_curcdone.png>]
 <immagini/condserie2_curcdone.png, id=120, 349.305pt x 106.7187pt>
 File: immagini/condserie2_curcdone.png Graphic file (type png)
 <use immagini/condserie2_curcdone.png>
-Package pdftex.def Info: immagini/condserie2_curcdone.png  used on input line 343.
+Package pdftex.def Info: immagini/condserie2_curcdone.png  used on input line 349.
 (pdftex.def)             Requested size: 390.0pt x 119.15935pt.
  [22 <./immagini/condserie1_curcdone.png> <./immagini/condserie2_curcdone.png>]
 <immagini/tabellacomposti_curcdone.png, id=127, 266.4354pt x 182.3613pt>
 File: immagini/tabellacomposti_curcdone.png Graphic file (type png)
 <use immagini/tabellacomposti_curcdone.png>
-Package pdftex.def Info: immagini/tabellacomposti_curcdone.png  used on input line 353.
+Package pdftex.def Info: immagini/tabellacomposti_curcdone.png  used on input line 361.
 (pdftex.def)             Requested size: 312.00119pt x 213.57054pt.
  [23 <./immagini/tabellacomposti_curcdone.png>] [24]
-<immagini/selfab_curcdone.png, id=135, 262.581pt x 41.6757pt>
+<immagini/roi_curcdone.png, id=135, 262.581pt x 31.7988pt>
+File: immagini/roi_curcdone.png Graphic file (type png)
+<use immagini/roi_curcdone.png>
+Package pdftex.def Info: immagini/roi_curcdone.png  used on input line 385.
+(pdftex.def)             Requested size: 390.0pt x 47.23225pt.
+ [25 <./immagini/roi_curcdone.png>]
+<immagini/selfab_curcdone.png, id=140, 262.581pt x 41.6757pt>
 File: immagini/selfab_curcdone.png Graphic file (type png)
 <use immagini/selfab_curcdone.png>
-Package pdftex.def Info: immagini/selfab_curcdone.png  used on input line 377.
-(pdftex.def)             Requested size: 312.00119pt x 49.52219pt.
- [25 <./immagini/selfab_curcdone.png>]
-<immagini/bpy.png, id=140, 597.432pt x 284.262pt>
+Package pdftex.def Info: immagini/selfab_curcdone.png  used on input line 397.
+(pdftex.def)             Requested size: 390.0pt x 61.90288pt.
+<immagini/metab_curcdone.png, id=141, 258.7266pt x 191.9973pt>
+File: immagini/metab_curcdone.png Graphic file (type png)
+<use immagini/metab_curcdone.png>
+Package pdftex.def Info: immagini/metab_curcdone.png  used on input line 406.
+(pdftex.def)             Requested size: 390.0pt x 289.419pt.
+ [26 <./immagini/selfab_curcdone.png>] [27 <./immagini/metab_curcdone.png>]
+<immagini/bpy.png, id=150, 240.097pt x 82.709pt>
 File: immagini/bpy.png Graphic file (type png)
 <use immagini/bpy.png>
-Package pdftex.def Info: immagini/bpy.png  used on input line 403.
-(pdftex.def)             Requested size: 117.00119pt x 55.66725pt.
- [26 <./immagini/bpy.png>]
-<immagini/bpy_mod.png, id=145, 304.9794pt x 125.5089pt>
+Package pdftex.def Info: immagini/bpy.png  used on input line 431.
+(pdftex.def)             Requested size: 195.0pt x 67.17438pt.
+ [28]
+<immagini/bpy_mod.png, id=155, 304.9794pt x 125.5089pt>
 File: immagini/bpy_mod.png Graphic file (type png)
 <use immagini/bpy_mod.png>
-Package pdftex.def Info: immagini/bpy_mod.png  used on input line 414.
+Package pdftex.def Info: immagini/bpy_mod.png  used on input line 442.
 (pdftex.def)             Requested size: 390.0pt x 160.50143pt.
- [27 <./immagini/bpy_mod.PNG>]
-<immagini/rea_g.png, id=150, 333.8874pt x 64.3203pt>
+ [29 <./immagini/bpy.png>]
+<immagini/rea_g.png, id=160, 333.8874pt x 64.3203pt>
 File: immagini/rea_g.png Graphic file (type png)
 <use immagini/rea_g.png>
-Package pdftex.def Info: immagini/rea_g.png  used on input line 425.
+Package pdftex.def Info: immagini/rea_g.png  used on input line 457.
 (pdftex.def)             Requested size: 390.0pt x 75.13174pt.
- [28 <./immagini/rea_g.png>]
-<immagini/stille.png, id=156, 341.77687pt x 266.49562pt>
+ [30 <./immagini/bpy_mod.PNG>]
+<immagini/stille.png, id=165, 341.77687pt x 266.49562pt>
 File: immagini/stille.png Graphic file (type png)
 <use immagini/stille.png>
-Package pdftex.def Info: immagini/stille.png  used on input line 453.
+Package pdftex.def Info: immagini/stille.png  used on input line 474.
 (pdftex.def)             Requested size: 350.99762pt x 273.70467pt.
 
-Underfull \hbox (badness 1960) in paragraph at lines 454--454
-[]\OT1/cmr/m/n/12 Figura 23: |Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-
+Underfull \hbox (badness 1960) in paragraph at lines 475--475
+[]\OT1/cmr/m/n/12 Figura 25: |Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-
  []
 
-[29 <./immagini/stille.png>] [30]
-<immagini/ris_bpy.png, id=164, 183.3249pt x 174.8934pt>
+[31 <./immagini/rea_g.png>] [32 <./immagini/stille.png>]
+<immagini/ris_bpy.png, id=174, 183.3249pt x 174.8934pt>
 File: immagini/ris_bpy.png Graphic file (type png)
 <use immagini/ris_bpy.png>
-Package pdftex.def Info: immagini/ris_bpy.png  used on input line 512.
+Package pdftex.def Info: immagini/ris_bpy.png  used on input line 497.
 (pdftex.def)             Requested size: 390.0pt x 372.08522pt.
- [31]
-<immagini/ris_bpy2.png, id=168, 175.6161pt x 114.9093pt>
+ [33]
+<immagini/ris_bpy2.png, id=178, 175.6161pt x 114.9093pt>
 File: immagini/ris_bpy2.png Graphic file (type png)
 <use immagini/ris_bpy2.png>
-Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 519.
+Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 504.
 (pdftex.def)             Requested size: 390.0pt x 255.21562pt.
- [32 <./immagini/ris_bpy.png>] [33 <./immagini/ris_bpy2.png>] [34] [35] (./tesi.bbl
-
-./tesi.bbl:10: Package inputenc Error: Unicode character β (U+3B2)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 Protective effect of resveratrol on β
-                                           -amyloid-induced oxidative {PC}12...
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
- [36]
-
-./tesi.bbl:84: Package inputenc Error: Unicode character β (U+3B2)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.84 ...nhibition of cholinesterase and amyloid-β
-                                                   aggregation by
-You may provide a definition with
-\DeclareUnicodeCharacter 
+ [34 <./immagini/ris_bpy.png>] [35 <./immagini/ris_bpy2.png>] [36] [37] [38]
+Overfull \hbox (20.25792pt too wide) in paragraph at lines 531--531
+[]\OT1/cmr/m/n/12 Goedert, M.; Spil-lan-ti-ni, M. G. \OT1/cmr/m/it/12 Scien-ce \OT1/cmr/bx/n/12 2006\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 314\OT1/cmr/m/n/12 , WOS:000241729800034,
+ []
 
 
-./tesi.bbl:91: Package inputenc Error: Unicode character ′ (U+2032)
-(inputenc)                not set up for use with LaTeX.
+Overfull \hbox (27.06503pt too wide) in paragraph at lines 531--531
+\OT1/cmr/m/it/12 Scien-ces of the Uni-ted Sta-tes of Ame-ri-ca \OT1/cmr/bx/n/12 2012\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 109\OT1/cmr/m/n/12 , WOS:000300828200011,
+ []
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 \newblock Strategic design of 2,2′
-                                         -bipyridine derivatives to modulate
-You may provide a definition with
-\DeclareUnicodeCharacter 
+[39] [40]
+Overfull \hbox (8.29393pt too wide) in paragraph at lines 531--531
+[]\OT1/cmr/m/n/12 Kurien, B. T.; Sco-field, R. H. \OT1/cmr/m/it/12 Me-thods \OT1/cmr/bx/n/12 2006\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 38\OT1/cmr/m/n/12 , WOS:000236599100006,
+ []
 
+[41] (./tesi.aux)
+Package logreq Info: Writing requests to 'tesi.run.xml'.
+\openout1 = `tesi.run.xml'.
 
-./tesi.bbl:92: Package inputenc Error: Unicode character β (U+3B2)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92   metal–amyloid-β
-                          aggregation.
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[37]) [38] (./tesi.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 14472 strings out of 492641
- 266720 string characters out of 6131786
- 332775 words of memory out of 5000000
- 18229 multiletter control sequences out of 15000+600000
- 540269 words of font info for 51 fonts, out of 8000000 for 9000
+ 21047 strings out of 492641
+ 394253 string characters out of 6131786
+ 785352 words of memory out of 5000000
+ 24742 multiletter control sequences out of 15000+600000
+ 540137 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,12n,73p,1101b,597s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on tesi.pdf (41 pages, 3367104 bytes).
+ 50i,12n,73p,3991b,1375s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on tesi.pdf (44 pages, 3601258 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
+ 245 PDF objects out of 1000 (max. 8388607)
+ 131 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 

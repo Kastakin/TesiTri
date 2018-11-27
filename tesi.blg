@@ -1,81 +1,18 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: tesi.aux
-The style file: acm.bst
-Database file #1: biblio.bib
-Warning--entry type for "noauthor_world_2018" isn't style-file defined
---line 84 of file biblio.bib
-Warning--entry type for "american_psychiatric_association_diagnostic_2013" isn't style-file defined
---line 110 of file biblio.bib
-Warning--entry type for "lennarz_encyclopedia_2004" isn't style-file defined
---line 155 of file biblio.bib
-Warning--to sort, need author or key in american_psychiatric_association_diagnostic_2013
-Warning--to sort, need author or key in noauthor_world_2018
-Warning--to sort, need author or key in lennarz_encyclopedia_2004
-Warning--to sort, need author or key in noauthor_protective_2003
-Warning--empty author in noauthor_protective_2003
-Warning--empty journal in noauthor_protective_2003
-Warning--empty journal in alejandro_v._martinez_expedient_2017
-Warning--empty journal in brothers_physiological_2018
-Warning--empty year in bruice_chimica_2012
-Warning--empty year in clayden_organic_2012
-Warning--empty journal in derrick_importance_2016
-Warning--empty journal in di_high_2003
-Warning--empty journal in dries_extracting_2012
-Warning--empty journal in goedert_century_2006
-Warning--empty journal in irvine_protein_2008
-Warning--empty journal in jabir_cholinesterase_2018
-Warning--empty journal in jang_inhibition_2008
-Warning--empty journal in ji_strategic_2017
-Warning--empty journal in jiang_traditional_2017
-Warning--empty journal in kepp_bioinorganic_2012
-Warning--empty journal in kumar_review_2015
-Warning--empty journal in kurien_western_2006
-Warning--empty journal in lillis_beyond_2005
-Warning--empty journal in martinez_extremely_2015
-Warning--empty journal in mattson_cellular_1997
-Warning--empty journal in nicolaou_palladium-catalyzed_2005
-Warning--empty journal in savelieff_ongoing_2014
-Warning--empty journal in todd_survival_2013
-You've used 26 entries,
-            2253 wiz_defined-function locations,
-            669 strings with 8601 characters,
-and the built_in function-call counts, 8573 in all, are:
-= -- 874
-> -- 443
-< -- 0
-+ -- 190
-- -- 158
-* -- 627
-:= -- 1441
-add.period$ -- 83
-call.type$ -- 26
-change.case$ -- 156
-chr.to.int$ -- 0
-cite$ -- 54
-duplicate$ -- 214
-empty$ -- 577
-format.name$ -- 158
-if$ -- 1680
-int.to.chr$ -- 0
-int.to.str$ -- 26
-missing$ -- 25
-newline$ -- 138
-num.names$ -- 44
-pop$ -- 172
-preamble$ -- 1
-purify$ -- 131
-quote$ -- 0
-skip$ -- 123
-stack$ -- 0
-substring$ -- 717
-swap$ -- 27
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 100
-warning$ -- 28
-while$ -- 85
-width$ -- 28
-write$ -- 247
-(There were 31 warnings)
+[0] Config.pm:302> INFO - This is Biber 2.11
+[1] Config.pm:305> INFO - Logfile is 'tesi.blg'
+[91] biber:313> INFO - === mar nov 27, 2018, 16:00:55
+[147] Biber.pm:371> INFO - Reading 'tesi.bcf'
+[290] Biber.pm:857> INFO - Found 27 citekeys in bib section 0
+[315] Biber.pm:3976> INFO - Processing section 0
+[340] Biber.pm:4136> INFO - Looking for bibtex format file 'biblio.bib' for section 0
+[351] bibtex.pm:1489> INFO - LaTeX decoding ...
+[680] bibtex.pm:1305> INFO - Found BibTeX data source 'biblio.bib'
+[740] Utils.pm:193> WARN - ISBN '978-0-89042-554-1 978-0-89042-555-8' in entry 'american_psychiatric_association_diagnostic_2013' is invalid - run biber with '--validate_datamodel' for details.
+[776] Utils.pm:193> WARN - ISBN '978-0-12-443710-4 978-0-12-443711-1 978-0-12-443712-8 978-0-12-443713-5 978-0-12-443714-2' in entry 'lennarz_encyclopedia_2004' is invalid - run biber with '--validate_datamodel' for details.
+[1228] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1228] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1228] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'it-IT'
+[1229] Biber.pm:3810> INFO - No sort tailoring available for locale 'it-IT'
+[1285] bbl.pm:617> INFO - Writing 'tesi.bbl' with encoding 'UTF-8'
+[1317] bbl.pm:720> INFO - Output to tesi.bbl
+[1317] Biber.pm:110> INFO - WARNINGS: 2

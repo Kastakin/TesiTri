@@ -8,6 +8,11 @@
 \usepackage{subcaption}
 \usepackage{pifont}
 \usepackage[nottoc,numbib]{tocbibind}
+\usepackage[style = chem-acs]{biblatex}
+
+
+\bibliography{biblio.bib}
+
 
 \linespread{1.5}
 
@@ -119,7 +124,7 @@ Anche nel campo delle malattie neurodegenerative il Resveratrolo presenta alcune
 Dal punto di vista medico tale molecola è quindi un potenziale candidato per lo sviluppo di farmaci in grado di mitigare l'effetto della demenza. \cite{jabir_cholinesterase_2018}
 
 \subsection{La Molecola}
-La molecola, la cui struttura è presentata in Figura \ref{fig:resveratrolo}, è presente in natura in quantità apprezzabili in una grande varietà di piante come ad esempio le già citate bucce degli acini d'uva, ma anche in frutti con guscio, arachidi e alcune bacche. L'estrazione dai vegetali che contengono il composto, per quanto di facile realizzazione, non è sufficiente a coprire la domanda che le applicazioni in campo medico e di ricerca richiedono. Risulta quindi chiaro che lo sviluppo di un metodo di sintesi efficace e con bassi costi di realizazione sia fondamentale per rendere economicamente valida la possibilità di impiego come medicinale della molecola.
+La molecola, la cui struttura è presentata in Figura \ref{fig:resveratrolo}, è presente in natura in quantità apprezzabili in una grande varietà di piante come ad esempio le già citate bucce degli acini d'uva, ma anche in frutti con guscio, arachidi e alcune bacche. L'estrazione dai vegetali che contengono il composto, per quanto di facile realizzazione, non è sufficiente a coprire la domanda che le applicazioni in campo medico e di ricerca richiedono. Risulta quindi chiaro che lo sviluppo di un metodo di sintesi efficace e con bassi costi di realizzazione sia fondamentale per rendere economicamente valida la possibilità di impiego come medicinale della molecola.
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=.5\linewidth]{immagini/resveratrolo.png}
@@ -129,14 +134,14 @@ La molecola, la cui struttura è presentata in Figura \ref{fig:resveratrolo}, è
 Oltre alla sintesi del Resveratrolo verranno presentate anche modifiche strutturali la cui presenza sembra avere un impatto positivo sull'azione del composto in casi di AD.
 
 \subsection{Sintesi Mediante Accoppiamento Heck-Mizoroki}
-Uno dei metodi più semplici ed efficaci per sintetizzare la molecola di Resveratrolo può essere realizzato mediante un accoppiamento Heck-Mizoroki. La sintesi a partire da reagenti commerciali è scomponibile in due passaggi sintetici.
+Uno dei metodi più semplici ed efficaci per sintetizzare la molecola di Resveratrolo può essere realizzato mediante un accoppiamento di Heck-Mizoroki. La sintesi a partire da reagenti commerciali è composta di due passaggi sintetici.
 
 \subsubsection{Reazione di Accoppiamento}
 I reagenti di partenza utilizzati per l'accoppiamento sono lo 1-iodio-3,5-dimetossibenzene ed il 4-metossistirene. Il catalizzatore impiegato è un catalizzatore di palladio nanoparticellare disperso su di un supporto di argilla laponite.
 
-La preparazione di tale dispersione viene effettuata riducendo il \ce{H2PdCl4} con etanolo in presenza di polivinilpirrolidone (PVP), il ruolo del polimero è quelo di permettere una migliore dispersione degli atomi di Palladio al fine di ottenere una migliore dispersione delle dimensioni delle nanoparticelle desiderate.
+La preparazione di tale dispersione viene effettuata riducendo il \ce{H2PdCl4} con etanolo in presenza di polivinilpirrolidone (PVP), il ruolo del polimero è quello di permettere una migliore dispersione degli atomi di Palladio al fine di ottenere una migliore dispersione delle dimensioni delle nanoparticelle desiderate.
 
-Le nanoparticelle di Palladio stabilizzate sul PVP sono quindi impregante sulla laponite lavorando in condizioni di atmosfera inerte ed utilizzando come solvente Diclorometano. Il solvente viene allontanato mediante depressione; il risultato è una polvere grigia fine.\cite{martinez_extremely_2015}
+Le nanoparticelle di Palladio stabilizzate sul PVP sono quindi impregnate sulla laponite lavorando in condizioni di atmosfera inerte ed utilizzando come solvente Diclorometano. Il risultato è una polvere grigia fine.\cite{martinez_extremely_2015}
 
 Il catalizzatore così ottenuto può essere maneggiato ed utilizzato senza particolari precauzioni in reazioni atte a promuovere formazioni di legami carbonio-carbonio.
 
@@ -145,7 +150,7 @@ La reazione è riassunta nella Figura \ref{fig:h-m_resveratrolo}.
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=\linewidth]{immagini/h-m_resveratrolo.png}
-	\caption{Reazione di accoppiamento tra lo 1-iodio-3,5-dimetossibenzene ed il 4-metossistirene.}
+	\caption{Reazione di accoppiamento tra lo 1-iodo-3,5-dimetossibenzene ed il 4-metossistirene.}
 	\label{fig:h-m_resveratrolo}
 \end{figure}
 
@@ -157,7 +162,7 @@ Il ciclo catalitico è composto da quattro passaggi:
 	\item La base forte in soluzione, in questo caso la \ce{NEt3}, ripristina il catalizzatore con Pd(0) restituendo come prodotto il composto \ce{Et3NHI}.
 \end{enumerate}
 
-La quantità di Palladio residua nei prodotti, misurata mediante analisi ad ICP-MS, risulta essere molto bassa. In una catalisi eterogenea di questo tipo è stato dimostrato che le nanoparticelle di Palladio fungono puramente da riserve di Pd(0) e che quindi la pressochè totale assenza di tracce di Palladio al termine della reazione è molto probabilmente dovuta ad un riformarsi di nanoparticelle metalliche al termine del ciclo catalitico, secondo un meccanismo di reazione catalitico "a boomerang") o ad una deposizione delle stesse sul support inorganico impiegato.
+La quantità di Palladio residua nei prodotti, misurata mediante analisi ad ICP-MS, risulta essere molto bassa. In una catalisi eterogenea di questo tipo è stato dimostrato che le nanoparticelle di Palladio fungono puramente da riserve di Pd(0) e che quindi la pressochè totale assenza di tracce di Palladio al termine della reazione è molto probabilmente dovuta ad un riformarsi di nanoparticelle metalliche al termine del ciclo catalitico (secondo un meccanismo di reazione "a boomerang") o ad una deposizione delle stesse sul supporto inorganico impiegato.
 
 Il catalizzatore eterogeneo presenta alcuni vantaggi rispetto ad un equivalente catalizzatore omogeneo; come si può osservare in Figura \ref{fig:perc_cata_resv} il catalizzatore depositato sulla fase inorganica presenta ottime rese nei primi dieci usi. Il sottoprodotto \ce{Et3NHI} inoltre viene allontanato dal grezzo durante il decorso della reazione per deposizione dello stesso sul supporto di Laponite. D'altra parte occorre tenere conto che dopo svariati cicli di reazione la quantità di sale depositato tende ad eccedere la quantità di nanoparticelle di Palladio presenti sul supporto inficiando quindi sulla resa di reazione. Il problema è risolvibile però in maniera relativamente facile attraverso il trattamento ad alta temperatura dell'argilla di supporto. Il Trietilenammonioioduro a 550 $^\circ$C in presenza di aria subisce un processo di calcinazione; il solido restante presenta ancora una buona attività come catalizzatore nelle reazioni e può essere impiegato nuovamente per almeno tre cicli reattivi senza perdere le sue proprietà.
 
@@ -182,14 +187,15 @@ La reazione è presentata in Figura \ref{fig:deprot_resveratrolo}; come si può 
 \end{figure}
 
 \subsection{Effetti delle Molecole Sintetizzate}
-L'azione medicinale del Resveratrolo in pazienti affetti da AD è principalmente scomponibile in due componenti:
+\label{effetti_resveratrolo}
+L'azione medicinale del Resveratrolo in pazienti affetti da AD è principalmente attribuibile a due componenti:
 
 \begin{enumerate}
 	\item Regolazione dell'attività neuronale.
 	\item Diminuzione della citotossicità dei A$\beta$.
 \end{enumerate}
 
-La regolazione dell'attività neuronale è da ricondursi all'azione che la molecola ha nei confronti dell'enzima Acetilcolinesterasi (AChE). Tale enzima demolisce l'Acetilcolina, noto neurotrasmettitore, in Colina e Acido Acetico dopo che la molecola ha partecipato alla sinapsi tra neuroni.
+La regolazione dell'attività neuronale è da ricondursi all'azione che la molecola ha nei confronti dell'enzima Acetilcolinesterasi (AChE). Tale enzima scinde l'Acetilcolina, noto neurotrasmettitore, in Colina e Acido Acetico dopo che la molecola ha partecipato alla sinapsi tra neuroni.
 
 \begin{figure}[H]
 	\centering
@@ -205,7 +211,7 @@ La regolazione dell'attività neuronale è da ricondursi all'azione che la molec
 	\label{fig:coline}
 \end{figure}
 
-In casi di AD la nurotrasmissione viene ridotta in efficacia a causa dell'accumulo degli aggregati amiloidici più volte citati; ecco quindi che la normale azione dell'AChE risulta essere troppo aggressivo e la molecola di Acetilcolina rischia di essere demolita prima di aver stimolato il neurone recettore.
+In casi di AD la nurotrasmissione viene ridotta in efficacia a causa dell'accumulo degli aggregati amiloidici più volte citati; ecco quindi che la normale azione dell'AChE risulta essere troppo aggressiva e la molecola di Acetilcolina rischia di essere demolita prima di aver stimolato il neurone recettore.
 
 Il Resveratrolo funge da inibitore dell'AChE, in particolare l'inibizione è promossa da alcuni suoi oligomeri, come ad esempio la Vitisina A e lo Heyneanol A le cui strutture sono riportate in Figura \ref{fig:oly_resveratrolo}.
 
@@ -238,7 +244,7 @@ Come si può osservare nella Figura \ref{fig:apo_resveratrolo} l'aggiunta di Res
 	\label{fig:apo_resveratrolo}
 \end{figure}
 
-In Figura \ref{fig:roi_resveratrolo} sono invece riportati i dati relativi alle concentrazioni di ROI nelle cellule. Le immagini sono il risultato dell'osservazione della soluzione di cellule nello spettro UV in presenza di Diclorofluoresceina (DCF), un composto che emette radiazione UV in presenza di perossidi. Si può notare come la quantità di specie ossidanti risulta ridotta in maniera significativa in presenza di Resveratrolo. \cite{noauthor_protective_2003}
+In Figura \ref{fig:roi_resveratrolo} sono invece riportati i dati relativi alle concentrazioni di ROI nelle cellule. Le immagini sono il risultato dell'osservazione della soluzione di cellule nello spettro UV in presenza di Diclorofluoresceina (DCF), un composto che emette radiazione UV in presenza di perossidi. Si può notare come la quantità di specie ossidanti risulti ridotta in maniera significativa in presenza di Resveratrolo. \cite{noauthor_protective_2003}
 
 \begin{figure}[H]
 	\centering
@@ -249,7 +255,7 @@ In Figura \ref{fig:roi_resveratrolo} sono invece riportati i dati relativi alle 
 
 \section{Curcumina}
 \label{sec:curc}
-La Crucumina ((1E,6E)-1,7-bis-(4-idrossi-3-metossifenil)-epta-1,6-dien- 3,5-dione) è la principale componente polifenolica del Cumino; tale molecola è impiegata nel trattamento di molteplici malattia umane, il suo primo uso in questo frangente può essere ricondotto addirittura all'antica medicina cinese.
+La Curcumina ((1E,6E)-1,7-bis-(4-idrossi-3-metossifenil)-epta-1,6-dien- 3,5-dione) è la principale componente polifenolica del Cumino; tale molecola è impiegata nel trattamento di molteplici malattia umane, il suo primo uso in questo frangente può essere ricondotto addirittura all'antica medicina cinese.
 
 Ai giorni nostri in campo medico trova applicazioni nel tentativo di curare pazienti affetti da mieloma, psoriasi, cancro pancreatico, sindrome mielodisplasica e AD.
 
@@ -269,7 +275,7 @@ I vantaggi derivati dall'uso della Curcumina come punto di partenza per lo svilu
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=.6\linewidth]{immagini/curcumina.png}
-	\caption{Struttura molecolare della Curcumina. CERCARE QUALITÀ MIGLIORE}
+	\caption{Struttura molecolare della Curcumina.}
 	\label{fig:curcumina}
 \end{figure}
 
@@ -346,6 +352,8 @@ Come per i composti della prima serie una reazione successiva rimuove la deprote
 \end{figure}
 
 \subsection{Effetti delle Molecole Sintetizzate}
+
+
 Una prima discriminazione tra i vari composti ai fini di determinare quali meglio fossero adatti per un uso terapeutico è stata effettuata osservando in vitro l'effetto delle molecole ottenute sull'attività dell'enzima AChE usando come parametro di riferimento l'azione di Tacrina, noto inibitore reversibile dell'enzima in questione, Donepezil e Galantamina, due farmaci riconosciuti per la loro azione inibitrice dell'AChE. È stata anche valutata la selettività d'inibizione verificando l'azione degli stessi composti su di un altro enzima (BuChE) la cui attività non necessita di modulazione per il trattamento di pazienti affetti da AD. I risultati sono riportati in Figura \ref{fig:tabellacomposti_curcdone}.
 
 \begin{figure}[H]
@@ -366,20 +374,40 @@ Dai risultati sono possibili alcune considerazioni sulle relazioni struttura-att
 	\item La migliore selettività è stata dimostrata dal composto 11b anche se inferiore rispetto al semplice Donepezil preso di riferimento.
 \end{enumerate}
 
-Risulta quindi chiaro che le molecole appartenenti alla seconda serie risultano essere i migliori candidati tra quelle sintetizzate; su di queste verranno quinid valutati altri fattori che potrebbero indicare una buona azione in pazienti affetti da AD.
+Risulta quindi chiaro come le molecole appartenenti alla seconda serie risultino essere i migliori candidati tra quelle sintetizzate; su di queste verranno quinid valutati altri fattori che potrebbero indicare una buona azione in pazienti affetti da AD.
 
-Uno dei fattori presi in esame è la capacità delle molecole di inibire l'aggregazione dei frammenti A$\beta$ sia in presenza che in assenza di ioni metallici.
+Una delle fondamentali proprietà necessarie affinchè le molecole possano avere applicazioni in campo medico è la permeabilità della barriera emato-encefalica. Per tutti e tre i composti della seconda serie (11b, 11d e 11e) hanno presentato valori di permeabilità ottimi mostrando quindi lo stesso comportamento della Curcumina utilizzata come base strutturale.
+
+Un altra delle proprietà investigate è la capacità antiossidante; come nel caso del Resveratrolo affrontato nella Sezione \ref{effetti_resveratrolo} uno dei benefici dell'impiego dei polifenoli come medicinali in pazienti affetti da AD è la capacità di questa classe di molecole di diminuire la concentrazione di ROI nell'organismo. Per valutare gli effetti dei composti 11b, 11d e 11e sono stati condotti in vitro alcuni esperimenti utilizzando una fluoresceina come nel caso del Resveratrolo per evidenziare la presenza di specie perossidiche. Come riferimento è stato usato il Trolox, analogo della vitamina E. I risultati ottnuti sono riportati in Figura \ref{fig:roi_curcdone} come equivalenti di Trolox. Tutti e tre i composti hanno mostrato un discreto effetto di riduzione di specie ROI con un risultato degno di nota nel caso del composto 11b, tale comportamento è legato alla presenza del gruppo ossidrilico in posizione meta in grado di "spegnere" i radicali dannosi generati.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\linewidth]{immagini/roi_curcdone.png}
+	\caption{Attività antiossidante dei composti 11b, 11d e 11e rispetto alla Curcumina. I valori riportati sono espressi in equivalnti/$\mu$mol di Trolox. (a) La deviazione standard è riferita a tre esperimenti indipendenti effettuati.}
+	\label{fig:roi_curcdone}
+\end{figure}
+
+
+L'ultimo dei fattori presi in esame è la capacità delle molecole di inibire l'aggregazione dei frammenti A$\beta$ sia in presenza che in assenza di ioni metallici.
 
 L'aggregazione in assenza di metalli è stata valutata attraverso lo spettro di fluorescenza in presenza di Tioflavina T (ThT). I composti 11b, 11d e 11e sono stati confrontati con l'azione della curcumina in concentrazioni pari a 20 $\mu$M. I risultati riportati in Figura \ref{fig:selfab_curcdone} mostrano un discretto effetto inibitorio soprattutto in presenza di un gruppo ossidrile e di basso ingombro sterico (composto 11b).
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=.8\linewidth]{immagini/selfab_curcdone.png}
+	\includegraphics[width=\linewidth]{immagini/selfab_curcdone.png}
 	\caption{Inibizione dell'aggregazione dei A$\beta$ in assenza di metalli. (a) La deviazione standard è riferita a tre esperimenti indipendenti effettuati.}
 	\label{fig:selfab_curcdone}
 \end{figure}
 
-In presenza di metalli, come abbiamo già introdotto nella Sezione \ref{sec:ab}, la formazione degli aggregati proteici è legata alla concentrazione di ioni metallici liberi. La capacità di chelare tali ioni è quindi il fattore da valutare.
+In presenza di metalli, come abbiamo già introdotto nella Sezione \ref{sec:ab}, la formazione degli aggregati proteici è legata alla concentrazione di ioni metallici liberi. La capacità di chelare tali ioni è quindi il fattore da valutare. Il composto preso in considerazione è l'11b visti gli ottimi risultati ottenuti nei precedenti esperimenti per la valutazione della sua efficacia. Lo studio sull'aggregazione è effettuabile confrontando gli spettri UV-vis del composto in assenza di metallo e dopo l'aggiunta in soluzione di \ce{CuSO4}, uno spostamento della lunghezza d'onda d'assorbimento evidenzia la formazione del complesso 11b-Cu(II). Lo stesso esperimento è stato condotto in presenza di \ce{FeSO4} e \ce{ZnCl2}; i risultati sono riportati in Figura \ref{fig:metab_curcdone}. In presenza di Fe(II) e di Cu(II) si è osservato il fenomeno di chelazione mentre non sono stati osservati effetti rilevanti per lo Zinco. \cite{noauthor_design_2017}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\linewidth]{immagini/metab_curcdone.png}
+	\caption{Spettro UV-vis per il composto 11b in presenza o meno di ioni metallici.}
+	\label{fig:metab_curcdone}
+\end{figure}
+
 
 \section{Leganti Bipiridinici}
 \label{sec:byp}
@@ -400,12 +428,12 @@ Una classe di composti le cui proprietà soddisfano i criteri appena presentati 
 Questi presentano una chelazione rapida, ovvero con k\textsubscript{f} nei confronti dei metalli d'interesse (Cu(II) e Zn(II)) di circa 7.0, grazie alla chelazione dell'atomo metallico da parte degli atomi d'azoto nei due eterocicli. Inoltre la solubilità in medium acquosi è relativamente buona, stiamo parlando di circa 5,9 mg/mL; infine le dimensioni ridotte permettono una buona diffusione nel sistema nervoso permeando attravero la barriera emato-encefalica con discreta facilità (i valori di permeabilità possono essere stimati attraverso le regole empiriche di Lipinski o attraverso test in vitro). \cite{di_high_2003}
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=.3\linewidth]{immagini/bpy.png}
+	\includegraphics[width=.5\linewidth]{immagini/bpy.png}
 	\caption{Un generico composto appartenente alla classe delle Bipiridine.}
 	\label{fig:bpy}
 \end{figure}
-Lo scheletro bipiridinico ben si presta ad un approccio razionale nella sinstesi di composti interessanti dal punto di vista biomedico.
-L'introduzione di gruppi dimetilamminici favorisce un'interazione con i A$\beta$ e per la sua influenza sul legame metallico come suggerito da alcune evidenze sperimentali. Similmente l'uso di un sostituente metilico permette un migliore effetto elettrodonatore da parte egli eteroatomi nei cicli e un controllo sterico sui possibili orientamenti con cui la molecola bipiridinica può interagire con il metallo. \cite{derrick_importance_2016,savelieff_ongoing_2014}
+Lo scheletro bipiridinico ben si presta ad un approccio razionale nella sintesi di composti interessanti dal punto di vista biomedico.
+L'introduzione di gruppi dimetilamminici favorisce un'interazione con i A$\beta$ e per la sua influenza sul legame metallico come suggerito da alcune evidenze sperimentali. Similmente l'uso di un sostituente metilico permette un migliore effetto elettrodonatore da parte degli eteroatomi nei cicli e un controllo sterico sui possibili orientamenti con cui la molecola bipiridinica può interagire con il metallo. \cite{derrick_importance_2016,savelieff_ongoing_2014}
 
 Ai fini di dimostrare l'effetto di queste modificazioni a partire dalla struttura di base sull'azione di inibizione alla formazione e disfacimento di placche amiloidiche useremo quattro prodotti di sintesi, presentati nella loro struttura in Figura \ref{fig:bpy_mod}; nella sezione successiva andremo quindi a presentare un possibile processo sintetico per essi.
 
@@ -416,9 +444,13 @@ Ai fini di dimostrare l'effetto di queste modificazioni a partire dalla struttur
 	\label{fig:bpy_mod}
 \end{figure}
 
-\subsection{Sintesi Mediante Reazione di Stille}
+\subsection{Sintesi}
 \label{sec:bpy_stille}
 Il processo di sintesi utilizzato è riassunto in maniera sintetica nella Figura \ref{fig:rea_g}; a partire da una 4-amminopiridina si ottiene un composto organometallico allo stagno; successivamente per mezzo di una reazione di Stille si addiziona il primo anello al secondo ottenendo il prodotto desiderato.
+
+Un metodo alternativo per la sintesi di questi composti bipiridinici potrebbe essere la reazione di accoppiamento di Negishi. Si tratta sempre di una reazione di accoppiamento ma tra un composto organozinco, invece di uno stannano, e un alogenuro, nel nostro caso una piridina alogenata. \cite{clayden_organic_2012}
+
+A differenza della Reazione di Stille proposta, in cui l'accoppiamento viene promosso da un composto organostannano, l'uso di Zinco, la cui tossicità è nota per essere inferiore rispetto a quella dello Stagno. Il maggiore inconveniente della reazione di accoppiameno di Negishi è la sensibilità all'esposizione all'aria e all'acqua oltre ad una minore tolleranza circa il tipo di gruppi funzionali con cui è possibile lavorare per cui la Stille rimane la scelta preferibile in questo caso. \cite{nicolaou_palladium-catalyzed_2005}
 
 \begin{figure}[H]
 	\centering
@@ -428,23 +460,12 @@ Il processo di sintesi utilizzato è riassunto in maniera sintetica nella Figura
 \end{figure}
 
 \subsubsection{Reazione di Formazione dello Stannano }
-Il reagente di partenza, ovvero la 4-dimetilamminopiridina, viene trattata con \ce{n-BuLi} al fine di deprotonare il protone in posizione orto rispetto all'atomo di azoto presente nell'anello, il processo è noto con il nome di orto-litiazione. Lo stannano è ottenuto per transmetallazione dell'organolitiato; il \ce{Bu3SnCl} reagisce con il substrato sostituendosi all'atomo di \ce{Li} il quale si lega al \ce{Cl}.
+Il reagente di partenza, ovvero la 4-dimetilamminopiridina, viene trattata con \ce{n-BuLi} al fine di deprotonare la posizione orto rispetto all'atomo di azoto presente nell'anello, il processo è noto con il nome di orto-litiazione. Lo stannano è ottenuto per transmetallazione dell'organolitiato; il \ce{Bu3SnCl} reagisce con il substrato sostituendosi all'atomo di \ce{Li} il quale si lega al \ce{Cl}.
 
-È importante notare come la soluzione venga mantenuta a basse temperature (-78 $^\circ$C) affinchè la reazione di deprotonazione abbia luogo nel sito desiderato e che il composto organolitiato ottenuto sia sufficentemente stabile in modo tale da permettere la sostituzione con lo Stagno.
-\begin{comment}
-La reazione viene eseguita come segue:
-\begin{enumerate}
-	\item Ad una soluzione di 2-Dimetilaminoetanolo (146 mg, 1.64 mmol) in Esano (4 mL) a -5 $^\circ$C è aggiunto goccia a goccia una soluzione 2 M di \ce{n-BuLi} (1.7 mL, 3.28 mmol), si tiene in miscelazione per 30 minuti a 0 $^\circ$C sotto atmosfera d'azoto.
-	\item La soluzione è trattata con 4-dimetilamminopiridina (100 mg, 0.8 mmol), miscelata per un’ora a 0 $^\circ$C e poi raffreddata a -78 $^\circ$C.
-	\item Dopo l'aggiunta del \ce{Bu3SnCl} (533 mg, 1.64 mmol) la miscela di reazione è mantenuta in agitazione per 1 ora alla temperatura di 0 $^\circ$C.
-	\item La reazione viene portata a termine con l'aggiunta di acqua, questa viene successivamente allontanata mediante un'estrazione in etere, il processo d'estrazione viene eseguito 3 volte. La soluzione estratta viene anidrificata con \ce{MgSO4}, filtrata e concentrata sotto vuoto.
-	\item Il prodotto viene purificato in colonna cromatografica usando come eluente Acetato d'Etile (\ce{EtOAc}).
-\end{enumerate}
-\end{comment}
-
+È importante notare come la soluzione venga mantenuta a basse temperature (-78 $^\circ$C) affinchè la reazione di deprotonazione abbia luogo nel sito desiderato e che il composto organolitiato ottenuto sia sufficientemente stabile in modo tale da permettere la sostituzione con lo Stagno.
 
 \subsubsection{Reazione di Stille per Formazione del Prodotto Finale}
-Il secondo step per l'ottenimento dei composti bipiridinici d'interesse prevede una reazione di Stille, ovvero una reazione di cross-coupling palladio-catalizzata, nel caso particolare preso in esame, tra lo stannano ottenuto come prodotto dello step di reazione precedente e un alogenuro alchilico piridinico.\cite{clayden_organic_2012}
+Il secondo passaggio per l'ottenimento dei composti bipiridinici d'interesse prevede una reazione di Stille, ovvero una reazione di cross-coupling palladio-catalizzata, nel caso particolare preso in esame, tra lo stannano ottenuto come prodotto dello step di reazione precedente e un alogenuro alchilico piridinico.\cite{clayden_organic_2012}
 
 Il processo catalitico generale è riportato in maniera schematica in Figura \ref{fig:stille}.
 
@@ -455,9 +476,9 @@ Il processo catalitico generale è riportato in maniera schematica in Figura \re
 	\label{fig:stille}
 \end{figure}
 
-In Toluene sono introdotti lo stannano, prodotto di reazione del passaggio sintetico precedente, il catalizzatore al palladio \ce{PdCl2(PPh3)2}, Trifenilfosfina e Cloruro di Litio. A seconda del composto bipiridinico desiderato come prodotto finale viene infine introdotta l'appropiata piridina bromurata.
+In Toluene sono introdotti lo stannano, prodotto di reazione del passaggio sintetico precedente, il catalizzatore al palladio \ce{PdCl2(PPh3)2}, Trifenilfosfina e Cloruro di Litio. A seconda del composto bipiridinico desiderato come prodotto finale viene infine introdotta l'appropriata piridina bromurata.
 
-Il ciclo catalitico può essere riassunto in cinque step:
+Il ciclo catalitico può essere riassunto in cinque passaggi:
 \begin{enumerate}
 	\item Il catalizzatore \ce{PdCl2(PPh3)2} viene ridotto a \ce{Pd(PPh3)2}, un complesso a 14 elettroni in cui il Pd ha stato d'ossidazione 0.
 	\item Il complesso subisce addizione ossidativa da parte dell'alogenuro: si tratta di un processo concertato che forma un complesso a 16 elettroni con i due nuovi leganti in posizione cis.
@@ -467,42 +488,6 @@ Il ciclo catalitico può essere riassunto in cinque step:
 \end{enumerate}
 
 La reazione viene condotta sotto atmosfera inerte d'Azoto per evitare che il catalizzatore possa essere alterato dalle componenti dell'aria.
-
-\begin{comment}
-Dal punto di vista operativo il processo di sintesi prosegue a partire dal prodotto isolato dalla reazione precedente:
-
-\begin{enumerate}
-	\item La N,N-dimetil-2-(tributilstannil)-piridin-4-ammina viene sciolta in Toluene (95 mg, 0.23 mmol di stannano in 2.5mL di Toluene).
-	\item Sotto atmosfera inerte d'Azoto viene aggiunto il catalizzatore \ce{PdCl2(PPh3)2} (8 mg, 0.0115 mmol), il Cloruro di Litio (29 mg, 0.69 mmol), la Trifenilfosfina (6 mg, 0.023 mmol) e il bromide appropriato al prodotto desiderato (2-bromopiridina (1), 2-bromo-n-metilpiridina con n=4,5,6 (2,3,4)).
-	\item La miscela è riscaldata a 110 $^\circ$C per 24 ore.
-	\item I prodotti vengono purificati in colonna cromatografica.
-\end{enumerate}
-Nella Tabella \ref{table:stille} sono indicate le miscele usate per l'eluizione nello Step 4 e le rese ottenuta per i composti 1-4 , la numerazione segue quella espressa in Figura \ref{fig:bpy_mod}.
-\begin{center}
-	\begin{table}[H]
-		\begin{tabular}{| c | c | c | c | }
-			\hline
-			Composto & \ce{EtOAc} : \ce{NEt3} & Resa \% \\	\hline
-			1        & 95 : 5                 & 50 \%   \\	\hline
-			2        & 99 : 1                 & 33 \%   \\	\hline
-			3        & 99 : 1                 & 42 \%   \\	\hline
-			4        & 99 : 1                 & 38 \%   \\	\hline
-		\end{tabular}
-		\centering
-		\caption{Tabella contenente le rese e la composizione dell'eluente riferiti ai composti 1-4.}
-		\label{table:stille}
-	\end{table}
-\end{center}
-\end{comment}
-
-\subsection{Sintesi Mediante Accoppiamento di Negishi}
-Un metodo alternativo per la sintesi dei  bipiridinici d'interesse sfrutta la reazione di accoppiamento di Negishi. Si tratta di una reazione di accoppiamento tra un composto organozincato e un alogenuro, nel nostro caso una piridina alogenata. \cite{clayden_organic_2012}
-
-A differenza della Reazione di Stille proposta nella Sezione \ref{sec:bpy_stille} in cui l'accoppiamento viene promosso da un composto organostannato l'uso di Zinco, la cui tossicità è nota per essere inferiore rispetto a quella dello Stagno. Il maggiore inconveniente della reazione di accoppiameno di Negishi è la sensibilità all'esposizione all'aria e all'acqua oltre ad una minore tolleranza circa il tipo di gruppi funzionali con cui è possibile lavorare.\cite{nicolaou_palladium-catalyzed_2005}
-
-\subsubsection{Formazione del Precursore Organozincato}
-Come per la formazione dello stannano il processo
-
 
 \subsection{Effetti delle Molecole Sintetizzate sui A$\beta$}
 L'efficacia dei composti ottenuti rispetto all'aggregazione dei A$\beta$ è stata quantificata attraverso esperimenti in vitro. I risultati sono riportati nella Figura \ref{fig:ris_bpy} per quanto riguarda l'azione in presenza di A$\beta$-40 e nella Figura \ref{fig:ris_bpy2} per il caso di A$\beta$-42.
@@ -521,17 +506,18 @@ L'efficacia dei composti ottenuti rispetto all'aggregazione dei A$\beta$ è stat
 	\label{fig:ris_bpy2}
 \end{figure}
 
-Nalle corse elettroforetiche mostrate in Figura \ref{fig:ris_bpy}, sezione (b), si osserva come la dimensione degli aggregati proteici tenda a diminuire in presenza dei composti sintetizzati agenti su soluzioni contenenti ioni metallici, mentre in assenza di centro di nucleazione metallico non vi siano apprezzabili effetti di mitigazione dell'accrescimento della placca. Questo è un dato atteso, i composti progettati hanno infatti lo specifico compito di chelare metalli per diminuire il fenomeno d'aggregazione, logico quindi osservare come in assenza di ioni non vi siano benefici evidenti.
+Nalle corse elettroforetiche mostrate in Figura \ref{fig:ris_bpy}, sezione (b), si osserva come la dimensione degli aggregati proteici tenda a diminuire in presenza dei composti sintetizzati agenti su soluzioni contenenti ioni metallici, mentre in assenza di un centro di nucleazione metallico non vi siano apprezzabili effetti di mitigazione dell'accrescimento della placca. Questo è un dato atteso, i composti progettati hanno infatti lo specifico compito di chelare metalli per diminuire il fenomeno d'aggregazione, logico quindi osservare come in assenza di ioni non vi siano benefici evidenti.
 
-Soffermandoci sulle immagine ottenute al TEM possiamo vedere come l'azione del semplice scheletro bipiridinico (bpy) modifichi l'aggregazione in presenza di Cu(II) ma non abbia evidenti effetti se confrontata con il campione C in presenza di Zn(II). I composti sintetizzati senza gruppo metilico (1) e quelli con il gruppo metilico in posizioni Meta o Para (2 e 3) hanno invece inibito la formazione di conglomerati di A$\beta$\-40 e A$\beta$\-42 sia in presenza di Cu(II) sia di Zn(II).
+Soffermandoci sulle immagine ottenute al TEM possiamo vedere come l'azione del semplice scheletro bipiridinico (bpy) modifichi l'aggregazione in presenza di Cu(II) ma non abbia evidenti effetti se confrontata con il campione C in presenza di Zn(II). I composti sintetizzati senza gruppo metilico (1) e quelli con il gruppo metilico in posizioni Meta o Para (2 e 3) hanno invece inibito la formazione di conglomerati di A$\beta$\-40 e A$\beta$\-42 sia in presenza di Cu(II), sia di Zn(II).
 
-Il composto 4, ovvero quello con il gruppo metilico in posizione Orto non ha alterato l’aggregazione dei filamenti proteici in nessuna delle situazioni ricreate in vitro. Si tratta di un risultato atteso in quanto l’ingombro sterico del gruppo \ce{CH3} impedisce la chelazione del metallo libero che può quindi risulta disponibile come centro di nucleazione.
+Il composto 4, ovvero quello con il gruppo metilico in posizione Orto non ha alterato l’aggregazione dei filamenti proteici in nessuna delle situazioni ricreate in vitro. Si tratta di un risultato atteso in quanto l’ingombro sterico del gruppo \ce{CH3} impedisce la chelazione del metallo libero che può quindi risultare disponibile come centro di nucleazione.
 
-Benché le molecole sintetizzate risultino efficaci nella chelazione dei metalli liberi responsabili dell’accrescimento dei grumi di A$\beta$ e che la loro capacità di permeare la barriera necessaria per entrare in circolazione nel liquido cerebrospinale sia confermata da evidenze scientifiche (come già evidenziato nella Sezione \ref{sec:bpy_mol}), un test della tossicità su cellule di tipo Y5 ha evidenziato livelli notevoli di citotossicità in situazioni ci concentrazioni millimolari di Rame(II), stimolando quindi Apoptosi neuronale e vanificando quindi la possibilità di un'azione diretta come farmaco dei composti in questione.
+Benché le molecole sintetizzate risultino efficaci nella chelazione dei metalli liberi responsabili dell’accrescimento dei grumi di A$\beta$ e che la loro capacità di permeare la barriera necessaria per entrare in circolazione nel liquido cerebrospinale sia confermata da evidenze scientifiche (come già evidenziato nella Sezione \ref{sec:bpy_mol}), un test della tossicità su cellule di tipo Y5 ha evidenziato livelli notevoli di citotossicità in situazioni di concentrazioni millimolari di Rame(II), stimolando quindi Apoptosi neuronale e vanificando quindi la possibilità di un'azione diretta come farmaco dei composti in questione.
 
 È comunque importante considerare i risultati ottenuti, si è infatti osservato come la diminuzione degli ioni metalli biodisponibili sia un metodo efficace (almeno in vitro) per limitare l'aggregazione in fibrille dei A$\beta$ e che quindi la ricerca di composti la cui tossicità per l'organismo sia inferiore pur mantenendo simili proprietà possa essere una via promettente per il futuro. \cite{ji_strategic_2017}
 
 \section{Conclusioni}
+I tre casi che sono stati presentati mostrano come il supporto forinto dalla chimica organica moderna sia fondamentale ai fini di sviluppare nuovi medicinali in grado di contrastare il crescente problema del Morbo d'Alzheimer. Attraverso la sintesi di composti in maniera più efficiente ed economica rispetto a quanto un processo d'estrazione possa fare come nel caso del Resveratrolo; sfruttando molecole nautarali e loro proprietà per facilitare l'assimilazione di un farmaco come visto per la fusione dei farmacofori di Curcumina e Donepezil; oppure disegnando a partire da strutture semplice molecole ad hoc attraverso un ragionamento sulle funzionalità da inserire. Sono tutti strumenti validi in mano ai sintetisti organici per lavorare a quella che si può definire una tra le più grandi sfide mediche del millennio.
 \newpage
 
 \section{Ringraziamenti}
@@ -541,8 +527,6 @@ Benché le molecole sintetizzate risultino efficaci nella chelazione dei metalli
 
 \newpage
 
+\printbibliography
 
-
-\bibliographystyle{acm}
-\bibliography{biblio.bib}
 \end{document}

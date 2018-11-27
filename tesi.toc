@@ -1,31 +1,55 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {italian}{}
 \babel@toc {italian}{}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Introduzione al Morbo d'Alzheimer}{1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1}L'Importanza della Ricerca}{1}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2}$\beta $-Amiloidi e Placche Amiloidiche}{2}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}Strategie d'Intervento}{6}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Resveratrolo}{7}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1}La Molecola}{7}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}Sintesi Mediante Accoppiamento Heck-Mizoroki}{8}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.2.1}Reazione di Accoppiamento}{8}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.2.2}Eliminazione della Protezione Metilica}{11}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3}Effetti delle Molecole Sintetizzate}{12}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Curcumina}{16}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1}La Molecola}{16}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2}Sintesi}{18}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.1}Sintesi del Farmacoforo del Donepezil}{19}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.2}Sintesi del Farmacoforo della Curcumina}{20}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.3}Sintesi dei Composti della Serie I}{21}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {4.2.4}Sintesi dei Composti della Serie II}{22}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.3}Effetti delle Molecole Sintetizzate}{23}
-\contentsline {section}{\numberline {5}Leganti Bipiridinici}{25}
-\contentsline {subsection}{\numberline {5.1}Le Molecole}{26}
-\contentsline {subsection}{\numberline {5.2}Sintesi Mediante Reazione di Stille}{28}
-\contentsline {subsubsection}{\numberline {5.2.1}Reazione di Formazione dello Stannano }{28}
-\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{29}
-\contentsline {subsection}{\numberline {5.3}Sintesi Mediante Accoppiamento di Negishi}{30}
-\contentsline {subsubsection}{\numberline {5.3.1}Formazione del Precursore Organozincato}{31}
-\contentsline {subsection}{\numberline {5.4}Effetti delle Molecole Sintetizzate sui A$\beta $}{31}
-\contentsline {section}{\numberline {6}Conclusioni}{34}
-\contentsline {section}{\numberline {7}Ringraziamenti}{35}
-\contentsline {section}{\numberline {8}Riferimenti bibliografici}{36}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Leganti Bipiridinici}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Le Molecole}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Sintesi}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.1}Reazione di Formazione dello Stannano }{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Effetti delle Molecole Sintetizzate sui A$\beta $}{33}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Conclusioni}{37}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Ringraziamenti}{38}
