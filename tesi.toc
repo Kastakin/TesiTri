@@ -16,40 +16,40 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}Sintesi Mediante Accoppiamento Heck-Mizoroki}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Reazione di Accoppiamento}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}Reazione di Accoppiamento}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Eliminazione della Protezione Metilica}{11}
+\contentsline {subsubsection}{\numberline {3.2.2}Eliminazione della Protezione Metilica}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Effetti delle Molecole Sintetizzate}{12}
+\contentsline {subsection}{\numberline {3.3}Effetti delle Molecole Sintetizzate}{13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Curcumina}{17}
+\contentsline {section}{\numberline {4}Curcumina}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}La Molecola}{17}
+\contentsline {subsection}{\numberline {4.1}La Molecola}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Sintesi}{19}
+\contentsline {subsection}{\numberline {4.2}Sintesi}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.1}Sintesi del Farmacoforo del Donepezil}{20}
+\contentsline {subsubsection}{\numberline {4.2.1}Sintesi del Farmacoforo del Donepezil}{22}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.2}Sintesi del Farmacoforo della Curcumina}{21}
+\contentsline {subsubsection}{\numberline {4.2.2}Sintesi del Farmacoforo della Curcumina}{23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.3}Sintesi dei Composti della Serie I}{22}
+\contentsline {subsubsection}{\numberline {4.2.3}Sintesi dei Composti della Serie I}{24}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {4.2.4}Sintesi dei Composti della Serie II}{23}
+\contentsline {subsubsection}{\numberline {4.2.4}Sintesi dei Composti della Serie II}{25}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Effetti delle Molecole Sintetizzate}{24}
+\contentsline {subsection}{\numberline {4.3}Effetti delle Molecole Sintetizzate}{26}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Leganti Bipiridinici}{28}
+\contentsline {section}{\numberline {5}Leganti Bipiridinici}{30}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Le Molecole}{29}
+\contentsline {subsection}{\numberline {5.1}Le Molecole}{31}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Sintesi}{31}
+\contentsline {subsection}{\numberline {5.2}Sintesi}{33}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.2.1}Reazione di Formazione dello Stannano }{32}
+\contentsline {subsubsection}{\numberline {5.2.1}Reazione di Formazione dello Stannano }{34}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{32}
+\contentsline {subsubsection}{\numberline {5.2.2}Reazione di Stille per Formazione del Prodotto Finale}{34}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3}Effetti delle Molecole Sintetizzate sui A$\beta $}{34}
+\contentsline {subsection}{\numberline {5.3}Effetti delle Molecole Sintetizzate sui A$\beta $}{36}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Conclusioni}{38}
+\contentsline {section}{\numberline {6}Conclusioni}{40}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Ringraziamenti}{39}
+\contentsline {section}{\numberline {7}Ringraziamenti}{41}

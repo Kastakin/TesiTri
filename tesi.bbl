@@ -612,6 +612,48 @@
       \endverb
       \keyw{Alzheimer’s disease,cholinesterase,curcumin,gallocatechins,polyphenols,resveratrol}
     \endentry
+    \entry{clayden_organic_2012}{book}{}
+      \name{author}{3}{}{%
+        {{hash=a17e660d5309236d0db9f4478e1a6a41}{%
+           family={Clayden},
+           familyi={C\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3060f9159435ca70a6c66681750de195}{%
+           family={Greeves},
+           familyi={G\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=44d184459545ac0241bd6210da34317b}{%
+           family={Warren},
+           familyi={W\bibinitperiod},
+           given={Stuart\bibnamedelima G.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford ; New {YorK}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{1ac918b570bfc56ff407c91131cea330}
+      \strng{fullhash}{9bd9586b6e16c43c8e7c07fd271525f5}
+      \strng{bibnamehash}{9bd9586b6e16c43c8e7c07fd271525f5}
+      \strng{authorbibnamehash}{9bd9586b6e16c43c8e7c07fd271525f5}
+      \strng{authornamehash}{1ac918b570bfc56ff407c91131cea330}
+      \strng{authorfullhash}{9bd9586b6e16c43c8e7c07fd271525f5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-0-19-927029-3}
+      \field{pagetotal}{1234}
+      \field{title}{Organic chemistry}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \keyw{Chemistry,Organic,Textbooks}
+    \endentry
     \entry{martinez_extremely_2015}{article}{}
       \name{author}{4}{}{%
         {{hash=03c62d58c922e0ef434b6e2bfd35b858}{%
@@ -926,8 +968,8 @@
       \strng{authorbibnamehash}{c2204ff979553e67b1583baad65a2834}
       \strng{authornamehash}{3c49b65b38851c1986af8f94be72a387}
       \strng{authorfullhash}{c2204ff979553e67b1583baad65a2834}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-88-7959-712-8}
@@ -1119,48 +1161,6 @@
       \verb 10.1021/ar500152x
       \endverb
       \keyw{transgenic mice,design,(-)-epigallocatechin-3-gallate,aggregation,diphenylpropynone derivatives,egcg,neurotoxicity,reactivity,targeting a-beta,toxicity}
-    \endentry
-    \entry{clayden_organic_2012}{book}{}
-      \name{author}{3}{}{%
-        {{hash=a17e660d5309236d0db9f4478e1a6a41}{%
-           family={Clayden},
-           familyi={C\bibinitperiod},
-           given={Jonathan},
-           giveni={J\bibinitperiod}}}%
-        {{hash=3060f9159435ca70a6c66681750de195}{%
-           family={Greeves},
-           familyi={G\bibinitperiod},
-           given={Nick},
-           giveni={N\bibinitperiod}}}%
-        {{hash=44d184459545ac0241bd6210da34317b}{%
-           family={Warren},
-           familyi={W\bibinitperiod},
-           given={Stuart\bibnamedelima G.},
-           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Oxford ; New {YorK}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{1ac918b570bfc56ff407c91131cea330}
-      \strng{fullhash}{9bd9586b6e16c43c8e7c07fd271525f5}
-      \strng{bibnamehash}{9bd9586b6e16c43c8e7c07fd271525f5}
-      \strng{authorbibnamehash}{9bd9586b6e16c43c8e7c07fd271525f5}
-      \strng{authornamehash}{1ac918b570bfc56ff407c91131cea330}
-      \strng{authorfullhash}{9bd9586b6e16c43c8e7c07fd271525f5}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2nd ed}
-      \field{isbn}{978-0-19-927029-3}
-      \field{pagetotal}{1234}
-      \field{title}{Organic chemistry}
-      \field{year}{2012}
-      \field{dateera}{ce}
-      \keyw{Chemistry,Organic,Textbooks}
     \endentry
     \entry{nicolaou_palladium-catalyzed_2005}{article}{}
       \name{author}{3}{}{%

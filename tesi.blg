@@ -1,19 +1,19 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
-[0] Config.pm:305> INFO - Logfile is 'tesi.blg'
-[83] biber:313> INFO - === mer nov 28, 2018, 08:14:13
-[138] Biber.pm:371> INFO - Reading 'tesi.bcf'
-[282] Biber.pm:857> INFO - Found 27 citekeys in bib section 0
-[329] Biber.pm:3976> INFO - Processing section 0
-[357] Biber.pm:4136> INFO - Looking for bibtex format file 'biblio.bib' for section 0
-[368] bibtex.pm:1489> INFO - LaTeX decoding ...
-[679] bibtex.pm:1305> INFO - Found BibTeX data source 'biblio.bib'
-[731] Utils.pm:193> WARN - ISBN '978-0-89042-554-1 978-0-89042-555-8' in entry 'american_psychiatric_association_diagnostic_2013' is invalid - run biber with '--validate_datamodel' for details.
-[767] Utils.pm:193> WARN - ISBN '978-0-12-443710-4 978-0-12-443711-1 978-0-12-443712-8 978-0-12-443713-5 978-0-12-443714-2' in entry 'lennarz_encyclopedia_2004' is invalid - run biber with '--validate_datamodel' for details.
-[1260] Utils.pm:193> WARN - I didn't find a database entry for 'noauthor_design_2017' (section 0)
-[1326] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1326] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1327] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'it-IT'
-[1327] Biber.pm:3810> INFO - No sort tailoring available for locale 'it-IT'
-[1391] bbl.pm:617> INFO - Writing 'tesi.bbl' with encoding 'UTF-8'
-[1432] bbl.pm:720> INFO - Output to tesi.bbl
-[1433] Biber.pm:110> INFO - WARNINGS: 3
+[1] Config.pm:305> INFO - Logfile is 'tesi.blg'
+[72] biber:313> INFO - === mer nov 28, 2018, 13:57:26
+[127] Biber.pm:371> INFO - Reading 'tesi.bcf'
+[319] Biber.pm:857> INFO - Found 27 citekeys in bib section 0
+[357] Biber.pm:3976> INFO - Processing section 0
+[387] Biber.pm:4136> INFO - Looking for bibtex format file 'biblio.bib' for section 0
+[401] bibtex.pm:1489> INFO - LaTeX decoding ...
+[727] bibtex.pm:1305> INFO - Found BibTeX data source 'biblio.bib'
+[776] Utils.pm:193> WARN - ISBN '978-0-89042-554-1 978-0-89042-555-8' in entry 'american_psychiatric_association_diagnostic_2013' is invalid - run biber with '--validate_datamodel' for details.
+[839] Utils.pm:193> WARN - ISBN '978-0-12-443710-4 978-0-12-443711-1 978-0-12-443712-8 978-0-12-443713-5 978-0-12-443714-2' in entry 'lennarz_encyclopedia_2004' is invalid - run biber with '--validate_datamodel' for details.
+[1292] Utils.pm:193> WARN - I didn't find a database entry for 'noauthor_design_2017' (section 0)
+[1336] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1336] UCollate.pm:68> INFO - Overriding locale 'it-IT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1337] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'it-IT'
+[1337] Biber.pm:3810> INFO - No sort tailoring available for locale 'it-IT'
+[1397] bbl.pm:617> INFO - Writing 'tesi.bbl' with encoding 'UTF-8'
+[1425] bbl.pm:720> INFO - Output to tesi.bbl
+[1425] Biber.pm:110> INFO - WARNINGS: 3
