@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  27 NOV 2018 21:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.10.25)  28 NOV 2018 08:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -732,7 +732,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'tesi.bbl' found.
- (./tesi.bbl)
+ (./tesi.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                noauthor_design_2017
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 29.
 Package biblatex Info: Reference segment=0 on input line 29.
  [0
@@ -793,157 +801,170 @@ File: immagini/oly_resveratrolo.png Graphic file (type png)
 <use immagini/oly_resveratrolo.png>
 Package pdftex.def Info: immagini/oly_resveratrolo.png  used on input line 220.
 (pdftex.def)             Requested size: 390.0pt x 447.7868pt.
- [13 <./immagini/oly_resveratrolo.png>]
-<immagini/ris_resveratrolo.png, id=79, 165.4983pt x 114.6684pt>
-File: immagini/ris_resveratrolo.png Graphic file (type png)
-<use immagini/ris_resveratrolo.png>
-Package pdftex.def Info: immagini/ris_resveratrolo.png  used on input line 229.
+
+
+LaTeX Warning: Reference `fig:ris_resveratrolo' on page 13 undefined on input line 225.
+
+[13 <./immagini/oly_resveratrolo.png>]
+<immagini/risache_resveratrolo.png, id=79, 165.4983pt x 114.6684pt>
+File: immagini/risache_resveratrolo.png Graphic file (type png)
+<use immagini/risache_resveratrolo.png>
+Package pdftex.def Info: immagini/risache_resveratrolo.png  used on input line 229.
 (pdftex.def)             Requested size: 350.99762pt x 243.23755pt.
- [14 <./immagini/ris_resveratrolo.png>]
-<immagini/apo_resveratrolo.png, id=85, 278.9622pt x 183.5658pt>
+ [14 <./immagini/risache_resveratrolo.png>]
+<immagini/risbuche_resveratrolo.png, id=85, 244.0317pt x 169.1118pt>
+File: immagini/risbuche_resveratrolo.png Graphic file (type png)
+<use immagini/risbuche_resveratrolo.png>
+Package pdftex.def Info: immagini/risbuche_resveratrolo.png  used on input line 238.
+(pdftex.def)             Requested size: 350.99762pt x 243.2679pt.
+ [15 <./immagini/risbuche_resveratrolo.png>]
+<immagini/apo_resveratrolo.png, id=90, 278.9622pt x 183.5658pt>
 File: immagini/apo_resveratrolo.png Graphic file (type png)
 <use immagini/apo_resveratrolo.png>
-Package pdftex.def Info: immagini/apo_resveratrolo.png  used on input line 242.
+Package pdftex.def Info: immagini/apo_resveratrolo.png  used on input line 252.
 (pdftex.def)             Requested size: 390.0pt x 256.65143pt.
- [15 <./immagini/apo_resveratrolo.png>]
-<immagini/roi_resveratrolo.png, id=90, 299.4387pt x 99.2508pt>
+ [16 <./immagini/apo_resveratrolo.png>]
+<immagini/roi_resveratrolo.png, id=96, 299.4387pt x 99.2508pt>
 File: immagini/roi_resveratrolo.png Graphic file (type png)
 <use immagini/roi_resveratrolo.png>
-Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 251.
+Package pdftex.def Info: immagini/roi_resveratrolo.png  used on input line 261.
 (pdftex.def)             Requested size: 390.0pt x 129.26678pt.
- [16 <./immagini/roi_resveratrolo.png>]
-<immagini/curcumina.png, id=96, 1172.38pt x 417.56pt>
+ [17 <./immagini/roi_resveratrolo.png>]
+<immagini/curcumina.png, id=101, 1172.38pt x 417.56pt>
 File: immagini/curcumina.png Graphic file (type png)
 <use immagini/curcumina.png>
-Package pdftex.def Info: immagini/curcumina.png  used on input line 277.
+Package pdftex.def Info: immagini/curcumina.png  used on input line 287.
 (pdftex.def)             Requested size: 234.00238pt x 83.33849pt.
- [17 <./immagini/curcumina.png>]
-<immagini/generale_curcdone.png, id=101, 281.6121pt x 178.5069pt>
+ [18 <./immagini/curcumina.png>]
+<immagini/generale_curcdone.png, id=106, 281.6121pt x 178.5069pt>
 File: immagini/generale_curcdone.png Graphic file (type png)
 <use immagini/generale_curcdone.png>
-Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 288.
+Package pdftex.def Info: immagini/generale_curcdone.png  used on input line 298.
 (pdftex.def)             Requested size: 390.0pt x 247.22498pt.
- [18 <./immagini/generale_curcdone.png>]
-<immagini/farmadone_curcdone.png, id=106, 325.4559pt x 113.9457pt>
+ [19 <./immagini/generale_curcdone.png>]
+<immagini/farmadone_curcdone.png, id=111, 325.4559pt x 113.9457pt>
 File: immagini/farmadone_curcdone.png Graphic file (type png)
 <use immagini/farmadone_curcdone.png>
-Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 306.
+Package pdftex.def Info: immagini/farmadone_curcdone.png  used on input line 316.
 (pdftex.def)             Requested size: 390.0pt x 136.54984pt.
- [19]
-<immagini/farmacurc_curcdone.png, id=110, 327.8649pt x 127.9179pt>
+ [20]
+<immagini/farmacurc_curcdone.png, id=115, 327.8649pt x 127.9179pt>
 File: immagini/farmacurc_curcdone.png Graphic file (type png)
 <use immagini/farmacurc_curcdone.png>
-Package pdftex.def Info: immagini/farmacurc_curcdone.png  used on input line 321.
+Package pdftex.def Info: immagini/farmacurc_curcdone.png  used on input line 331.
 (pdftex.def)             Requested size: 390.0pt x 152.16951pt.
- [20 <./immagini/farmadone_curcdone.png>]
-<immagini/condserie1_curcdone.png, id=115, 370.7451pt x 147.6717pt>
+ [21 <./immagini/farmadone_curcdone.png>]
+<immagini/condserie1_curcdone.png, id=120, 370.7451pt x 147.6717pt>
 File: immagini/condserie1_curcdone.png Graphic file (type png)
 <use immagini/condserie1_curcdone.png>
-Package pdftex.def Info: immagini/condserie1_curcdone.png  used on input line 336.
+Package pdftex.def Info: immagini/condserie1_curcdone.png  used on input line 346.
 (pdftex.def)             Requested size: 390.0pt x 155.35052pt.
- [21 <./immagini/farmacurc_curcdone.png>]
-<immagini/condserie2_curcdone.png, id=120, 349.305pt x 106.7187pt>
+ [22 <./immagini/farmacurc_curcdone.png>]
+<immagini/condserie2_curcdone.png, id=126, 349.305pt x 106.7187pt>
 File: immagini/condserie2_curcdone.png Graphic file (type png)
 <use immagini/condserie2_curcdone.png>
-Package pdftex.def Info: immagini/condserie2_curcdone.png  used on input line 349.
+Package pdftex.def Info: immagini/condserie2_curcdone.png  used on input line 359.
 (pdftex.def)             Requested size: 390.0pt x 119.15935pt.
- [22 <./immagini/condserie1_curcdone.png> <./immagini/condserie2_curcdone.png>]
-<immagini/tabellacomposti_curcdone.png, id=127, 266.4354pt x 182.3613pt>
+ [23 <./immagini/condserie1_curcdone.png> <./immagini/condserie2_curcdone.png>]
+<immagini/tabellacomposti_curcdone.png, id=132, 266.4354pt x 182.3613pt>
 File: immagini/tabellacomposti_curcdone.png Graphic file (type png)
 <use immagini/tabellacomposti_curcdone.png>
-Package pdftex.def Info: immagini/tabellacomposti_curcdone.png  used on input line 361.
+Package pdftex.def Info: immagini/tabellacomposti_curcdone.png  used on input line 371.
 (pdftex.def)             Requested size: 312.00119pt x 213.57054pt.
- [23 <./immagini/tabellacomposti_curcdone.png>] [24]
-<immagini/roi_curcdone.png, id=135, 262.581pt x 31.7988pt>
+ [24 <./immagini/tabellacomposti_curcdone.png>] [25]
+<immagini/roi_curcdone.png, id=140, 262.581pt x 31.7988pt>
 File: immagini/roi_curcdone.png Graphic file (type png)
 <use immagini/roi_curcdone.png>
-Package pdftex.def Info: immagini/roi_curcdone.png  used on input line 385.
+Package pdftex.def Info: immagini/roi_curcdone.png  used on input line 395.
 (pdftex.def)             Requested size: 390.0pt x 47.23225pt.
- [25 <./immagini/roi_curcdone.png>]
-<immagini/selfab_curcdone.png, id=140, 262.581pt x 41.6757pt>
+ [26 <./immagini/roi_curcdone.png>]
+<immagini/selfab_curcdone.png, id=145, 262.581pt x 41.6757pt>
 File: immagini/selfab_curcdone.png Graphic file (type png)
 <use immagini/selfab_curcdone.png>
-Package pdftex.def Info: immagini/selfab_curcdone.png  used on input line 397.
+Package pdftex.def Info: immagini/selfab_curcdone.png  used on input line 407.
 (pdftex.def)             Requested size: 390.0pt x 61.90288pt.
-<immagini/metab_curcdone.png, id=141, 258.7266pt x 191.9973pt>
+<immagini/metab_curcdone.png, id=146, 258.7266pt x 191.9973pt>
 File: immagini/metab_curcdone.png Graphic file (type png)
 <use immagini/metab_curcdone.png>
-Package pdftex.def Info: immagini/metab_curcdone.png  used on input line 406.
+Package pdftex.def Info: immagini/metab_curcdone.png  used on input line 416.
 (pdftex.def)             Requested size: 390.0pt x 289.419pt.
- [26 <./immagini/selfab_curcdone.png>] [27 <./immagini/metab_curcdone.png>]
-<immagini/bpy.png, id=150, 240.097pt x 82.709pt>
+ [27 <./immagini/selfab_curcdone.png>] [28 <./immagini/metab_curcdone.png>]
+<immagini/bpy.png, id=156, 240.097pt x 82.709pt>
 File: immagini/bpy.png Graphic file (type png)
 <use immagini/bpy.png>
-Package pdftex.def Info: immagini/bpy.png  used on input line 431.
+Package pdftex.def Info: immagini/bpy.png  used on input line 441.
 (pdftex.def)             Requested size: 195.0pt x 67.17438pt.
- [28]
-<immagini/bpy_mod.png, id=155, 304.9794pt x 125.5089pt>
+ [29]
+<immagini/bpy_mod.png, id=160, 304.9794pt x 125.5089pt>
 File: immagini/bpy_mod.png Graphic file (type png)
 <use immagini/bpy_mod.png>
-Package pdftex.def Info: immagini/bpy_mod.png  used on input line 442.
+Package pdftex.def Info: immagini/bpy_mod.png  used on input line 452.
 (pdftex.def)             Requested size: 390.0pt x 160.50143pt.
- [29 <./immagini/bpy.png>]
-<immagini/rea_g.png, id=160, 333.8874pt x 64.3203pt>
+ [30 <./immagini/bpy.png>]
+<immagini/rea_g.png, id=165, 333.8874pt x 64.3203pt>
 File: immagini/rea_g.png Graphic file (type png)
 <use immagini/rea_g.png>
-Package pdftex.def Info: immagini/rea_g.png  used on input line 457.
+Package pdftex.def Info: immagini/rea_g.png  used on input line 467.
 (pdftex.def)             Requested size: 390.0pt x 75.13174pt.
- [30 <./immagini/bpy_mod.PNG>]
-<immagini/stille.png, id=165, 341.77687pt x 266.49562pt>
+ [31 <./immagini/bpy_mod.PNG>]
+<immagini/stille.png, id=170, 341.77687pt x 266.49562pt>
 File: immagini/stille.png Graphic file (type png)
 <use immagini/stille.png>
-Package pdftex.def Info: immagini/stille.png  used on input line 474.
+Package pdftex.def Info: immagini/stille.png  used on input line 484.
 (pdftex.def)             Requested size: 350.99762pt x 273.70467pt.
 
-Underfull \hbox (badness 1960) in paragraph at lines 475--475
-[]\OT1/cmr/m/n/12 Figura 25: |Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-
+Underfull \hbox (badness 1960) in paragraph at lines 485--485
+[]\OT1/cmr/m/n/12 Figura 26: |Rap-pre-sen-ta-zio-ne sche-ma-ti-ca del ci-clo ca-ta-li-ti-co coin-vol-
  []
 
-[31 <./immagini/rea_g.png>] [32 <./immagini/stille.png>]
-<immagini/ris_bpy.png, id=174, 183.3249pt x 174.8934pt>
+[32 <./immagini/rea_g.png>] [33 <./immagini/stille.png>]
+<immagini/ris_bpy.png, id=179, 183.3249pt x 174.8934pt>
 File: immagini/ris_bpy.png Graphic file (type png)
 <use immagini/ris_bpy.png>
-Package pdftex.def Info: immagini/ris_bpy.png  used on input line 497.
+Package pdftex.def Info: immagini/ris_bpy.png  used on input line 507.
 (pdftex.def)             Requested size: 390.0pt x 372.08522pt.
- [33]
-<immagini/ris_bpy2.png, id=178, 175.6161pt x 114.9093pt>
+ [34]
+<immagini/ris_bpy2.png, id=184, 175.6161pt x 114.9093pt>
 File: immagini/ris_bpy2.png Graphic file (type png)
 <use immagini/ris_bpy2.png>
-Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 504.
+Package pdftex.def Info: immagini/ris_bpy2.png  used on input line 514.
 (pdftex.def)             Requested size: 390.0pt x 255.21562pt.
- [34 <./immagini/ris_bpy.png>] [35 <./immagini/ris_bpy2.png>] [36] [37] [38]
-Overfull \hbox (20.25792pt too wide) in paragraph at lines 531--531
+ [35 <./immagini/ris_bpy.png>] [36 <./immagini/ris_bpy2.png>] [37] [38] [39]
+Overfull \hbox (20.25792pt too wide) in paragraph at lines 541--541
 []\OT1/cmr/m/n/12 Goedert, M.; Spil-lan-ti-ni, M. G. \OT1/cmr/m/it/12 Scien-ce \OT1/cmr/bx/n/12 2006\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 314\OT1/cmr/m/n/12 , WOS:000241729800034,
  []
 
 
-Overfull \hbox (27.06503pt too wide) in paragraph at lines 531--531
+Overfull \hbox (27.06503pt too wide) in paragraph at lines 541--541
 \OT1/cmr/m/it/12 Scien-ces of the Uni-ted Sta-tes of Ame-ri-ca \OT1/cmr/bx/n/12 2012\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 109\OT1/cmr/m/n/12 , WOS:000300828200011,
  []
 
-[39] [40]
-Overfull \hbox (8.29393pt too wide) in paragraph at lines 531--531
+[40] [41]
+Overfull \hbox (8.29393pt too wide) in paragraph at lines 541--541
 []\OT1/cmr/m/n/12 Kurien, B. T.; Sco-field, R. H. \OT1/cmr/m/it/12 Me-thods \OT1/cmr/bx/n/12 2006\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 38\OT1/cmr/m/n/12 , WOS:000236599100006,
  []
 
-[41] (./tesi.aux)
+[42] (./tesi.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'tesi.run.xml'.
 \openout1 = `tesi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21047 strings out of 492641
- 394253 string characters out of 6131786
- 785352 words of memory out of 5000000
- 24742 multiletter control sequences out of 15000+600000
+ 21069 strings out of 492641
+ 394817 string characters out of 6131786
+ 785326 words of memory out of 5000000
+ 24763 multiletter control sequences out of 15000+600000
  540137 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,12n,73p,3991b,1375s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on tesi.pdf (44 pages, 3601258 bytes).
+Output written on tesi.pdf (45 pages, 3639679 bytes).
 PDF statistics:
- 245 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
+ 250 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 

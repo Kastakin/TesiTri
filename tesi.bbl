@@ -797,39 +797,47 @@
       \endverb
       \keyw{anticholinesterase activity,heyneanol A,thioflavine T,Vitis amurensis,vitisin A,β-amyloid aggregation}
     \endentry
-    \entry{noauthor_protective_2003}{article}{}
+    \entry{jang_protective_2003}{article}{}
+      \name{author}{2}{}{%
+        {{hash=958d5cde63a46d6eec13452047153332}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f1285b7db339b30788272b7a0cb9edcb}{%
+           family={Surh},
+           familyi={S\bibinitperiod},
+           given={Y.\bibnamedelimi J.},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe68f9df1d9ca5e2b2b1293934de530c}
+      \strng{fullhash}{fe68f9df1d9ca5e2b2b1293934de530c}
+      \strng{bibnamehash}{fe68f9df1d9ca5e2b2b1293934de530c}
+      \strng{authorbibnamehash}{fe68f9df1d9ca5e2b2b1293934de530c}
+      \strng{authornamehash}{fe68f9df1d9ca5e2b2b1293934de530c}
+      \strng{authorfullhash}{fe68f9df1d9ca5e2b2b1293934de530c}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Beta-amyloid peptide is considered to be responsible for the formation of senile plaques that accumulate in the brains of patients with Alzheimer’s di…}
+      \field{abstract}{Beta-amyloid peptide is considered to be responsible for the formation of senile plaques that accumulate in the brains of patients with Alzheimer's disease. There has been compelling evidence supporting the idea that beta-amyloid-induced cytotoxicity is mediated through the generation of reactive oxygen intermediates ({ROIs}). Considerable attention has been focused on identifying phytochemicals that are able to scavenge excess {ROIs}, thereby protecting against oxidative stress and cell death. Resveratrol (3,5,4'-trihydroxy-trans-stilbene), a phytoalexin found in the skin of grapes, has strong antioxidative properties that have been associated with the protective effects of red wine consumption against coronary heart disease ("the French paradox"). In this study, we have investigated the effects of resveratrol on beta-amyloid-induced oxidative cell death in cultured rat pheochromocytoma ({PC}12) cells. {PC}12 cells treated with beta-amyloid exhibited increased accumulation of intracellular {ROI} and underwent apoptotic death as determined by characteristic morphological alterations and positive in situ terminal end-labeling ({TUNEL} staining). Beta-amyloid treatment also led to the decreased mitochondrial membrane potential, the cleavage of poly({ADPribose})polymerase, an increase in the Bax/Bcl-X-L ratio, and activation of c-Jun N-terminal kinase. Resveratrol attenuated beta-amyloid-induced cytotoxicity, apoptotic features, and intracellular {ROI} accumulation. Beta-amyloid transiently induced activation of {NF}-{kappaB} in {PC}12 cells, which was suppressed by resveratrol pretreatment. (C) 2003 Elsevier Inc.}
       \field{day}{15}
       \field{issn}{0891-5849}
       \field{journaltitle}{Free Radical Biology and Medicine}
-      \field{langid}{english}
       \field{month}{4}
+      \field{note}{{WOS}:000182230700016}
       \field{number}{8}
-      \field{title}{Protective effect of resveratrol on β-amyloid-induced oxidative {PC}12 cell death}
-      \field{urlday}{18}
-      \field{urlmonth}{11}
-      \field{urlyear}{2018}
+      \field{shortjournal}{Free Radic. Biol. Med.}
+      \field{title}{Protective effect of resveratrol on beta-amyloid-induced oxidative {PC}12 cell death}
       \field{volume}{34}
       \field{year}{2003}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{1100\bibrangedash 1110}
       \range{pages}{11}
       \verb{doi}
       \verb 10.1016/S0891-5849(03)00062-5
       \endverb
-      \verb{file}
-      \verb Snapshot:/home/lorenzo/Zotero/storage/3HM5YYAW/S0891584903000625.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/S0891584903000625
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/S0891584903000625
-      \endverb
+      \keyw{alzheimers-disease,apoptosis,beta-amyloid,c-jun,cancer chemopreventive activity,dna-damage,free radicals,french paradox,induced activation,induced apoptosis,{NF}-kappa B,nf-kappa-b,oxidative stress,{PC}12 cells,protein toxicity,reactive oxygen intermediates,resveratrol,trans-resveratrol}
     \endentry
     \entry{jiang_traditional_2017}{article}{}
       \name{author}{3}{}{%
@@ -927,40 +935,6 @@
       \field{title}{Chimica organica}
       \field{year}{2012}
       \field{dateera}{ce}
-    \endentry
-    \entry{noauthor_design_2017}{article}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labeltitlesource}{title}
-      \field{abstract}{By fusing donepezil and curcumin, a novel series of compounds were obtained as multitarget-directed ligands against Alzheimer’s disease. Among them, c…}
-      \field{day}{15}
-      \field{issn}{0968-0896}
-      \field{journaltitle}{Bioorganic \& Medicinal Chemistry}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{number}{12}
-      \field{title}{Design, synthesis, and evaluation of multitarget-directed ligands against Alzheimer’s disease based on the fusion of donepezil and curcumin}
-      \field{urlday}{31}
-      \field{urlmonth}{10}
-      \field{urlyear}{2018}
-      \field{volume}{25}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{2946\bibrangedash 2955}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1016/j.bmc.2017.02.048
-      \endverb
-      \verb{file}
-      \verb 2017 - Design, synthesis, and evaluation of multitarget-d.pdf:/home/lorenzo/Zotero/storage/74VCFJ9H/2017 - Design, synthesis, and evaluation of multitarget-d.pdf:application/pdf;Snapshot:/home/lorenzo/Zotero/storage/N48EECT8/S0968089616315334.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://www.sciencedirect.com/science/article/pii/S0968089616315334
-      \endverb
-      \verb{url}
-      \verb http://www.sciencedirect.com/science/article/pii/S0968089616315334
-      \endverb
     \endentry
     \entry{di_high_2003}{article}{}
       \name{author}{5}{}{%
@@ -1371,6 +1345,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{noauthor_design_2017}
 \endrefsection
 \endinput
 

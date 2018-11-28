@@ -213,9 +213,12 @@ INPUT ./immagini/colina.png
 INPUT immagini/oly_resveratrolo.png
 INPUT ./immagini/oly_resveratrolo.png
 INPUT ./immagini/oly_resveratrolo.png
-INPUT immagini/ris_resveratrolo.png
-INPUT ./immagini/ris_resveratrolo.png
-INPUT ./immagini/ris_resveratrolo.png
+INPUT immagini/risache_resveratrolo.png
+INPUT ./immagini/risache_resveratrolo.png
+INPUT ./immagini/risache_resveratrolo.png
+INPUT immagini/risbuche_resveratrolo.png
+INPUT ./immagini/risbuche_resveratrolo.png
+INPUT ./immagini/risbuche_resveratrolo.png
 INPUT immagini/apo_resveratrolo.png
 INPUT ./immagini/apo_resveratrolo.png
 INPUT ./immagini/apo_resveratrolo.png
