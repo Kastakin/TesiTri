@@ -193,6 +193,7 @@
       \field{langid}{english}
       \field{month}{10}
       \field{number}{4}
+      \field{shortjournal}{Physiol. Rev.}
       \field{title}{Cellular actions of beta-amyloid precursor protein and its soluble and fibrillogenic derivatives}
       \field{urlday}{2}
       \field{urlmonth}{11}
@@ -587,6 +588,7 @@
       \field{langid}{english}
       \field{month}{9}
       \field{number}{9}
+      \field{shortjournal}{{CNS} Neurosci. Ther.}
       \field{shorttitle}{Cholinesterase targeting by polyphenols}
       \field{title}{Cholinesterase targeting by polyphenols: A therapeutic approach for the treatment of Alzheimer’s disease}
       \field{urlday}{31}
@@ -815,6 +817,7 @@
       \field{langid}{english}
       \field{month}{4}
       \field{number}{4}
+      \field{shortjournal}{Phytother. Res.}
       \field{title}{Inhibition of cholinesterase and amyloid-β aggregation by resveratrol oligomers from Vitis amurensis}
       \field{urlday}{18}
       \field{urlmonth}{11}
@@ -879,7 +882,7 @@
       \verb{doi}
       \verb 10.1016/S0891-5849(03)00062-5
       \endverb
-      \keyw{alzheimers-disease,apoptosis,beta-amyloid,c-jun,cancer chemopreventive activity,dna-damage,free radicals,french paradox,induced activation,induced apoptosis,{NF}-kappa B,nf-kappa-b,oxidative stress,{PC}12 cells,protein toxicity,reactive oxygen intermediates,resveratrol,trans-resveratrol}
+      \keyw{resveratrol,oxidative stress,alzheimers-disease,apoptosis,beta-amyloid,c-jun,cancer chemopreventive activity,dna-damage,free radicals,french paradox,induced activation,induced apoptosis,{NF}-kappa B,nf-kappa-b,{PC}12 cells,protein toxicity,reactive oxygen intermediates,trans-resveratrol}
     \endentry
     \entry{jiang_traditional_2017}{article}{}
       \name{author}{3}{}{%
@@ -914,6 +917,7 @@
       \field{journaltitle}{Bioorganic Chemistry}
       \field{langid}{english}
       \field{month}{12}
+      \field{shortjournal}{Bioorg. Chem.}
       \field{shorttitle}{Traditional Chinese medicinal herbs as potential {AChE} inhibitors for anti-Alzheimer’s disease}
       \field{title}{Traditional Chinese medicinal herbs as potential {AChE} inhibitors for anti-Alzheimer’s disease: A review}
       \field{urlday}{24}
@@ -1016,6 +1020,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{12}
+      \field{shortjournal}{Bioorgan. Med. Chem.}
       \field{title}{Design, synthesis, and evaluation of multitarget-directed ligands against Alzheimer’s disease based on the fusion of donepezil and curcumin}
       \field{urlday}{31}
       \field{urlmonth}{10}
@@ -1258,6 +1263,7 @@
       \field{langid}{english}
       \field{month}{7}
       \field{number}{29}
+      \field{shortjournal}{Angew. Chem. Int. Edit.}
       \field{title}{Palladium-Catalyzed Cross-Coupling Reactions in Total Synthesis}
       \field{urlday}{11}
       \field{urlmonth}{11}
@@ -1382,6 +1388,7 @@
       \field{langid}{english}
       \field{month}{6}
       \field{number}{11}
+      \field{shortjournal}{Inorg. Chem.}
       \field{title}{Strategic Design of 2,2′-Bipyridine Derivatives to Modulate Metal–Amyloid-β Aggregation}
       \field{urlday}{5}
       \field{urlmonth}{11}

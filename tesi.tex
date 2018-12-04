@@ -11,6 +11,23 @@
 \usepackage[style = chem-acs]{biblatex}
 
 
+\renewbibmacro*{journal}{%
+	\iffieldundef{shortjournal}
+	{%
+		\iffieldundef{journaltitle}
+		{}
+		{%
+			\printtext[journaltitle]
+			{%
+				\printfield[titlecase]{journaltitle}%
+				\setunit{\subtitlepunct}%
+				\printfield[titlecase]{journalsubtitle}%
+			}%
+		}%
+	}
+	{\printtext[journaltitle]{\printfield[titlecase]{shortjournal}}}%
+}
+
 \bibliography{biblio.bib}
 
 
@@ -26,7 +43,7 @@
 	\and
 	Candidato: Lorenzo Castellino
 }
-\date{Anno Accademico 2018-2019}
+\date{Anno Accademico 2017-2018}
 
 \begin{document}
 \pagenumbering{gobble}
@@ -250,16 +267,15 @@ Altro paramentro importante nella regolazione dell'attività enzimatica è la pr
 	\label{fig:risbuche_resveratrolo}
 \end{figure}
 
-
 Il secondo metodo d'azione del Resveratrolo è legato, come anticipato sopra, ad una diminuzione della tossicità dei depositi proteici di A$\beta$. In particolare l'azione osservata è una diminuzione nel numero di fenomeni di  apoptosi nelle cellule neuronali e un ridursi in concentrazione di specie reattive ossidanti (ROI) nocive per l'organismo la cui formazione è promossa dalle fibrille stesse.
 
 Gli esperimenti condotti ai fini di avvalorare l'importanza dal punto di vista medico del composto sono stati eseguiti utilizzando cellule della serie PC12, cellule di feocromocitoma di ratto.
 
-Come si può osservare nella Figura \ref{fig:apo_resveratrolo} l'aggiunta di Resveratrolo in presenza di A$\beta$ ha dimostrato una diminuzione della mortalità cellulare dopo un periodo d'incubazione di 36h. Il dato è forse ancora più evidente se si osserva la frammentazione del DNA evidenziata nella stessa figura nei pannelli (d), (e) ed (f).
+Come si può osservare nella Figura \ref{fig:apo_resveratrolo} l'aggiunta di Resveratrolo in presenza di A$\beta$ ha dimostrato una diminuzione della mortalità cellulare dopo un periodo d'incubazione di 36h. Il dato è ancora più evidente se si osserva la frammentazione del DNA evidenziata nella stessa figura nei pannelli (d), (e) ed (f).
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=\linewidth]{immagini/apo_resveratrolo.png}
+	\includegraphics[width=.9\linewidth]{immagini/apo_resveratrolo.png}
 	\caption{Immagini al microscopio di cellule PC12 (a) senza alcun trattamento; (b) in soluzione 50$\mu$M di A$\beta$ dopo 36h; (c) in soluzione come (b) con l'aggiunta di Resveratrolo in concentrazione 25$\mu$M. Nei tre ingrandimenti inferiori sono invece state evidenziate le frammentazioni del DNA nelle stesse condizioni di (a), (b) e (c).}
 	\label{fig:apo_resveratrolo}
 \end{figure}
@@ -268,7 +284,7 @@ In Figura \ref{fig:roi_resveratrolo} sono invece riportati i dati relativi alle 
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=\linewidth]{immagini/roi_resveratrolo.png}
+	\includegraphics[width=.9\linewidth]{immagini/roi_resveratrolo.png}
 	\caption{Livelli di perossidi intracellulari evidenziati tramite fluorescenza DCF (a) nessun trattamento; (b) A$\beta$ 25$\mu$M; (c) A$\beta$ 25$\mu$M + Resveratrolo 25$\mu$M.}
 	\label{fig:roi_resveratrolo}
 \end{figure}
