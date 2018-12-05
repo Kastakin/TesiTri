@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber tesi"] 1543916852 "tesi.bcf" "tesi.bbl" "tesi" 1543917186
+["biber tesi"] 1543916852 "tesi.bcf" "tesi.bbl" "tesi" 1544019203
   "biblio.bib" 1543916749 51236 5b933f1c84ce33a1e06d8769b4eb5cb3 ""
-  "tesi.bcf" 1543917186 91943 05d245a8ba0292ef4a9f3a6fa0534586 ""
+  "tesi.bcf" 1544019203 91943 05d245a8ba0292ef4a9f3a6fa0534586 ""
   (generated)
-  "tesi.blg"
   "tesi.bbl"
-["pdflatex"] 1543917175 "tesi.tex" "tesi.pdf" "tesi" 1543917186
+  "tesi.blg"
+["pdflatex"] 1544019187 "tesi.tex" "tesi.pdf" "tesi" 1544019203
   "/etc/texmf/web2c/texmf.cnf" 1540139146 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -140,20 +140,20 @@
   "immagini/selfab_curcdone.png" 1543226957 22236 66feb04db1633af1264d2ac64f032da2 ""
   "immagini/stille.png" 1541363960 115603 45aba109ef54c9d1063e162de6b316fc ""
   "immagini/tabellacomposti_curcdone.png" 1543222054 114024 ebba68bf4889991bfe1564e9a0dafe37 ""
-  "tesi.aux" 1543917186 19165 f0397c1cc2c9bf63c4a3726fda4ee2e7 ""
+  "tesi.aux" 1544019203 19165 f0397c1cc2c9bf63c4a3726fda4ee2e7 ""
   "tesi.bbl" 1543916853 82566 c4ca8eb819e7e2b096d3c58d93805d80 "biber tesi"
-  "tesi.run.xml" 1543917186 2406 641f3dd7b6177a1a10a7eedd166e7396 ""
-  "tesi.tex" 1543917175 53649 bcf5976adb27fa5952553cbe8f83ad03 ""
-  "tesi.toc" 1543917186 3052 c02a2e12107df997f96913f473323e6f ""
+  "tesi.run.xml" 1544019203 2406 641f3dd7b6177a1a10a7eedd166e7396 ""
+  "tesi.tex" 1544019186 53651 0f40f5af21889a6c5ae63c4d6eb9b08d ""
+  "tesi.toc" 1544019203 3052 c02a2e12107df997f96913f473323e6f ""
   (generated)
-  "tesi.log"
-  "tesi.pdf"
   "tesi.toc"
-  "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
-  "tesi.aux"
+  "tesi.pdf"
   "tesi.lof"
-  "tesi.run.xml"
-  "tesi.lot"
   "acs-tesi.bib"
+  "tesi.lot"
   "tesi.bcf"
   "/home/lorenzo/Documenti/Latex/Tesi/tesi.pdf"
+  "tesi.log"
+  "/home/lorenzo/Documenti/Latex/Tesi/tesi.log"
+  "tesi.run.xml"
+  "tesi.aux"
